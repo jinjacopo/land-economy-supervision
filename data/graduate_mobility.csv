@@ -1,0 +1,56 @@
+city,year,net_per_1000
+Turin,2019,20.2
+Turin,2020,9.3
+Turin,2021,5.0
+Turin,2022,5.8
+Turin,2023,28.5
+Genoa,2019,2.2
+Genoa,2020,-1.3
+Genoa,2021,7.0
+Genoa,2022,6.0
+Genoa,2023,-0.9
+Milan,2019,49.0
+Milan,2020,28.9
+Milan,2021,31.1
+Milan,2022,35.5
+Milan,2023,33.4
+Bergamo,2019,1.0
+Bergamo,2020,-5.0
+Bergamo,2021,-0.6
+Bergamo,2022,-0.1
+Bergamo,2023,-2.8
+Brescia,2019,3.2
+Brescia,2020,-2.5
+Brescia,2021,1.5
+Brescia,2022,0.7
+Brescia,2023,-2.4
+Monza-Brianza,2019,10.4
+Monza-Brianza,2020,9.0
+Monza-Brianza,2021,16.8
+Monza-Brianza,2022,21.1
+Monza-Brianza,2023,18.4
+Verona,2019,8.2
+Verona,2020,2.0
+Verona,2021,4.3
+Verona,2022,8.4
+Verona,2023,1.7
+Padua,2019,4.5
+Padua,2020,5.3
+Padua,2021,10.7
+Padua,2022,9.6
+Padua,2023,4.1
+Bologna,2019,48.6
+Bologna,2020,33.0
+Bologna,2021,36.2
+Bologna,2022,46.1
+Bologna,2023,36.7
+Northern Italy,2019,13.2
+Northern Italy,2020,5.9
+Northern Italy,2021,8.7
+Northern Italy,2022,10.7
+Northern Italy,2023,8.8
+Italy,2019,-4.9
+Italy,2020,-5.5
+Italy,2021,-2.7
+Italy,2022,-4.5
+Italy,2023,-6.2

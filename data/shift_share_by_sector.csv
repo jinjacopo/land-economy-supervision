@@ -1,0 +1,199 @@
+city,period,sector,national_thousand_jobs,industry_mix_thousand_jobs,local_thousand_jobs
+Milan,2008-2014,Agriculture,-0.38,-0.05,-3.17
+Milan,2008-2014,Manufacturing,-10.36,-28.48,-0.76
+Milan,2008-2014,"Mining, energy, water",-0.63,0.71,6.71
+Milan,2008-2014,Construction,-3.78,-15.15,14.02
+Milan,2008-2014,"Trade, transport, hotels",-18.72,8.48,9.64
+Milan,2008-2014,ICT,-4.09,-1.19,6.08
+Milan,2008-2014,Finance,-3.74,-3.02,2.56
+Milan,2008-2014,Real estate,-0.76,0.88,0.78
+Milan,2008-2014,Professional & admin,-13.42,31.7,7.12
+Milan,2008-2014,"Public admin, education, health",-10.39,5.73,12.76
+Milan,2008-2014,Other services,-6.18,23.74,18.05
+Milan,2014-2023,Agriculture,0.47,-0.21,0.54
+Milan,2014-2023,Manufacturing,17.43,-10.27,0.94
+Milan,2014-2023,"Mining, energy, water",1.79,0.65,0.76
+Milan,2014-2023,Construction,7.11,5.79,9.4
+Milan,2014-2023,"Trade, transport, hotels",37.16,4.75,38.9
+Milan,2014-2023,ICT,8.19,9.34,16.87
+Milan,2014-2023,Finance,7.1,-11.4,12.2
+Milan,2014-2023,Real estate,1.59,-1.37,3.48
+Milan,2014-2023,Professional & admin,28.71,50.59,6.1
+Milan,2014-2023,"Public admin, education, health",21.3,-0.21,4.32
+Milan,2014-2023,Other services,15.14,-24.0,39.56
+Turin,2008-2014,Agriculture,-0.41,-0.05,-0.34
+Turin,2008-2014,Manufacturing,-8.54,-23.47,1.21
+Turin,2008-2014,"Mining, energy, water",-0.46,0.53,1.14
+Turin,2008-2014,Construction,-2.48,-9.95,4.83
+Turin,2008-2014,"Trade, transport, hotels",-9.12,4.13,-1.31
+Turin,2008-2014,ICT,-1.84,-0.54,4.57
+Turin,2008-2014,Finance,-0.62,-0.5,1.72
+Turin,2008-2014,Real estate,-0.33,0.38,-0.05
+Turin,2008-2014,Professional & admin,-4.82,11.38,4.24
+Turin,2008-2014,"Public admin, education, health",-7.4,4.08,-8.18
+Turin,2008-2014,Other services,-3.61,13.86,-1.75
+Turin,2014-2023,Agriculture,0.74,-0.34,0.39
+Turin,2014-2023,Manufacturing,14.51,-8.55,-14.26
+Turin,2014-2023,"Mining, energy, water",1.02,0.37,-0.69
+Turin,2014-2023,Construction,4.32,3.52,-2.94
+Turin,2014-2023,"Trade, transport, hotels",17.61,2.25,-3.76
+Turin,2014-2023,ICT,3.83,4.36,-11.19
+Turin,2014-2023,Finance,1.28,-2.06,14.88
+Turin,2014-2023,Real estate,0.65,-0.56,0.11
+Turin,2014-2023,Professional & admin,10.44,18.41,-3.65
+Turin,2014-2023,"Public admin, education, health",13.8,-0.14,1.94
+Turin,2014-2023,Other services,7.86,-12.46,1.3
+Genoa,2008-2014,Agriculture,-0.1,-0.01,0.01
+Genoa,2008-2014,Manufacturing,-1.79,-4.92,-3.28
+Genoa,2008-2014,"Mining, energy, water",-0.2,0.23,-0.13
+Genoa,2008-2014,Construction,-0.99,-3.96,5.54
+Genoa,2008-2014,"Trade, transport, hotels",-5.37,2.43,-1.26
+Genoa,2008-2014,ICT,-0.35,-0.1,1.35
+Genoa,2008-2014,Finance,-0.49,-0.4,1.29
+Genoa,2008-2014,Real estate,-0.13,0.15,0.08
+Genoa,2008-2014,Professional & admin,-1.73,4.08,-0.85
+Genoa,2008-2014,"Public admin, education, health",-2.94,1.62,0.12
+Genoa,2008-2014,Other services,-1.58,6.06,0.62
+Genoa,2014-2023,Agriculture,0.18,-0.08,-0.7
+Genoa,2014-2023,Manufacturing,2.76,-1.63,0.07
+Genoa,2014-2023,"Mining, energy, water",0.39,0.14,-0.33
+Genoa,2014-2023,Construction,2.01,1.63,0.66
+Genoa,2014-2023,"Trade, transport, hotels",10.33,1.32,-15.55
+Genoa,2014-2023,ICT,0.76,0.87,-2.13
+Genoa,2014-2023,Finance,1.01,-1.62,-1.99
+Genoa,2014-2023,Real estate,0.27,-0.23,-0.24
+Genoa,2014-2023,Professional & admin,3.55,6.26,-0.52
+Genoa,2014-2023,"Public admin, education, health",5.75,-0.06,-0.99
+Genoa,2014-2023,Other services,3.55,-5.62,1.97
+Bologna,2008-2014,Agriculture,-0.21,-0.03,1.44
+Bologna,2008-2014,Manufacturing,-4.19,-11.51,7.09
+Bologna,2008-2014,"Mining, energy, water",-0.19,0.21,0.47
+Bologna,2008-2014,Construction,-1.26,-5.04,1.89
+Bologna,2008-2014,"Trade, transport, hotels",-4.51,2.04,16.97
+Bologna,2008-2014,ICT,-0.52,-0.15,5.07
+Bologna,2008-2014,Finance,-0.68,-0.55,1.63
+Bologna,2008-2014,Real estate,-0.17,0.2,-0.13
+Bologna,2008-2014,Professional & admin,-2.52,5.96,4.26
+Bologna,2008-2014,"Public admin, education, health",-3.6,1.98,3.62
+Bologna,2008-2014,Other services,-1.92,7.36,-5.04
+Bologna,2014-2023,Agriculture,0.51,-0.23,0.72
+Bologna,2014-2023,Manufacturing,7.63,-4.5,1.06
+Bologna,2014-2023,"Mining, energy, water",0.41,0.15,0.14
+Bologna,2014-2023,Construction,2.14,1.74,-1.19
+Bologna,2014-2023,"Trade, transport, hotels",10.13,1.29,-4.13
+Bologna,2014-2023,ICT,1.38,1.58,1.34
+Bologna,2014-2023,Finance,1.38,-2.22,-0.96
+Bologna,2014-2023,Real estate,0.34,-0.29,-0.05
+Bologna,2014-2023,Professional & admin,5.63,9.93,-2.16
+Bologna,2014-2023,"Public admin, education, health",7.31,-0.07,4.26
+Bologna,2014-2023,Other services,3.84,-6.09,-0.45
+Verona,2008-2014,Agriculture,-0.55,-0.07,2.02
+Verona,2008-2014,Manufacturing,-3.76,-10.32,1.08
+Verona,2008-2014,"Mining, energy, water",-0.17,0.19,0.38
+Verona,2008-2014,Construction,-1.24,-4.97,1.91
+Verona,2008-2014,"Trade, transport, hotels",-4.43,2.01,12.62
+Verona,2008-2014,ICT,-0.35,-0.1,0.46
+Verona,2008-2014,Finance,-0.45,-0.36,0.91
+Verona,2008-2014,Real estate,-0.15,0.17,-0.32
+Verona,2008-2014,Professional & admin,-1.49,3.52,3.17
+Verona,2008-2014,"Public admin, education, health",-2.62,1.44,2.97
+Verona,2008-2014,Other services,-1.11,4.25,2.16
+Verona,2014-2023,Agriculture,1.2,-0.54,3.94
+Verona,2014-2023,Manufacturing,6.43,-3.79,0.46
+Verona,2014-2023,"Mining, energy, water",0.36,0.13,-0.49
+Verona,2014-2023,Construction,2.12,1.73,-0.65
+Verona,2014-2023,"Trade, transport, hotels",9.63,1.23,3.84
+Verona,2014-2023,ICT,0.7,0.8,-0.81
+Verona,2014-2023,Finance,0.9,-1.44,1.14
+Verona,2014-2023,Real estate,0.27,-0.23,-0.04
+Verona,2014-2023,Professional & admin,3.38,5.95,5.77
+Verona,2014-2023,"Public admin, education, health",5.35,-0.05,3.31
+Verona,2014-2023,Other services,2.62,-4.16,4.34
+Padua,2008-2014,Agriculture,-0.33,-0.04,1.07
+Padua,2008-2014,Manufacturing,-4.26,-11.7,5.45
+Padua,2008-2014,"Mining, energy, water",-0.13,0.15,0.58
+Padua,2008-2014,Construction,-1.24,-4.97,2.01
+Padua,2008-2014,"Trade, transport, hotels",-4.59,2.08,-1.99
+Padua,2008-2014,ICT,-0.38,-0.11,3.19
+Padua,2008-2014,Finance,-0.53,-0.43,0.05
+Padua,2008-2014,Real estate,-0.14,0.16,0.38
+Padua,2008-2014,Professional & admin,-1.68,3.98,5.11
+Padua,2008-2014,"Public admin, education, health",-2.64,1.45,4.08
+Padua,2008-2014,Other services,-1.12,4.3,4.62
+Padua,2014-2023,Agriculture,0.71,-0.32,1.81
+Padua,2014-2023,Manufacturing,7.62,-4.49,5.37
+Padua,2014-2023,"Mining, energy, water",0.31,0.11,0.47
+Padua,2014-2023,Construction,2.13,1.73,-1.56
+Padua,2014-2023,"Trade, transport, hotels",8.77,1.12,-2.79
+Padua,2014-2023,ICT,0.98,1.11,-0.49
+Padua,2014-2023,Finance,0.98,-1.57,-1.71
+Padua,2014-2023,Real estate,0.3,-0.26,-0.24
+Padua,2014-2023,Professional & admin,3.94,6.94,1.32
+Padua,2014-2023,"Public admin, education, health",5.47,-0.05,3.48
+Padua,2014-2023,Other services,2.85,-4.52,3.37
+Monza-Brianza,2008-2014,Agriculture,-0.06,-0.01,-0.53
+Monza-Brianza,2008-2014,Manufacturing,-3.95,-10.84,0.99
+Monza-Brianza,2008-2014,"Mining, energy, water",-0.08,0.1,0.59
+Monza-Brianza,2008-2014,Construction,-1.05,-4.21,1.37
+Monza-Brianza,2008-2014,"Trade, transport, hotels",-3.24,1.47,4.27
+Monza-Brianza,2008-2014,ICT,-0.39,-0.11,-0.2
+Monza-Brianza,2008-2014,Finance,-0.39,-0.31,0.11
+Monza-Brianza,2008-2014,Real estate,-0.15,0.18,-0.22
+Monza-Brianza,2008-2014,Professional & admin,-1.69,3.98,-3.2
+Monza-Brianza,2008-2014,"Public admin, education, health",-2.14,1.18,-2.64
+Monza-Brianza,2008-2014,Other services,-1.03,3.96,-1.43
+Monza-Brianza,2014-2023,Agriculture,0.08,-0.04,-0.24
+Monza-Brianza,2014-2023,Manufacturing,6.74,-3.97,-5.67
+Monza-Brianza,2014-2023,"Mining, energy, water",0.22,0.08,-0.09
+Monza-Brianza,2014-2023,Construction,1.78,1.45,-0.72
+Monza-Brianza,2014-2023,"Trade, transport, hotels",6.63,0.85,1.72
+Monza-Brianza,2014-2023,ICT,0.72,0.82,1.26
+Monza-Brianza,2014-2023,Finance,0.73,-1.17,0.04
+Monza-Brianza,2014-2023,Real estate,0.29,-0.25,-0.04
+Monza-Brianza,2014-2023,Professional & admin,3.28,5.78,-1.46
+Monza-Brianza,2014-2023,"Public admin, education, health",3.96,-0.04,2.48
+Monza-Brianza,2014-2023,Other services,2.17,-3.44,4.57
+Bergamo,2008-2014,Agriculture,-0.25,-0.03,-0.02
+Bergamo,2008-2014,Manufacturing,-5.98,-16.43,8.31
+Bergamo,2008-2014,"Mining, energy, water",-0.19,0.21,-0.23
+Bergamo,2008-2014,Construction,-2.14,-8.58,1.91
+Bergamo,2008-2014,"Trade, transport, hotels",-4.29,1.94,2.85
+Bergamo,2008-2014,ICT,-0.35,-0.1,-1.55
+Bergamo,2008-2014,Finance,-0.6,-0.48,-0.52
+Bergamo,2008-2014,Real estate,-0.14,0.17,-0.22
+Bergamo,2008-2014,Professional & admin,-1.96,4.63,-3.47
+Bergamo,2008-2014,"Public admin, education, health",-2.33,1.28,6.54
+Bergamo,2008-2014,Other services,-1.5,5.76,-0.86
+Bergamo,2014-2023,Agriculture,0.47,-0.21,0.54
+Bergamo,2014-2023,Manufacturing,10.76,-6.34,1.18
+Bergamo,2014-2023,"Mining, energy, water",0.35,0.13,0.32
+Bergamo,2014-2023,Construction,3.55,2.88,-4.43
+Bergamo,2014-2023,"Trade, transport, hotels",8.56,1.09,1.14
+Bergamo,2014-2023,ICT,0.53,0.6,-0.23
+Bergamo,2014-2023,Finance,1.06,-1.7,-2.76
+Bergamo,2014-2023,Real estate,0.27,-0.23,-0.34
+Bergamo,2014-2023,Professional & admin,3.83,6.76,5.21
+Bergamo,2014-2023,"Public admin, education, health",5.07,-0.05,6.48
+Bergamo,2014-2023,Other services,3.26,-5.16,-3.29
+Brescia,2008-2014,Agriculture,-0.57,-0.07,-1.06
+Brescia,2008-2014,Manufacturing,-6.55,-17.99,7.14
+Brescia,2008-2014,"Mining, energy, water",-0.23,0.26,0.97
+Brescia,2008-2014,Construction,-2.13,-8.53,-0.85
+Brescia,2008-2014,"Trade, transport, hotels",-5.6,2.54,-7.04
+Brescia,2008-2014,ICT,-0.39,-0.12,-0.99
+Brescia,2008-2014,Finance,-0.75,-0.6,-2.85
+Brescia,2008-2014,Real estate,-0.17,0.2,-0.23
+Brescia,2008-2014,Professional & admin,-2.33,5.5,-1.47
+Brescia,2008-2014,"Public admin, education, health",-3.27,1.8,2.27
+Brescia,2008-2014,Other services,-1.63,6.24,-3.72
+Brescia,2014-2023,Agriculture,0.99,-0.45,0.25
+Brescia,2014-2023,Manufacturing,11.62,-6.85,6.83
+Brescia,2014-2023,"Mining, energy, water",0.54,0.19,1.47
+Brescia,2014-2023,Construction,3.31,2.69,-0.19
+Brescia,2014-2023,"Trade, transport, hotels",10.32,1.32,-1.63
+Brescia,2014-2023,ICT,0.66,0.76,-0.12
+Brescia,2014-2023,Finance,1.15,-1.85,-1.3
+Brescia,2014-2023,Real estate,0.32,-0.28,-0.34
+Brescia,2014-2023,Professional & admin,4.76,8.39,4.45
+Brescia,2014-2023,"Public admin, education, health",6.55,-0.07,5.61
+Brescia,2014-2023,Other services,3.31,-5.24,-1.87
