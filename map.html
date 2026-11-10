@@ -308,6 +308,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Question</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./answer.html"> 
 <span class="menu-text">Answer</span></a>
   </li>  
   <li class="nav-item">
@@ -648,7 +652,7 @@ window._ojs.runtime.interpretFromScriptTags();
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/jinjacopo\.github\.io\/land-economy-supervision\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

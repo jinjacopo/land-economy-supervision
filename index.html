@@ -84,7 +84,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light"><a id="quarto-skip-link" class="visually-hidden-focusable" href="#quarto-document-content">Skip to main content</a><script id="quarto-html-before-body" type="application/javascript">
+<body class="nav-fixed quarto-light"><a id="quarto-skip-link" class="visually-hidden-focusable" href="#quarto-document-content">Skip to main content</a><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
       const bodyEl = window.document.querySelector("body");
@@ -272,6 +272,10 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link active" href="./index.html" aria-current="page"> 
+<span class="menu-text">Question</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./answer.html"> 
 <span class="menu-text">Answer</span></a>
   </li>  
   <li class="nav-item">
@@ -310,7 +314,19 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" aria-labelledby="toc-title" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#the-question" id="toc-the-question" class="nav-link active" data-scroll-target="#the-question">The question</a></li>
+  <li><a href="#where-the-question-comes-from-my-observations" id="toc-where-the-question-comes-from-my-observations" class="nav-link" data-scroll-target="#where-the-question-comes-from-my-observations">Where the question comes from: my observations</a></li>
+  <li><a href="#the-theory-the-coreperiphery-model" id="toc-the-theory-the-coreperiphery-model" class="nav-link" data-scroll-target="#the-theory-the-coreperiphery-model">The theory: the core–periphery model</a></li>
+  <li><a href="#three-possible-answers-hypotheses" id="toc-three-possible-answers-hypotheses" class="nav-link" data-scroll-target="#three-possible-answers-hypotheses">Three possible answers (hypotheses)</a></li>
+  <li><a href="#how-to-read-this-site" id="toc-how-to-read-this-site" class="nav-link" data-scroll-target="#how-to-read-this-site">How to read this site</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content" tabindex="-1">
 
@@ -341,47 +357,16 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><strong>The question.</strong> Is northern Italy collapsing into a single core around Milan, as the core–periphery model predicts, or did the old industrial cities (Turin, Genoa) stall because of what they specialised in? Or did the decline of their industries trigger the move towards Milan?</p>
-<section id="the-answer" class="level2">
-<h2 class="anchored" data-anchor-id="the-answer">The answer</h2>
-<p>Northern Italy is not collapsing into a single core around Milan. Milan is the North’s strongest labour market, and its lead in jobs has grown. But graduates and knowledge jobs, the mobile factors that the core–periphery model says should concentrate in the core, are no more concentrated in Milan today than they were in 2008 (knowledge jobs) or 2001 (graduates), and several other cities have grown alongside it. Turin’s and Genoa’s weaker performance is better explained by problems specific to each city than by Milan’s pull.</p>
-<div class="tiles">
-<div class="tile">
-<div class="value">
-14.2% → 15.9%
-</div>
-<div class="label">
-Milan’s share of northern jobs, 2008–2023
-</div>
-</div>
-<div class="tile">
-<div class="value">
-2.20 → 2.19
-</div>
-<div class="label">
-Milan’s knowledge jobs relative to population (home market ratio): flat
-</div>
-</div>
-<div class="tile">
-<div class="value">
-+14 per 1,000
-</div>
-<div class="label">
-Turin’s net gain of young graduates a year (northern average +9.5)
-</div>
-</div>
-<div class="tile">
-<div class="value">
-r = −0.09
-</div>
-<div class="label">
-Manufacturing specialisation vs job growth, 47 northern provinces: no link
-</div>
-</div>
-</div>
+<section id="the-question" class="level2">
+<h2 class="anchored" data-anchor-id="the-question">The question</h2>
+<blockquote class="blockquote">
+<p><strong>Is northern Italy collapsing into a single core around Milan, as the core–periphery model predicts, or did the old industrial cities (Turin, Genoa) stall because of what they specialised in? Or did the decline of their industries trigger the move towards Milan?</strong></p>
+</blockquote>
+<p>Milan, Turin and Genoa were once the “industrial triangle” that industrialised Italy. Today Milan seems to keep growing, while Turin and Genoa seem to stand still. This project asks why, and whether a model from the course can explain it.</p>
 </section>
-<section id="the-three-hypotheses" class="level2">
-<h2 class="anchored" data-anchor-id="the-three-hypotheses">The three hypotheses</h2>
+<section id="where-the-question-comes-from-my-observations" class="level2">
+<h2 class="anchored" data-anchor-id="where-the-question-comes-from-my-observations">Where the question comes from: my observations</h2>
+<p>I live in Turin, and the question started from what I see around me. These observations are where the ideas come from; they are <strong>not evidence</strong>. Each one was turned into something the data could check.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 33%">
@@ -390,49 +375,94 @@ Manufacturing specialisation vs job growth, 47 northern provinces: no link
 </colgroup>
 <thead>
 <tr class="header">
+<th>What I observe</th>
+<th>What it would mean if true in general</th>
+<th>How it is checked</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Milan is growing more than ever and attracts talent, while Turin is not moving</td>
+<td>Milan is becoming the single core of the North</td>
+<td>Each city’s share of northern jobs, knowledge jobs, population and GDP</td>
+</tr>
+<tr class="even">
+<td>Many students and graduates move to Milan to study or to find a job</td>
+<td>Turin loses graduates to Milan</td>
+<td>Net migration of young graduates; graduates by city in the censuses</td>
+</tr>
+<tr class="odd">
+<td>Searching for finance internships, the offices are in Milan (or Rome), almost never in Turin</td>
+<td>Finance and other knowledge jobs concentrate in Milan</td>
+<td>Knowledge jobs (ICT, finance, professional services) by city</td>
+</tr>
+<tr class="even">
+<td>At the Politecnico di Torino, the big firms recruiting students are mainly Intesa Sanpaolo and Stellantis; the rest are traditional small and medium firms</td>
+<td>Turin has few large employers of graduates and depends on one industry</td>
+<td>Shift-share by sector; manufacturing specialisation</td>
+</tr>
+</tbody>
+</table>
+<p><strong>An idea to test: “Turin trains, Milan employs”.</strong> Turin is a big university city (Politecnico, University of Turin), so it may <em>produce</em> many graduates but not <em>keep</em> them, while Milan employs them.</p>
+</section>
+<section id="the-theory-the-coreperiphery-model" class="level2">
+<h2 class="anchored" data-anchor-id="the-theory-the-coreperiphery-model">The theory: the core–periphery model</h2>
+<p>I use Krugman’s (1991) core–periphery model from Lectures 7–8, in the “footloose entrepreneur” version of Forslid and Ottaviano (2003):</p>
+<ul>
+<li><strong>Who moves:</strong> graduates and knowledge workers. They go where career prospects are better, and firms follow them.</li>
+<li><strong>Who stays:</strong> manufacturing workers whose skills fit one local industry (for example cars in Turin), and the less mobile population.</li>
+<li><strong>The mechanism:</strong> as trade and communication get cheaper, a small advantage grows. More graduates attract more firms, which create more varied jobs, which attract more graduates. In the end, one region becomes the core.</li>
+</ul>
+<p>The model says one city will win, but not <em>which</em> one. History and shocks decide that.</p>
+</section>
+<section id="three-possible-answers-hypotheses" class="level2">
+<h2 class="anchored" data-anchor-id="three-possible-answers-hypotheses">Three possible answers (hypotheses)</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
 <th></th>
 <th>Hypothesis</th>
-<th>Verdict</th>
+<th>The story in one sentence</th>
+<th>What it predicts</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><strong>A</strong></td>
-<td><strong>Milan’s pull.</strong> Graduates and firms concentrate in Milan (Forslid–Ottaviano version of Krugman’s core–periphery model)</td>
-<td><span class="verdict">Fails in its strong form</span>: Milan grows, but it does not absorb the North</td>
+<td><strong>Milan’s pull</strong>: the mechanism <em>inside</em> the core–periphery model</td>
+<td>Graduates move to Milan, firms follow them, so Milan becomes even more attractive while Turin is left behind</td>
+<td>Graduates and knowledge jobs concentrate in Milan faster than people; other cities lose share</td>
 </tr>
 <tr class="even">
 <td><strong>B</strong></td>
-<td><strong>Industry decline.</strong> Turin and Genoa stalled because their industries declined</td>
-<td><span class="verdict">Holds only narrowly</span>: Turin’s particular industry, not manufacturing as such</td>
+<td><strong>Industry decline</strong>: a shock from <em>outside</em> the model</td>
+<td>Cars, steel and shipbuilding shrank for global reasons; Turin and Genoa would have stalled even without Milan</td>
+<td>Turin’s and Genoa’s losses come from the industries they had; manufacturing-specialised cities grow less</td>
 </tr>
 <tr class="odd">
 <td><strong>C</strong></td>
-<td><strong>Shock, then amplification.</strong> The industry decline came first, then Milan’s pull made it worse</td>
-<td><span class="verdict">Timing fits, mechanism doesn’t</span>: Turin declines after 2014, but shows no graduate outflow</td>
+<td><strong>Both, in sequence</strong></td>
+<td>The industry decline weakened Turin first, then Milan’s pull made it worse</td>
+<td>Industry losses first; then the local decline and the graduate outflow speed up</td>
 </tr>
 </tbody>
 </table>
-<p>The best overall account combines a narrow version of B for Turin with a separate, logistics-related decline for Genoa, while Milan grows alongside other cities rather than at their expense.</p>
+<p>The predictions were written down <strong>before</strong> looking at the data, so that the data could prove them wrong.</p>
 </section>
-<section id="explore-the-evidence" class="level2">
-<h2 class="anchored" data-anchor-id="explore-the-evidence">Explore the evidence</h2>
+<section id="how-to-read-this-site" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-read-this-site">How to read this site</h2>
 <ul>
-<li><strong><a href="./part1.html">1. A single core?</a></strong>: who gained share of jobs, knowledge jobs and graduates, and where young graduates move.</li>
-<li><strong><a href="./part2.html">2. Industry decline?</a></strong>: shift-share for any of the nine cities, and specialisation across the North.</li>
-<li><strong><a href="./map.html">Map</a></strong>: growth and specialisation across the 47 northern provinces.</li>
-<li><strong><a href="./method.html">Method &amp; data</a></strong>: theory, hypotheses, tests, sources, limitations and how to reproduce everything.</li>
+<li><strong><a href="./answer.html">Answer</a></strong>: what the data says and which hypothesis fits.</li>
+<li><strong><a href="./part1.html">1. A single core?</a></strong>: the tests of hypothesis A.</li>
+<li><strong><a href="./part2.html">2. Industry decline?</a></strong>: the tests of hypotheses B and C.</li>
+<li><strong><a href="./map.html">Map</a></strong> and <strong><a href="./method.html">Method &amp; data</a></strong>: the full picture, sources and limitations.</li>
 </ul>
-<div class="callout callout-style-simple callout-note">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-body-container">
-<p>All charts are interactive: hover for exact values, and use the controls above each chart. The results describe patterns that are consistent with or against each hypothesis; they do not prove causes.</p>
-</div>
-</div>
-</div>
 
 
 </section>
@@ -559,7 +589,7 @@ Manufacturing specialisation vs job growth, 47 northern provinces: no link
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/jinjacopo\.github\.io\/land-economy-supervision\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

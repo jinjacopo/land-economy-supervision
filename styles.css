@@ -33,3 +33,9 @@
 
 /* Observable inputs: keep labels readable in both themes */
 form label { color: inherit; }
+
+/* Test tables on the Part 1 and Part 2 pages: compact, so seven columns fit */
+.test-table table { font-size: 0.85rem; }
+.test-table th, .test-table td { vertical-align: top; padding: 0.4rem 0.5rem; }
+.test-table td:first-child { white-space: nowrap; }
+.test-table td:last-child { background: rgba(42, 120, 214, 0.07); }
