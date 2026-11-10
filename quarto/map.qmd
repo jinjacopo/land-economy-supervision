@@ -1,0 +1,62 @@
+---
+title: "Map: a polycentric North"
+subtitle: "Growth and specialisation across the 47 northern provinces, 2008–2023"
+toc: false
+---
+
+{{< include _setup.qmd >}}
+
+```{ojs}
+//| output: false
+provinces = FileAttachment("data/provinces.csv").csv({typed: true})
+geo = FileAttachment("data/north_provinces.geojson").json()
+byCode = new Map(provinces.map(d => [d.code, d]))
+```
+
+If northern Italy were collapsing into a single core, growth would be concentrated in Milan and its surroundings. The map shows growth spread across several centres, with Milan, Bologna and the Veneto all growing.
+
+```{ojs}
+//| output: false
+measures = new Map([
+  ["Job growth 2008–2023 (%)", "jobs_growth"],
+  ["Knowledge-job growth 2008–2023 (%)", "knowledge_jobs_growth"],
+  ["Population growth 2008–2023 (%)", "population_growth"],
+  ["Manufacturing specialisation 2008 (location quotient)", "manufacturing_lq_2008"]
+])
+```
+
+```{ojs}
+viewof label = Inputs.select([...measures.keys()], {label: "Show"})
+```
+
+```{ojs}
+//| output: false
+key = measures.get(label)
+isLQ = key === "manufacturing_lq_2008"
+value = f => byCode.get(f.properties.code)[key]
+```
+
+```{ojs}
+Plot.plot({
+  width,  // the page width, so text stays readable on phones
+  height: 520,
+  projection: {type: "mercator", domain: geo},
+  color: isLQ
+    ? {type: "linear", scheme: "blues", legend: true, label}
+    : {type: "diverging", scheme: "rdbu", pivot: 0, symmetric: true, legend: true, label},
+  marks: [
+    // the centroid transform gives each province a point for the hover tooltip
+    Plot.geo(geo.features, Plot.centroid({fill: value, stroke: "white", strokeWidth: 0.6,
+      channels: {Province: f => f.properties.province, [label]: value},
+      tip: {format: {Province: true, [label]: isLQ ? ".2f" : "+.1f", fill: false, x: false, y: false}}})),
+    Plot.text(geo.features, Plot.centroid({
+      filter: f => cities.includes(f.properties.province),
+      text: f => f.properties.province, fill: "currentColor", stroke: "var(--bs-body-bg, white)",
+      strokeWidth: 3, fontSize: 11, fontWeight: 600}))
+  ]
+})
+```
+
+::: {.chart-note}
+Growth: blue = growth, red = decline, centred on 0. Knowledge jobs = ICT + finance + professional and administrative services (Turin's figure includes its unexplained jump in finance jobs). Manufacturing specialisation: 1 = Italian average. Boundaries © EuroGeographics for the administrative boundaries (Eurostat GISCO, NUTS 2021). Data: Eurostat.
+:::

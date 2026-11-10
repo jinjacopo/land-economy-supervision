@@ -1,0 +1,3761 @@
+year,province,share,measure
+2008,Alessandria,1.4084,Jobs
+2008,Aosta,0.4834,Jobs
+2008,Asti,0.6684,Jobs
+2008,Belluno,0.751,Jobs
+2008,Bergamo,3.8552,Jobs
+2008,Biella,0.6007,Jobs
+2008,Bologna,3.8646,Jobs
+2008,Bolzano,2.1035,Jobs
+2008,Brescia,4.6141,Jobs
+2008,Como,1.9311,Jobs
+2008,Cremona,1.2116,Jobs
+2008,Cuneo,2.1303,Jobs
+2008,Ferrara,1.1943,Jobs
+2008,Forli-Cesena,1.4139,Jobs
+2008,Genoa,3.0616,Jobs
+2008,Gorizia,0.4188,Jobs
+2008,Imperia,0.6574,Jobs
+2008,La Spezia,0.6763,Jobs
+2008,Lecco,1.1407,Jobs
+2008,Lodi,0.6692,Jobs
+2008,Mantua,1.4139,Jobs
+2008,Milan,14.1674,Jobs
+2008,Modena,2.694,Jobs
+2008,Monza-Brianza,2.7711,Jobs
+2008,Novara,1.2021,Jobs
+2008,Padua,3.3317,Jobs
+2008,Parma,1.6855,Jobs
+2008,Pavia,1.6028,Jobs
+2008,Piacenza,1.0699,Jobs
+2008,Pordenone,1.1187,Jobs
+2008,Ravenna,1.3643,Jobs
+2008,Reggio Emilia,2.0209,Jobs
+2008,Rimini,1.1825,Jobs
+2008,Rovigo,0.7644,Jobs
+2008,Savona,0.9408,Jobs
+2008,Sondrio,0.6621,Jobs
+2008,Trento,1.9469,Jobs
+2008,Treviso,3.3348,Jobs
+2008,Trieste,0.84,Jobs
+2008,Turin,7.7474,Jobs
+2008,Udine,2.0075,Jobs
+2008,Varese,2.9687,Jobs
+2008,Venice,2.9349,Jobs
+2008,Verbano-Cusio-Ossola,0.4763,Jobs
+2008,Vercelli,0.5936,Jobs
+2008,Verona,3.1884,Jobs
+2008,Vicenza,3.1152,Jobs
+2009,Alessandria,1.4637,Jobs
+2009,Aosta,0.4906,Jobs
+2009,Asti,0.6565,Jobs
+2009,Belluno,0.7243,Jobs
+2009,Bergamo,3.994,Jobs
+2009,Biella,0.5903,Jobs
+2009,Bologna,3.9509,Jobs
+2009,Bolzano,2.1506,Jobs
+2009,Brescia,4.5165,Jobs
+2009,Como,1.928,Jobs
+2009,Cremona,1.1511,Jobs
+2009,Cuneo,2.1362,Jobs
+2009,Ferrara,1.1471,Jobs
+2009,Forli-Cesena,1.4598,Jobs
+2009,Genoa,3.1205,Jobs
+2009,Gorizia,0.4268,Jobs
+2009,Imperia,0.5991,Jobs
+2009,La Spezia,0.6932,Jobs
+2009,Lecco,1.1511,Jobs
+2009,Lodi,0.7075,Jobs
+2009,Mantua,1.4175,Jobs
+2009,Milan,14.2004,Jobs
+2009,Modena,2.6579,Jobs
+2009,Monza-Brianza,2.7369,Jobs
+2009,Novara,1.1949,Jobs
+2009,Padua,3.2833,Jobs
+2009,Parma,1.7278,Jobs
+2009,Pavia,1.5706,Jobs
+2009,Piacenza,1.0545,Jobs
+2009,Pordenone,1.0872,Jobs
+2009,Ravenna,1.3385,Jobs
+2009,Reggio Emilia,2.0237,Jobs
+2009,Rimini,1.1662,Jobs
+2009,Rovigo,0.7666,Jobs
+2009,Savona,0.954,Jobs
+2009,Sondrio,0.6581,Jobs
+2009,Trento,1.995,Jobs
+2009,Treviso,3.1477,Jobs
+2009,Trieste,0.8288,Jobs
+2009,Turin,7.7439,Jobs
+2009,Udine,1.9862,Jobs
+2009,Varese,2.9482,Jobs
+2009,Venice,2.9235,Jobs
+2009,Verbano-Cusio-Ossola,0.481,Jobs
+2009,Vercelli,0.5863,Jobs
+2009,Verona,3.3447,Jobs
+2009,Vicenza,3.1189,Jobs
+2010,Alessandria,1.4401,Jobs
+2010,Aosta,0.5052,Jobs
+2010,Asti,0.6527,Jobs
+2010,Belluno,0.7088,Jobs
+2010,Bergamo,3.8295,Jobs
+2010,Biella,0.5845,Jobs
+2010,Bologna,4.0869,Jobs
+2010,Bolzano,2.2026,Jobs
+2010,Brescia,4.4076,Jobs
+2010,Como,1.9116,Jobs
+2010,Cremona,1.1378,Jobs
+2010,Cuneo,2.1409,Jobs
+2010,Ferrara,1.0801,Jobs
+2010,Forli-Cesena,1.4922,Jobs
+2010,Genoa,3.1167,Jobs
+2010,Gorizia,0.4482,Jobs
+2010,Imperia,0.5789,Jobs
+2010,La Spezia,0.7184,Jobs
+2010,Lecco,1.1025,Jobs
+2010,Lodi,0.7,Jobs
+2010,Mantua,1.4056,Jobs
+2010,Milan,14.4594,Jobs
+2010,Modena,2.6083,Jobs
+2010,Monza-Brianza,2.7511,Jobs
+2010,Novara,1.1987,Jobs
+2010,Padua,3.4262,Jobs
+2010,Parma,1.7536,Jobs
+2010,Pavia,1.5203,Jobs
+2010,Piacenza,1.0023,Jobs
+2010,Pordenone,1.1354,Jobs
+2010,Ravenna,1.3294,Jobs
+2010,Reggio Emilia,1.9388,Jobs
+2010,Rimini,1.1458,Jobs
+2010,Rovigo,0.7882,Jobs
+2010,Savona,0.9181,Jobs
+2010,Sondrio,0.6615,Jobs
+2010,Trento,2.0206,Jobs
+2010,Treviso,3.1448,Jobs
+2010,Trieste,0.8435,Jobs
+2010,Turin,7.7192,Jobs
+2010,Udine,1.9196,Jobs
+2010,Varese,2.966,Jobs
+2010,Venice,2.9796,Jobs
+2010,Verbano-Cusio-Ossola,0.4811,Jobs
+2010,Vercelli,0.5869,Jobs
+2010,Verona,3.3308,Jobs
+2010,Vicenza,3.1199,Jobs
+2011,Alessandria,1.4078,Jobs
+2011,Aosta,0.4985,Jobs
+2011,Asti,0.686,Jobs
+2011,Belluno,0.7322,Jobs
+2011,Bergamo,3.7911,Jobs
+2011,Biella,0.5847,Jobs
+2011,Bologna,4.1277,Jobs
+2011,Bolzano,2.2126,Jobs
+2011,Brescia,4.4555,Jobs
+2011,Como,1.9151,Jobs
+2011,Cremona,1.1063,Jobs
+2011,Cuneo,2.1065,Jobs
+2011,Ferrara,1.0824,Jobs
+2011,Forli-Cesena,1.4716,Jobs
+2011,Genoa,3.1019,Jobs
+2011,Gorizia,0.4379,Jobs
+2011,Imperia,0.6285,Jobs
+2011,La Spezia,0.7418,Jobs
+2011,Lecco,1.0824,Jobs
+2011,Lodi,0.6525,Jobs
+2011,Mantua,1.4126,Jobs
+2011,Milan,14.421,Jobs
+2011,Modena,2.5548,Jobs
+2011,Monza-Brianza,2.7374,Jobs
+2011,Novara,1.1829,Jobs
+2011,Padua,3.4896,Jobs
+2011,Parma,1.7173,Jobs
+2011,Pavia,1.553,Jobs
+2011,Piacenza,1.0473,Jobs
+2011,Pordenone,1.1462,Jobs
+2011,Ravenna,1.395,Jobs
+2011,Reggio Emilia,1.935,Jobs
+2011,Rimini,1.194,Jobs
+2011,Rovigo,0.7888,Jobs
+2011,Savona,0.9149,Jobs
+2011,Sondrio,0.6692,Jobs
+2011,Trento,2.0156,Jobs
+2011,Treviso,3.1362,Jobs
+2011,Trieste,0.8511,Jobs
+2011,Turin,7.7696,Jobs
+2011,Udine,1.8848,Jobs
+2011,Varese,2.8682,Jobs
+2011,Venice,2.9727,Jobs
+2011,Verbano-Cusio-Ossola,0.4897,Jobs
+2011,Vercelli,0.5998,Jobs
+2011,Verona,3.2846,Jobs
+2011,Vicenza,3.1458,Jobs
+2012,Alessandria,1.3877,Jobs
+2012,Aosta,0.5008,Jobs
+2012,Asti,0.6871,Jobs
+2012,Belluno,0.7229,Jobs
+2012,Bergamo,3.8208,Jobs
+2012,Biella,0.5828,Jobs
+2012,Bologna,4.0875,Jobs
+2012,Bolzano,2.2094,Jobs
+2012,Brescia,4.4402,Jobs
+2012,Como,1.918,Jobs
+2012,Cremona,1.0963,Jobs
+2012,Cuneo,2.1266,Jobs
+2012,Ferrara,1.0828,Jobs
+2012,Forli-Cesena,1.4506,Jobs
+2012,Genoa,3.0931,Jobs
+2012,Gorizia,0.4347,Jobs
+2012,Imperia,0.6202,Jobs
+2012,La Spezia,0.7564,Jobs
+2012,Lecco,1.0971,Jobs
+2012,Lodi,0.664,Jobs
+2012,Mantua,1.4315,Jobs
+2012,Milan,14.4416,Jobs
+2012,Modena,2.6369,Jobs
+2012,Monza-Brianza,2.7165,Jobs
+2012,Novara,1.1632,Jobs
+2012,Padua,3.4777,Jobs
+2012,Parma,1.7094,Jobs
+2012,Pavia,1.5334,Jobs
+2012,Piacenza,1.0438,Jobs
+2012,Pordenone,1.1011,Jobs
+2012,Ravenna,1.4005,Jobs
+2012,Reggio Emilia,1.9363,Jobs
+2012,Rimini,1.2165,Jobs
+2012,Rovigo,0.7914,Jobs
+2012,Savona,0.914,Jobs
+2012,Sondrio,0.6847,Jobs
+2012,Trento,2.027,Jobs
+2012,Treviso,3.105,Jobs
+2012,Trieste,0.8599,Jobs
+2012,Turin,7.7809,Jobs
+2012,Udine,1.8829,Jobs
+2012,Varese,2.8702,Jobs
+2012,Venice,2.9832,Jobs
+2012,Verbano-Cusio-Ossola,0.4968,Jobs
+2012,Vercelli,0.5764,Jobs
+2012,Verona,3.2985,Jobs
+2012,Vicenza,3.1417,Jobs
+2013,Alessandria,1.3737,Jobs
+2013,Aosta,0.4973,Jobs
+2013,Asti,0.686,Jobs
+2013,Belluno,0.7176,Jobs
+2013,Bergamo,3.806,Jobs
+2013,Biella,0.571,Jobs
+2013,Bologna,4.1195,Jobs
+2013,Bolzano,2.2428,Jobs
+2013,Brescia,4.4118,Jobs
+2013,Como,1.8937,Jobs
+2013,Cremona,1.1072,Jobs
+2013,Cuneo,2.1221,Jobs
+2013,Ferrara,1.0756,Jobs
+2013,Forli-Cesena,1.4401,Jobs
+2013,Genoa,3.0535,Jobs
+2013,Gorizia,0.4382,Jobs
+2013,Imperia,0.6091,Jobs
+2013,La Spezia,0.7703,Jobs
+2013,Lecco,1.104,Jobs
+2013,Lodi,0.6536,Jobs
+2013,Mantua,1.4352,Jobs
+2013,Milan,14.5461,Jobs
+2013,Modena,2.6761,Jobs
+2013,Monza-Brianza,2.7174,Jobs
+2013,Novara,1.1793,Jobs
+2013,Padua,3.4407,Jobs
+2013,Parma,1.7341,Jobs
+2013,Pavia,1.5486,Jobs
+2013,Piacenza,1.0586,Jobs
+2013,Pordenone,1.1064,Jobs
+2013,Ravenna,1.3826,Jobs
+2013,Reggio Emilia,1.982,Jobs
+2013,Rimini,1.2117,Jobs
+2013,Rovigo,0.763,Jobs
+2013,Savona,0.9072,Jobs
+2013,Sondrio,0.6585,Jobs
+2013,Trento,2.05,Jobs
+2013,Treviso,3.094,Jobs
+2013,Trieste,0.8513,Jobs
+2013,Turin,7.7797,Jobs
+2013,Udine,1.8702,Jobs
+2013,Varese,2.834,Jobs
+2013,Venice,2.9928,Jobs
+2013,Verbano-Cusio-Ossola,0.4884,Jobs
+2013,Vercelli,0.567,Jobs
+2013,Verona,3.2949,Jobs
+2013,Vicenza,3.137,Jobs
+2014,Alessandria,1.3633,Jobs
+2014,Aosta,0.4938,Jobs
+2014,Asti,0.676,Jobs
+2014,Belluno,0.7286,Jobs
+2014,Bergamo,3.8138,Jobs
+2014,Biella,0.5683,Jobs
+2014,Bologna,4.1198,Jobs
+2014,Bolzano,2.2449,Jobs
+2014,Brescia,4.4032,Jobs
+2014,Como,1.8822,Jobs
+2014,Cremona,1.0913,Jobs
+2014,Cuneo,2.1348,Jobs
+2014,Ferrara,1.071,Jobs
+2014,Forli-Cesena,1.4305,Jobs
+2014,Genoa,3.0917,Jobs
+2014,Gorizia,0.4396,Jobs
+2014,Imperia,0.6056,Jobs
+2014,La Spezia,0.7553,Jobs
+2014,Lecco,1.0864,Jobs
+2014,Lodi,0.6476,Jobs
+2014,Mantua,1.4232,Jobs
+2014,Milan,14.7688,Jobs
+2014,Modena,2.6602,Jobs
+2014,Monza-Brianza,2.6902,Jobs
+2014,Novara,1.1884,Jobs
+2014,Padua,3.4455,Jobs
+2014,Parma,1.7414,Jobs
+2014,Pavia,1.5309,Jobs
+2014,Piacenza,1.0573,Jobs
+2014,Pordenone,1.0953,Jobs
+2014,Ravenna,1.3625,Jobs
+2014,Reggio Emilia,1.9454,Jobs
+2014,Rimini,1.2168,Jobs
+2014,Rovigo,0.7545,Jobs
+2014,Savona,0.8921,Jobs
+2014,Sondrio,0.659,Jobs
+2014,Trento,2.0425,Jobs
+2014,Treviso,3.1249,Jobs
+2014,Trieste,0.85,Jobs
+2014,Turin,7.6941,Jobs
+2014,Udine,1.8717,Jobs
+2014,Varese,2.8181,Jobs
+2014,Venice,2.9962,Jobs
+2014,Verbano-Cusio-Ossola,0.4865,Jobs
+2014,Vercelli,0.5545,Jobs
+2014,Verona,3.3338,Jobs
+2014,Vicenza,3.1484,Jobs
+2015,Alessandria,1.3766,Jobs
+2015,Aosta,0.4878,Jobs
+2015,Asti,0.6714,Jobs
+2015,Belluno,0.7245,Jobs
+2015,Bergamo,3.8045,Jobs
+2015,Biella,0.5675,Jobs
+2015,Bologna,4.0854,Jobs
+2015,Bolzano,2.2572,Jobs
+2015,Brescia,4.3994,Jobs
+2015,Como,1.866,Jobs
+2015,Cremona,1.094,Jobs
+2015,Cuneo,2.1156,Jobs
+2015,Ferrara,1.0449,Jobs
+2015,Forli-Cesena,1.4474,Jobs
+2015,Genoa,3.0743,Jobs
+2015,Gorizia,0.4347,Jobs
+2015,Imperia,0.5965,Jobs
+2015,La Spezia,0.7511,Jobs
+2015,Lecco,1.0916,Jobs
+2015,Lodi,0.6279,Jobs
+2015,Mantua,1.4297,Jobs
+2015,Milan,14.9877,Jobs
+2015,Modena,2.663,Jobs
+2015,Monza-Brianza,2.6831,Jobs
+2015,Novara,1.1785,Jobs
+2015,Padua,3.4688,Jobs
+2015,Parma,1.7428,Jobs
+2015,Pavia,1.536,Jobs
+2015,Piacenza,1.0489,Jobs
+2015,Pordenone,1.0916,Jobs
+2015,Ravenna,1.3468,Jobs
+2015,Reggio Emilia,1.9417,Jobs
+2015,Rimini,1.1938,Jobs
+2015,Rovigo,0.7543,Jobs
+2015,Savona,0.8791,Jobs
+2015,Sondrio,0.6513,Jobs
+2015,Trento,2.0407,Jobs
+2015,Treviso,3.109,Jobs
+2015,Trieste,0.8453,Jobs
+2015,Turin,7.6919,Jobs
+2015,Udine,1.8773,Jobs
+2015,Varese,2.8119,Jobs
+2015,Venice,2.9729,Jobs
+2015,Verbano-Cusio-Ossola,0.4782,Jobs
+2015,Vercelli,0.5635,Jobs
+2015,Verona,3.3432,Jobs
+2015,Vicenza,3.1508,Jobs
+2016,Alessandria,1.345,Jobs
+2016,Aosta,0.478,Jobs
+2016,Asti,0.6562,Jobs
+2016,Belluno,0.7294,Jobs
+2016,Bergamo,3.8148,Jobs
+2016,Biella,0.5584,Jobs
+2016,Bologna,4.1019,Jobs
+2016,Bolzano,2.2788,Jobs
+2016,Brescia,4.4065,Jobs
+2016,Como,1.843,Jobs
+2016,Cremona,1.0969,Jobs
+2016,Cuneo,2.1221,Jobs
+2016,Ferrara,1.0531,Jobs
+2016,Forli-Cesena,1.4301,Jobs
+2016,Genoa,3.0997,Jobs
+2016,Gorizia,0.4351,Jobs
+2016,Imperia,0.6053,Jobs
+2016,La Spezia,0.7358,Jobs
+2016,Lecco,1.0794,Jobs
+2016,Lodi,0.6276,Jobs
+2016,Mantua,1.4341,Jobs
+2016,Milan,15.201,Jobs
+2016,Modena,2.6606,Jobs
+2016,Monza-Brianza,2.6996,Jobs
+2016,Novara,1.1836,Jobs
+2016,Padua,3.5221,Jobs
+2016,Parma,1.7356,Jobs
+2016,Pavia,1.4834,Jobs
+2016,Piacenza,1.0237,Jobs
+2016,Pordenone,1.0889,Jobs
+2016,Ravenna,1.3522,Jobs
+2016,Reggio Emilia,1.9161,Jobs
+2016,Rimini,1.1939,Jobs
+2016,Rovigo,0.7381,Jobs
+2016,Savona,0.8574,Jobs
+2016,Sondrio,0.6379,Jobs
+2016,Trento,2.0362,Jobs
+2016,Treviso,3.118,Jobs
+2016,Trieste,0.8439,Jobs
+2016,Turin,7.6733,Jobs
+2016,Udine,1.8263,Jobs
+2016,Varese,2.7768,Jobs
+2016,Venice,2.9565,Jobs
+2016,Verbano-Cusio-Ossola,0.4685,Jobs
+2016,Vercelli,0.552,Jobs
+2016,Verona,3.3773,Jobs
+2016,Vicenza,3.1458,Jobs
+2017,Alessandria,1.3186,Jobs
+2017,Aosta,0.4811,Jobs
+2017,Asti,0.6479,Jobs
+2017,Belluno,0.7341,Jobs
+2017,Bergamo,3.8046,Jobs
+2017,Biella,0.5602,Jobs
+2017,Bologna,4.1454,Jobs
+2017,Bolzano,2.2909,Jobs
+2017,Brescia,4.4197,Jobs
+2017,Como,1.8514,Jobs
+2017,Cremona,1.0953,Jobs
+2017,Cuneo,2.1076,Jobs
+2017,Ferrara,1.0483,Jobs
+2017,Forli-Cesena,1.4267,Jobs
+2017,Genoa,3.065,Jobs
+2017,Gorizia,0.4301,Jobs
+2017,Imperia,0.6002,Jobs
+2017,La Spezia,0.7286,Jobs
+2017,Lecco,1.0796,Jobs
+2017,Lodi,0.6213,Jobs
+2017,Mantua,1.4283,Jobs
+2017,Milan,15.2146,Jobs
+2017,Modena,2.6827,Jobs
+2017,Monza-Brianza,2.6968,Jobs
+2017,Novara,1.1846,Jobs
+2017,Padua,3.5147,Jobs
+2017,Parma,1.7519,Jobs
+2017,Pavia,1.4941,Jobs
+2017,Piacenza,1.0256,Jobs
+2017,Pordenone,1.0961,Jobs
+2017,Ravenna,1.3586,Jobs
+2017,Reggio Emilia,1.9149,Jobs
+2017,Rimini,1.2105,Jobs
+2017,Rovigo,0.7396,Jobs
+2017,Savona,0.8705,Jobs
+2017,Sondrio,0.6205,Jobs
+2017,Trento,2.0285,Jobs
+2017,Treviso,3.1097,Jobs
+2017,Trieste,0.8258,Jobs
+2017,Turin,7.6821,Jobs
+2017,Udine,1.8208,Jobs
+2017,Varese,2.7164,Jobs
+2017,Venice,2.9718,Jobs
+2017,Verbano-Cusio-Ossola,0.4677,Jobs
+2017,Vercelli,0.5453,Jobs
+2017,Verona,3.4145,Jobs
+2017,Vicenza,3.1567,Jobs
+2018,Alessandria,1.2882,Jobs
+2018,Aosta,0.4715,Jobs
+2018,Asti,0.6395,Jobs
+2018,Belluno,0.7304,Jobs
+2018,Bergamo,3.8077,Jobs
+2018,Biella,0.5578,Jobs
+2018,Bologna,4.1359,Jobs
+2018,Bolzano,2.3415,Jobs
+2018,Brescia,4.4333,Jobs
+2018,Como,1.8283,Jobs
+2018,Cremona,1.0964,Jobs
+2018,Cuneo,2.1142,Jobs
+2018,Ferrara,1.0486,Jobs
+2018,Forli-Cesena,1.4331,Jobs
+2018,Genoa,2.9925,Jobs
+2018,Gorizia,0.4292,Jobs
+2018,Imperia,0.5856,Jobs
+2018,La Spezia,0.7135,Jobs
+2018,Lecco,1.0717,Jobs
+2018,Lodi,0.6133,Jobs
+2018,Mantua,1.4331,Jobs
+2018,Milan,15.4157,Jobs
+2018,Modena,2.6697,Jobs
+2018,Monza-Brianza,2.6335,Jobs
+2018,Novara,1.1704,Jobs
+2018,Padua,3.5218,Jobs
+2018,Parma,1.7575,Jobs
+2018,Pavia,1.4893,Jobs
+2018,Piacenza,1.0263,Jobs
+2018,Pordenone,1.0887,Jobs
+2018,Ravenna,1.3583,Jobs
+2018,Reggio Emilia,1.9208,Jobs
+2018,Rimini,1.2073,Jobs
+2018,Rovigo,0.7335,Jobs
+2018,Savona,0.8514,Jobs
+2018,Sondrio,0.6025,Jobs
+2018,Trento,2.0572,Jobs
+2018,Treviso,3.1466,Jobs
+2018,Trieste,0.8244,Jobs
+2018,Turin,7.6362,Jobs
+2018,Udine,1.8245,Jobs
+2018,Varese,2.7629,Jobs
+2018,Venice,2.9448,Jobs
+2018,Verbano-Cusio-Ossola,0.4577,Jobs
+2018,Vercelli,0.5393,Jobs
+2018,Verona,3.4394,Jobs
+2018,Vicenza,3.1551,Jobs
+2019,Alessandria,1.2889,Jobs
+2019,Aosta,0.4684,Jobs
+2019,Asti,0.6345,Jobs
+2019,Belluno,0.7217,Jobs
+2019,Bergamo,3.8146,Jobs
+2019,Biella,0.5526,Jobs
+2019,Bologna,4.1491,Jobs
+2019,Bolzano,2.355,Jobs
+2019,Brescia,4.4652,Jobs
+2019,Como,1.8155,Jobs
+2019,Cremona,1.0968,Jobs
+2019,Cuneo,2.1216,Jobs
+2019,Ferrara,1.0348,Jobs
+2019,Forli-Cesena,1.4986,Jobs
+2019,Genoa,3.0133,Jobs
+2019,Gorizia,0.4263,Jobs
+2019,Imperia,0.5824,Jobs
+2019,La Spezia,0.7103,Jobs
+2019,Lecco,1.0662,Jobs
+2019,Lodi,0.6146,Jobs
+2019,Mantua,1.4182,Jobs
+2019,Milan,15.4275,Jobs
+2019,Modena,2.6673,Jobs
+2019,Monza-Brianza,2.6436,Jobs
+2019,Novara,1.1748,Jobs
+2019,Padua,3.5146,Jobs
+2019,Parma,1.7565,Jobs
+2019,Pavia,1.4756,Jobs
+2019,Piacenza,1.0248,Jobs
+2019,Pordenone,1.0876,Jobs
+2019,Ravenna,1.3639,Jobs
+2019,Reggio Emilia,1.9241,Jobs
+2019,Rimini,1.2116,Jobs
+2019,Rovigo,0.724,Jobs
+2019,Savona,0.848,Jobs
+2019,Sondrio,0.5955,Jobs
+2019,Trento,2.0719,Jobs
+2019,Treviso,3.1633,Jobs
+2019,Trieste,0.8036,Jobs
+2019,Turin,7.5534,Jobs
+2019,Udine,1.8254,Jobs
+2019,Varese,2.7247,Jobs
+2019,Venice,2.9742,Jobs
+2019,Verbano-Cusio-Ossola,0.4477,Jobs
+2019,Vercelli,0.5312,Jobs
+2019,Verona,3.4411,Jobs
+2019,Vicenza,3.1755,Jobs
+2020,Alessandria,1.2925,Jobs
+2020,Aosta,0.4648,Jobs
+2020,Asti,0.6372,Jobs
+2020,Belluno,0.7133,Jobs
+2020,Bergamo,3.8383,Jobs
+2020,Biella,0.54,Jobs
+2020,Bologna,4.1322,Jobs
+2020,Bolzano,2.3185,Jobs
+2020,Brescia,4.4488,Jobs
+2020,Como,1.8349,Jobs
+2020,Cremona,1.1028,Jobs
+2020,Cuneo,2.1594,Jobs
+2020,Ferrara,1.026,Jobs
+2020,Forli-Cesena,1.4406,Jobs
+2020,Genoa,2.9643,Jobs
+2020,Gorizia,0.4319,Jobs
+2020,Imperia,0.5871,Jobs
+2020,La Spezia,0.7078,Jobs
+2020,Lecco,1.0762,Jobs
+2020,Lodi,0.6121,Jobs
+2020,Mantua,1.4336,Jobs
+2020,Milan,15.4722,Jobs
+2020,Modena,2.7049,Jobs
+2020,Monza-Brianza,2.6947,Jobs
+2020,Novara,1.1773,Jobs
+2020,Padua,3.4934,Jobs
+2020,Parma,1.7463,Jobs
+2020,Pavia,1.4845,Jobs
+2020,Piacenza,1.0448,Jobs
+2020,Pordenone,1.0863,Jobs
+2020,Ravenna,1.3458,Jobs
+2020,Reggio Emilia,1.9321,Jobs
+2020,Rimini,1.1804,Jobs
+2020,Rovigo,0.7329,Jobs
+2020,Savona,0.8324,Jobs
+2020,Sondrio,0.5926,Jobs
+2020,Trento,2.0261,Jobs
+2020,Treviso,3.2034,Jobs
+2020,Trieste,0.8144,Jobs
+2020,Turin,7.5911,Jobs
+2020,Udine,1.82,Jobs
+2020,Varese,2.7754,Jobs
+2020,Venice,2.8656,Jobs
+2020,Verbano-Cusio-Ossola,0.4428,Jobs
+2020,Vercelli,0.5314,Jobs
+2020,Verona,3.4479,Jobs
+2020,Vicenza,3.1995,Jobs
+2021,Alessandria,1.2964,Jobs
+2021,Aosta,0.459,Jobs
+2021,Asti,0.635,Jobs
+2021,Belluno,0.7125,Jobs
+2021,Bergamo,3.841,Jobs
+2021,Biella,0.5358,Jobs
+2021,Bologna,4.0992,Jobs
+2021,Bolzano,2.3059,Jobs
+2021,Brescia,4.4784,Jobs
+2021,Como,1.812,Jobs
+2021,Cremona,1.1103,Jobs
+2021,Cuneo,2.1438,Jobs
+2021,Ferrara,1.018,Jobs
+2021,Forli-Cesena,1.4367,Jobs
+2021,Genoa,2.9246,Jobs
+2021,Gorizia,0.4435,Jobs
+2021,Imperia,0.5769,Jobs
+2021,La Spezia,0.7211,Jobs
+2021,Lecco,1.0715,Jobs
+2021,Lodi,0.6141,Jobs
+2021,Mantua,1.4088,Jobs
+2021,Milan,15.5758,Jobs
+2021,Modena,2.7129,Jobs
+2021,Monza-Brianza,2.6803,Jobs
+2021,Novara,1.1808,Jobs
+2021,Padua,3.4859,Jobs
+2021,Parma,1.7654,Jobs
+2021,Pavia,1.4879,Jobs
+2021,Piacenza,1.0413,Jobs
+2021,Pordenone,1.0824,Jobs
+2021,Ravenna,1.3429,Jobs
+2021,Reggio Emilia,1.9221,Jobs
+2021,Rimini,1.201,Jobs
+2021,Rovigo,0.7342,Jobs
+2021,Savona,0.8281,Jobs
+2021,Sondrio,0.5846,Jobs
+2021,Trento,2.0384,Jobs
+2021,Treviso,3.2076,Jobs
+2021,Trieste,0.8157,Jobs
+2021,Turin,7.6061,Jobs
+2021,Udine,1.8321,Jobs
+2021,Varese,2.7486,Jobs
+2021,Venice,2.8463,Jobs
+2021,Verbano-Cusio-Ossola,0.4404,Jobs
+2021,Vercelli,0.5218,Jobs
+2021,Verona,3.4642,Jobs
+2021,Vicenza,3.2091,Jobs
+2022,Alessandria,1.2792,Jobs
+2022,Aosta,0.4675,Jobs
+2022,Asti,0.6312,Jobs
+2022,Belluno,0.7142,Jobs
+2022,Bergamo,3.8187,Jobs
+2022,Biella,0.5231,Jobs
+2022,Bologna,4.0951,Jobs
+2022,Bolzano,2.3506,Jobs
+2022,Brescia,4.4743,Jobs
+2022,Como,1.8252,Jobs
+2022,Cremona,1.0988,Jobs
+2022,Cuneo,2.1404,Jobs
+2022,Ferrara,1.0082,Jobs
+2022,Forli-Cesena,1.4452,Jobs
+2022,Genoa,2.9438,Jobs
+2022,Gorizia,0.4416,Jobs
+2022,Imperia,0.5719,Jobs
+2022,La Spezia,0.7257,Jobs
+2022,Lecco,1.0752,Jobs
+2022,Lodi,0.6069,Jobs
+2022,Mantua,1.4018,Jobs
+2022,Milan,15.6311,Jobs
+2022,Modena,2.7047,Jobs
+2022,Monza-Brianza,2.6841,Jobs
+2022,Novara,1.1841,Jobs
+2022,Padua,3.4974,Jobs
+2022,Parma,1.7536,Jobs
+2022,Pavia,1.5039,Jobs
+2022,Piacenza,1.047,Jobs
+2022,Pordenone,1.0759,Jobs
+2022,Ravenna,1.3356,Jobs
+2022,Reggio Emilia,1.9303,Jobs
+2022,Rimini,1.2221,Jobs
+2022,Rovigo,0.7264,Jobs
+2022,Savona,0.8292,Jobs
+2022,Sondrio,0.5871,Jobs
+2022,Trento,2.0643,Jobs
+2022,Treviso,3.1905,Jobs
+2022,Trieste,0.8071,Jobs
+2022,Turin,7.5559,Jobs
+2022,Udine,1.8138,Jobs
+2022,Varese,2.7062,Jobs
+2022,Venice,2.876,Jobs
+2022,Verbano-Cusio-Ossola,0.4378,Jobs
+2022,Vercelli,0.5201,Jobs
+2022,Verona,3.4791,Jobs
+2022,Vicenza,3.1981,Jobs
+2023,Alessandria,1.277,Jobs
+2023,Aosta,0.4687,Jobs
+2023,Asti,0.6224,Jobs
+2023,Belluno,0.7083,Jobs
+2023,Bergamo,3.8093,Jobs
+2023,Biella,0.5172,Jobs
+2023,Bologna,4.1011,Jobs
+2023,Bolzano,2.3689,Jobs
+2023,Brescia,4.4721,Jobs
+2023,Como,1.8278,Jobs
+2023,Cremona,1.0986,Jobs
+2023,Cuneo,2.1263,Jobs
+2023,Ferrara,1.0001,Jobs
+2023,Forli-Cesena,1.4337,Jobs
+2023,Genoa,2.9383,Jobs
+2023,Gorizia,0.4448,Jobs
+2023,Imperia,0.5754,Jobs
+2023,La Spezia,0.718,Jobs
+2023,Lecco,1.0643,Jobs
+2023,Lodi,0.6135,Jobs
+2023,Mantua,1.383,Jobs
+2023,Milan,15.8747,Jobs
+2023,Modena,2.7032,Jobs
+2023,Monza-Brianza,2.6928,Jobs
+2023,Novara,1.1762,Jobs
+2023,Padua,3.4966,Jobs
+2023,Parma,1.7621,Jobs
+2023,Pavia,1.4867,Jobs
+2023,Piacenza,1.0262,Jobs
+2023,Pordenone,1.0561,Jobs
+2023,Ravenna,1.3442,Jobs
+2023,Reggio Emilia,1.9241,Jobs
+2023,Rimini,1.2233,Jobs
+2023,Rovigo,0.7142,Jobs
+2023,Savona,0.8255,Jobs
+2023,Sondrio,0.5777,Jobs
+2023,Trento,2.045,Jobs
+2023,Treviso,3.1719,Jobs
+2023,Trieste,0.8105,Jobs
+2023,Turin,7.5634,Jobs
+2023,Udine,1.7972,Jobs
+2023,Varese,2.6913,Jobs
+2023,Venice,2.8794,Jobs
+2023,Verbano-Cusio-Ossola,0.4359,Jobs
+2023,Vercelli,0.5083,Jobs
+2023,Verona,3.472,Jobs
+2023,Vicenza,3.1727,Jobs
+2008,Alessandria,1.0611,Knowledge jobs
+2008,Aosta,0.3816,Knowledge jobs
+2008,Asti,0.4794,Knowledge jobs
+2008,Belluno,0.4561,Knowledge jobs
+2008,Bergamo,3.3555,Knowledge jobs
+2008,Biella,0.5492,Knowledge jobs
+2008,Bologna,4.3049,Knowledge jobs
+2008,Bolzano,1.5125,Knowledge jobs
+2008,Brescia,4.0117,Knowledge jobs
+2008,Como,1.6056,Knowledge jobs
+2008,Cremona,1.1216,Knowledge jobs
+2008,Cuneo,1.694,Knowledge jobs
+2008,Ferrara,0.982,Knowledge jobs
+2008,Forli-Cesena,1.0611,Knowledge jobs
+2008,Genoa,2.9646,Knowledge jobs
+2008,Gorizia,0.3118,Knowledge jobs
+2008,Imperia,0.5445,Knowledge jobs
+2008,La Spezia,0.5399,Knowledge jobs
+2008,Lecco,0.9866,Knowledge jobs
+2008,Lodi,0.5864,Knowledge jobs
+2008,Mantua,1.1309,Knowledge jobs
+2008,Milan,24.5637,Knowledge jobs
+2008,Modena,2.3503,Knowledge jobs
+2008,Monza-Brianza,2.8529,Knowledge jobs
+2008,Novara,1.0751,Knowledge jobs
+2008,Padua,2.9972,Knowledge jobs
+2008,Parma,1.5312,Knowledge jobs
+2008,Pavia,1.5312,Knowledge jobs
+2008,Piacenza,0.8377,Knowledge jobs
+2008,Pordenone,0.8796,Knowledge jobs
+2008,Ravenna,1.1356,Knowledge jobs
+2008,Reggio Emilia,1.5824,Knowledge jobs
+2008,Rimini,1.0471,Knowledge jobs
+2008,Rovigo,0.4607,Knowledge jobs
+2008,Savona,0.7121,Knowledge jobs
+2008,Sondrio,0.4607,Knowledge jobs
+2008,Trento,1.7918,Knowledge jobs
+2008,Treviso,2.4433,Knowledge jobs
+2008,Trieste,1.089,Knowledge jobs
+2008,Turin,8.4097,Knowledge jobs
+2008,Udine,1.829,Knowledge jobs
+2008,Varese,2.6109,Knowledge jobs
+2008,Venice,2.5876,Knowledge jobs
+2008,Verbano-Cusio-Ossola,0.3584,Knowledge jobs
+2008,Vercelli,0.4887,Knowledge jobs
+2008,Verona,2.6481,Knowledge jobs
+2008,Vicenza,2.085,Knowledge jobs
+2009,Alessandria,1.1199,Knowledge jobs
+2009,Aosta,0.3969,Knowledge jobs
+2009,Asti,0.4772,Knowledge jobs
+2009,Belluno,0.4394,Knowledge jobs
+2009,Bergamo,3.5581,Knowledge jobs
+2009,Biella,0.5292,Knowledge jobs
+2009,Bologna,4.4086,Knowledge jobs
+2009,Bolzano,1.5688,Knowledge jobs
+2009,Brescia,3.8038,Knowledge jobs
+2009,Como,1.6255,Knowledge jobs
+2009,Cremona,1.0254,Knowledge jobs
+2009,Cuneo,1.6255,Knowledge jobs
+2009,Ferrara,0.8789,Knowledge jobs
+2009,Forli-Cesena,1.0868,Knowledge jobs
+2009,Genoa,3.1092,Knowledge jobs
+2009,Gorizia,0.326,Knowledge jobs
+2009,Imperia,0.4631,Knowledge jobs
+2009,La Spezia,0.534,Knowledge jobs
+2009,Lecco,0.9876,Knowledge jobs
+2009,Lodi,0.6237,Knowledge jobs
+2009,Mantua,1.101,Knowledge jobs
+2009,Milan,24.5003,Knowledge jobs
+2009,Modena,2.3343,Knowledge jobs
+2009,Monza-Brianza,2.7595,Knowledge jobs
+2009,Novara,1.0632,Knowledge jobs
+2009,Padua,2.9627,Knowledge jobs
+2009,Parma,1.6019,Knowledge jobs
+2009,Pavia,1.4506,Knowledge jobs
+2009,Piacenza,0.7938,Knowledge jobs
+2009,Pordenone,0.8316,Knowledge jobs
+2009,Ravenna,1.0679,Knowledge jobs
+2009,Reggio Emilia,1.6255,Knowledge jobs
+2009,Rimini,1.0254,Knowledge jobs
+2009,Rovigo,0.4867,Knowledge jobs
+2009,Savona,0.7135,Knowledge jobs
+2009,Sondrio,0.4583,Knowledge jobs
+2009,Trento,1.8287,Knowledge jobs
+2009,Treviso,2.2965,Knowledge jobs
+2009,Trieste,1.0726,Knowledge jobs
+2009,Turin,8.5574,Knowledge jobs
+2009,Udine,1.7861,Knowledge jobs
+2009,Varese,2.6036,Knowledge jobs
+2009,Venice,2.5705,Knowledge jobs
+2009,Verbano-Cusio-Ossola,0.3638,Knowledge jobs
+2009,Vercelli,0.4867,Knowledge jobs
+2009,Verona,2.9249,Knowledge jobs
+2009,Vicenza,2.1453,Knowledge jobs
+2010,Alessandria,1.048,Knowledge jobs
+2010,Aosta,0.407,Knowledge jobs
+2010,Asti,0.4679,Knowledge jobs
+2010,Belluno,0.4351,Knowledge jobs
+2010,Bergamo,3.289,Knowledge jobs
+2010,Biella,0.4913,Knowledge jobs
+2010,Bologna,4.6505,Knowledge jobs
+2010,Bolzano,1.5954,Knowledge jobs
+2010,Brescia,3.6446,Knowledge jobs
+2010,Como,1.6375,Knowledge jobs
+2010,Cremona,0.9965,Knowledge jobs
+2010,Cuneo,1.6001,Knowledge jobs
+2010,Ferrara,0.8281,Knowledge jobs
+2010,Forli-Cesena,1.0995,Knowledge jobs
+2010,Genoa,3.1534,Knowledge jobs
+2010,Gorizia,0.3462,Knowledge jobs
+2010,Imperia,0.4164,Knowledge jobs
+2010,La Spezia,0.524,Knowledge jobs
+2010,Lecco,0.9217,Knowledge jobs
+2010,Lodi,0.6316,Knowledge jobs
+2010,Mantua,1.0854,Knowledge jobs
+2010,Milan,24.9228,Knowledge jobs
+2010,Modena,2.2504,Knowledge jobs
+2010,Monza-Brianza,2.7884,Knowledge jobs
+2010,Novara,1.0527,Knowledge jobs
+2010,Padua,3.2376,Knowledge jobs
+2010,Parma,1.689,Knowledge jobs
+2010,Pavia,1.3521,Knowledge jobs
+2010,Piacenza,0.7439,Knowledge jobs
+2010,Pordenone,0.8421,Knowledge jobs
+2010,Ravenna,1.0199,Knowledge jobs
+2010,Reggio Emilia,1.558,Knowledge jobs
+2010,Rimini,0.9498,Knowledge jobs
+2010,Rovigo,0.5287,Knowledge jobs
+2010,Savona,0.6644,Knowledge jobs
+2010,Sondrio,0.4679,Knowledge jobs
+2010,Trento,1.82,Knowledge jobs
+2010,Treviso,2.3908,Knowledge jobs
+2010,Trieste,1.1275,Knowledge jobs
+2010,Turin,8.4682,Knowledge jobs
+2010,Udine,1.6843,Knowledge jobs
+2010,Varese,2.6247,Knowledge jobs
+2010,Venice,2.5732,Knowledge jobs
+2010,Verbano-Cusio-Ossola,0.3415,Knowledge jobs
+2010,Vercelli,0.4538,Knowledge jobs
+2010,Verona,2.9288,Knowledge jobs
+2010,Vicenza,2.2504,Knowledge jobs
+2011,Alessandria,0.9884,Knowledge jobs
+2011,Aosta,0.4018,Knowledge jobs
+2011,Asti,0.5127,Knowledge jobs
+2011,Belluno,0.4665,Knowledge jobs
+2011,Bergamo,3.1869,Knowledge jobs
+2011,Biella,0.4757,Knowledge jobs
+2011,Bologna,4.7758,Knowledge jobs
+2011,Bolzano,1.575,Knowledge jobs
+2011,Brescia,3.6857,Knowledge jobs
+2011,Como,1.635,Knowledge jobs
+2011,Cremona,0.9376,Knowledge jobs
+2011,Cuneo,1.575,Knowledge jobs
+2011,Ferrara,0.8314,Knowledge jobs
+2011,Forli-Cesena,1.0993,Knowledge jobs
+2011,Genoa,3.0668,Knowledge jobs
+2011,Gorizia,0.3418,Knowledge jobs
+2011,Imperia,0.4665,Knowledge jobs
+2011,La Spezia,0.5681,Knowledge jobs
+2011,Lecco,0.8868,Knowledge jobs
+2011,Lodi,0.5866,Knowledge jobs
+2011,Mantua,1.0946,Knowledge jobs
+2011,Milan,24.9596,Knowledge jobs
+2011,Modena,2.1985,Knowledge jobs
+2011,Monza-Brianza,2.8128,Knowledge jobs
+2011,Novara,1.0161,Knowledge jobs
+2011,Padua,3.344,Knowledge jobs
+2011,Parma,1.6858,Knowledge jobs
+2011,Pavia,1.381,Knowledge jobs
+2011,Piacenza,0.799,Knowledge jobs
+2011,Pordenone,0.8498,Knowledge jobs
+2011,Ravenna,1.0854,Knowledge jobs
+2011,Reggio Emilia,1.5935,Knowledge jobs
+2011,Rimini,0.993,Knowledge jobs
+2011,Rovigo,0.5081,Knowledge jobs
+2011,Savona,0.6466,Knowledge jobs
+2011,Sondrio,0.4665,Knowledge jobs
+2011,Trento,1.7967,Knowledge jobs
+2011,Treviso,2.4202,Knowledge jobs
+2011,Trieste,1.1501,Knowledge jobs
+2011,Turin,8.6185,Knowledge jobs
+2011,Udine,1.6627,Knowledge jobs
+2011,Varese,2.4895,Knowledge jobs
+2011,Venice,2.5218,Knowledge jobs
+2011,Verbano-Cusio-Ossola,0.3418,Knowledge jobs
+2011,Vercelli,0.4619,Knowledge jobs
+2011,Verona,2.8405,Knowledge jobs
+2011,Vicenza,2.1985,Knowledge jobs
+2012,Alessandria,1.0552,Knowledge jobs
+2012,Aosta,0.3929,Knowledge jobs
+2012,Asti,0.5299,Knowledge jobs
+2012,Belluno,0.4431,Knowledge jobs
+2012,Bergamo,3.1428,Knowledge jobs
+2012,Biella,0.4842,Knowledge jobs
+2012,Bologna,4.6869,Knowledge jobs
+2012,Bolzano,1.4983,Knowledge jobs
+2012,Brescia,3.691,Knowledge jobs
+2012,Como,1.6125,Knowledge jobs
+2012,Cremona,0.8953,Knowledge jobs
+2012,Cuneo,1.5851,Knowledge jobs
+2012,Ferrara,0.836,Knowledge jobs
+2012,Forli-Cesena,1.0918,Knowledge jobs
+2012,Genoa,3.1154,Knowledge jobs
+2012,Gorizia,0.3198,Knowledge jobs
+2012,Imperia,0.4294,Knowledge jobs
+2012,La Spezia,0.5801,Knowledge jobs
+2012,Lecco,0.9136,Knowledge jobs
+2012,Lodi,0.6076,Knowledge jobs
+2012,Mantua,1.1192,Knowledge jobs
+2012,Milan,24.7545,Knowledge jobs
+2012,Modena,2.2658,Knowledge jobs
+2012,Monza-Brianza,2.7911,Knowledge jobs
+2012,Novara,0.9593,Knowledge jobs
+2012,Padua,3.3667,Knowledge jobs
+2012,Parma,1.6399,Knowledge jobs
+2012,Pavia,1.3476,Knowledge jobs
+2012,Piacenza,0.8086,Knowledge jobs
+2012,Pordenone,0.8177,Knowledge jobs
+2012,Ravenna,1.0552,Knowledge jobs
+2012,Reggio Emilia,1.6125,Knowledge jobs
+2012,Rimini,1.0095,Knowledge jobs
+2012,Rovigo,0.5208,Knowledge jobs
+2012,Savona,0.6532,Knowledge jobs
+2012,Sondrio,0.5071,Knowledge jobs
+2012,Trento,1.7907,Knowledge jobs
+2012,Treviso,2.4257,Knowledge jobs
+2012,Trieste,1.1329,Knowledge jobs
+2012,Turin,8.9626,Knowledge jobs
+2012,Udine,1.6902,Knowledge jobs
+2012,Varese,2.5353,Knowledge jobs
+2012,Venice,2.5079,Knowledge jobs
+2012,Verbano-Cusio-Ossola,0.3563,Knowledge jobs
+2012,Vercelli,0.434,Knowledge jobs
+2012,Verona,2.8368,Knowledge jobs
+2012,Vicenza,2.1881,Knowledge jobs
+2013,Alessandria,1.0146,Knowledge jobs
+2013,Aosta,0.3994,Knowledge jobs
+2013,Asti,0.5463,Knowledge jobs
+2013,Belluno,0.4362,Knowledge jobs
+2013,Bergamo,3.0256,Knowledge jobs
+2013,Biella,0.4729,Knowledge jobs
+2013,Bologna,4.6371,Knowledge jobs
+2013,Bolzano,1.5243,Knowledge jobs
+2013,Brescia,3.7097,Knowledge jobs
+2013,Como,1.5748,Knowledge jobs
+2013,Cremona,0.9045,Knowledge jobs
+2013,Cuneo,1.5885,Knowledge jobs
+2013,Ferrara,0.8126,Knowledge jobs
+2013,Forli-Cesena,1.0927,Knowledge jobs
+2013,Genoa,3.0623,Knowledge jobs
+2013,Gorizia,0.3168,Knowledge jobs
+2013,Imperia,0.4224,Knowledge jobs
+2013,La Spezia,0.5785,Knowledge jobs
+2013,Lecco,0.9136,Knowledge jobs
+2013,Lodi,0.5969,Knowledge jobs
+2013,Mantua,1.1524,Knowledge jobs
+2013,Milan,24.8703,Knowledge jobs
+2013,Modena,2.3828,Knowledge jobs
+2013,Monza-Brianza,2.7731,Knowledge jobs
+2013,Novara,0.9641,Knowledge jobs
+2013,Padua,3.2459,Knowledge jobs
+2013,Parma,1.662,Knowledge jobs
+2013,Pavia,1.3452,Knowledge jobs
+2013,Piacenza,0.8264,Knowledge jobs
+2013,Pordenone,0.8402,Knowledge jobs
+2013,Ravenna,1.0789,Knowledge jobs
+2013,Reggio Emilia,1.7584,Knowledge jobs
+2013,Rimini,1.0238,Knowledge jobs
+2013,Rovigo,0.5142,Knowledge jobs
+2013,Savona,0.6428,Knowledge jobs
+2013,Sondrio,0.4591,Knowledge jobs
+2013,Trento,1.8686,Knowledge jobs
+2013,Treviso,2.4471,Knowledge jobs
+2013,Trieste,1.1019,Knowledge jobs
+2013,Turin,9.0629,Knowledge jobs
+2013,Udine,1.6666,Knowledge jobs
+2013,Varese,2.3828,Knowledge jobs
+2013,Venice,2.5297,Knowledge jobs
+2013,Verbano-Cusio-Ossola,0.3581,Knowledge jobs
+2013,Vercelli,0.4086,Knowledge jobs
+2013,Verona,2.8649,Knowledge jobs
+2013,Vicenza,2.1395,Knowledge jobs
+2014,Alessandria,0.9767,Knowledge jobs
+2014,Aosta,0.3862,Knowledge jobs
+2014,Asti,0.5134,Knowledge jobs
+2014,Belluno,0.4588,Knowledge jobs
+2014,Bergamo,3.0756,Knowledge jobs
+2014,Biella,0.4725,Knowledge jobs
+2014,Bologna,4.7701,Knowledge jobs
+2014,Bolzano,1.5037,Knowledge jobs
+2014,Brescia,3.7343,Knowledge jobs
+2014,Como,1.5991,Knowledge jobs
+2014,Cremona,0.8768,Knowledge jobs
+2014,Cuneo,1.5946,Knowledge jobs
+2014,Ferrara,0.8086,Knowledge jobs
+2014,Forli-Cesena,1.1039,Knowledge jobs
+2014,Genoa,3.0211,Knowledge jobs
+2014,Gorizia,0.318,Knowledge jobs
+2014,Imperia,0.4043,Knowledge jobs
+2014,La Spezia,0.5815,Knowledge jobs
+2014,Lecco,0.8995,Knowledge jobs
+2014,Lodi,0.6178,Knowledge jobs
+2014,Mantua,1.1357,Knowledge jobs
+2014,Milan,24.9773,Knowledge jobs
+2014,Modena,2.2851,Knowledge jobs
+2014,Monza-Brianza,2.6849,Knowledge jobs
+2014,Novara,0.9767,Knowledge jobs
+2014,Padua,3.3436,Knowledge jobs
+2014,Parma,1.6945,Knowledge jobs
+2014,Pavia,1.3311,Knowledge jobs
+2014,Piacenza,0.8541,Knowledge jobs
+2014,Pordenone,0.8223,Knowledge jobs
+2014,Ravenna,1.0767,Knowledge jobs
+2014,Reggio Emilia,1.7445,Knowledge jobs
+2014,Rimini,0.9995,Knowledge jobs
+2014,Rovigo,0.4997,Knowledge jobs
+2014,Savona,0.6406,Knowledge jobs
+2014,Sondrio,0.4679,Knowledge jobs
+2014,Trento,1.8717,Knowledge jobs
+2014,Treviso,2.6531,Knowledge jobs
+2014,Trieste,1.0267,Knowledge jobs
+2014,Turin,8.827,Knowledge jobs
+2014,Udine,1.7218,Knowledge jobs
+2014,Varese,2.435,Knowledge jobs
+2014,Venice,2.5123,Knowledge jobs
+2014,Verbano-Cusio-Ossola,0.3453,Knowledge jobs
+2014,Vercelli,0.3862,Knowledge jobs
+2014,Verona,2.8257,Knowledge jobs
+2014,Vicenza,2.1443,Knowledge jobs
+2015,Alessandria,1.0012,Knowledge jobs
+2015,Aosta,0.3721,Knowledge jobs
+2015,Asti,0.5272,Knowledge jobs
+2015,Belluno,0.4563,Knowledge jobs
+2015,Bergamo,3.0745,Knowledge jobs
+2015,Biella,0.474,Knowledge jobs
+2015,Bologna,4.6693,Knowledge jobs
+2015,Bolzano,1.4885,Knowledge jobs
+2015,Brescia,3.7346,Knowledge jobs
+2015,Como,1.6037,Knowledge jobs
+2015,Cremona,0.886,Knowledge jobs
+2015,Cuneo,1.5638,Knowledge jobs
+2015,Ferrara,0.793,Knowledge jobs
+2015,Forli-Cesena,1.0987,Knowledge jobs
+2015,Genoa,2.9637,Knowledge jobs
+2015,Gorizia,0.3145,Knowledge jobs
+2015,Imperia,0.3854,Knowledge jobs
+2015,La Spezia,0.5803,Knowledge jobs
+2015,Lecco,0.9126,Knowledge jobs
+2015,Lodi,0.5848,Knowledge jobs
+2015,Mantua,1.1828,Knowledge jobs
+2015,Milan,25.3666,Knowledge jobs
+2015,Modena,2.3081,Knowledge jobs
+2015,Monza-Brianza,2.6891,Knowledge jobs
+2015,Novara,0.979,Knowledge jobs
+2015,Padua,3.3403,Knowledge jobs
+2015,Parma,1.6746,Knowledge jobs
+2015,Pavia,1.3069,Knowledge jobs
+2015,Piacenza,0.7974,Knowledge jobs
+2015,Pordenone,0.8196,Knowledge jobs
+2015,Ravenna,1.0455,Knowledge jobs
+2015,Reggio Emilia,1.7056,Knowledge jobs
+2015,Rimini,0.9613,Knowledge jobs
+2015,Rovigo,0.4829,Knowledge jobs
+2015,Savona,0.6158,Knowledge jobs
+2015,Sondrio,0.4474,Knowledge jobs
+2015,Trento,1.8562,Knowledge jobs
+2015,Treviso,2.6005,Knowledge jobs
+2015,Trieste,1.0189,Knowledge jobs
+2015,Turin,8.838,Knowledge jobs
+2015,Udine,1.7499,Knowledge jobs
+2015,Varese,2.3789,Knowledge jobs
+2015,Venice,2.5473,Knowledge jobs
+2015,Verbano-Cusio-Ossola,0.35,Knowledge jobs
+2015,Vercelli,0.4164,Knowledge jobs
+2015,Verona,2.8441,Knowledge jobs
+2015,Vicenza,2.1929,Knowledge jobs
+2016,Alessandria,0.972,Knowledge jobs
+2016,Aosta,0.3705,Knowledge jobs
+2016,Asti,0.4402,Knowledge jobs
+2016,Belluno,0.4838,Knowledge jobs
+2016,Bergamo,3.1731,Knowledge jobs
+2016,Biella,0.4794,Knowledge jobs
+2016,Bologna,4.7248,Knowledge jobs
+2016,Bolzano,1.4863,Knowledge jobs
+2016,Brescia,3.7833,Knowledge jobs
+2016,Como,1.5909,Knowledge jobs
+2016,Cremona,0.8979,Knowledge jobs
+2016,Cuneo,1.5822,Knowledge jobs
+2016,Ferrara,0.7889,Knowledge jobs
+2016,Forli-Cesena,1.1115,Knowledge jobs
+2016,Genoa,2.9508,Knowledge jobs
+2016,Gorizia,0.3225,Knowledge jobs
+2016,Imperia,0.3923,Knowledge jobs
+2016,La Spezia,0.5579,Knowledge jobs
+2016,Lecco,0.9022,Knowledge jobs
+2016,Lodi,0.5623,Knowledge jobs
+2016,Mantua,1.2117,Knowledge jobs
+2016,Milan,25.3454,Knowledge jobs
+2016,Modena,2.3014,Knowledge jobs
+2016,Monza-Brianza,2.7241,Knowledge jobs
+2016,Novara,0.9938,Knowledge jobs
+2016,Padua,3.439,Knowledge jobs
+2016,Parma,1.7173,Knowledge jobs
+2016,Pavia,1.2684,Knowledge jobs
+2016,Piacenza,0.7846,Knowledge jobs
+2016,Pordenone,0.8194,Knowledge jobs
+2016,Ravenna,1.0461,Knowledge jobs
+2016,Reggio Emilia,1.6868,Knowledge jobs
+2016,Rimini,0.9502,Knowledge jobs
+2016,Rovigo,0.4882,Knowledge jobs
+2016,Savona,0.5884,Knowledge jobs
+2016,Sondrio,0.4402,Knowledge jobs
+2016,Trento,1.8568,Knowledge jobs
+2016,Treviso,2.65,Knowledge jobs
+2016,Trieste,1.0025,Knowledge jobs
+2016,Turin,8.8088,Knowledge jobs
+2016,Udine,1.5953,Knowledge jobs
+2016,Varese,2.3493,Knowledge jobs
+2016,Venice,2.4888,Knowledge jobs
+2016,Verbano-Cusio-Ossola,0.3313,Knowledge jobs
+2016,Vercelli,0.4054,Knowledge jobs
+2016,Verona,2.8941,Knowledge jobs
+2016,Vicenza,2.2403,Knowledge jobs
+2017,Alessandria,0.9527,Knowledge jobs
+2017,Aosta,0.3871,Knowledge jobs
+2017,Asti,0.4594,Knowledge jobs
+2017,Belluno,0.5147,Knowledge jobs
+2017,Bergamo,3.156,Knowledge jobs
+2017,Biella,0.5019,Knowledge jobs
+2017,Bologna,4.819,Knowledge jobs
+2017,Bolzano,1.4589,Knowledge jobs
+2017,Brescia,3.8748,Knowledge jobs
+2017,Como,1.6588,Knowledge jobs
+2017,Cremona,0.9187,Knowledge jobs
+2017,Cuneo,1.612,Knowledge jobs
+2017,Ferrara,0.7869,Knowledge jobs
+2017,Forli-Cesena,1.1016,Knowledge jobs
+2017,Genoa,2.8667,Knowledge jobs
+2017,Gorizia,0.285,Knowledge jobs
+2017,Imperia,0.3913,Knowledge jobs
+2017,La Spezia,0.5785,Knowledge jobs
+2017,Lecco,0.9357,Knowledge jobs
+2017,Lodi,0.5529,Knowledge jobs
+2017,Mantua,1.2122,Knowledge jobs
+2017,Milan,25.0053,Knowledge jobs
+2017,Modena,2.3691,Knowledge jobs
+2017,Monza-Brianza,2.7009,Knowledge jobs
+2017,Novara,0.9783,Knowledge jobs
+2017,Padua,3.4324,Knowledge jobs
+2017,Parma,1.6928,Knowledge jobs
+2017,Pavia,1.2803,Knowledge jobs
+2017,Piacenza,0.7996,Knowledge jobs
+2017,Pordenone,0.8337,Knowledge jobs
+2017,Ravenna,1.0718,Knowledge jobs
+2017,Reggio Emilia,1.646,Knowledge jobs
+2017,Rimini,0.9357,Knowledge jobs
+2017,Rovigo,0.5019,Knowledge jobs
+2017,Savona,0.621,Knowledge jobs
+2017,Sondrio,0.4296,Knowledge jobs
+2017,Trento,1.8757,Knowledge jobs
+2017,Treviso,2.6541,Knowledge jobs
+2017,Trieste,0.9442,Knowledge jobs
+2017,Turin,8.9703,Knowledge jobs
+2017,Udine,1.5525,Knowledge jobs
+2017,Varese,2.2628,Knowledge jobs
+2017,Venice,2.5095,Knowledge jobs
+2017,Verbano-Cusio-Ossola,0.319,Knowledge jobs
+2017,Vercelli,0.3913,Knowledge jobs
+2017,Verona,2.8965,Knowledge jobs
+2017,Vicenza,2.3011,Knowledge jobs
+2018,Alessandria,0.922,Knowledge jobs
+2018,Aosta,0.3804,Knowledge jobs
+2018,Asti,0.4838,Knowledge jobs
+2018,Belluno,0.5044,Knowledge jobs
+2018,Bergamo,3.2043,Knowledge jobs
+2018,Biella,0.492,Knowledge jobs
+2018,Bologna,4.7796,Knowledge jobs
+2018,Bolzano,1.505,Knowledge jobs
+2018,Brescia,3.9734,Knowledge jobs
+2018,Como,1.6787,Knowledge jobs
+2018,Cremona,0.9138,Knowledge jobs
+2018,Cuneo,1.6456,Knowledge jobs
+2018,Ferrara,0.7649,Knowledge jobs
+2018,Forli-Cesena,1.0998,Knowledge jobs
+2018,Genoa,2.7826,Knowledge jobs
+2018,Gorizia,0.2812,Knowledge jobs
+2018,Imperia,0.3721,Knowledge jobs
+2018,La Spezia,0.5582,Knowledge jobs
+2018,Lecco,0.9344,Knowledge jobs
+2018,Lodi,0.5706,Knowledge jobs
+2018,Mantua,1.1825,Knowledge jobs
+2018,Milan,25.1426,Knowledge jobs
+2018,Modena,2.3609,Knowledge jobs
+2018,Monza-Brianza,2.6462,Knowledge jobs
+2018,Novara,0.9758,Knowledge jobs
+2018,Padua,3.4648,Knowledge jobs
+2018,Parma,1.6993,Knowledge jobs
+2018,Pavia,1.2735,Knowledge jobs
+2018,Piacenza,0.8228,Knowledge jobs
+2018,Pordenone,0.8187,Knowledge jobs
+2018,Ravenna,1.075,Knowledge jobs
+2018,Reggio Emilia,1.6538,Knowledge jobs
+2018,Rimini,0.922,Knowledge jobs
+2018,Rovigo,0.492,Knowledge jobs
+2018,Savona,0.6037,Knowledge jobs
+2018,Sondrio,0.43,Knowledge jobs
+2018,Trento,1.8937,Knowledge jobs
+2018,Treviso,2.6999,Knowledge jobs
+2018,Trieste,0.9303,Knowledge jobs
+2018,Turin,8.9142,Knowledge jobs
+2018,Udine,1.5381,Knowledge jobs
+2018,Varese,2.303,Knowledge jobs
+2018,Venice,2.489,Knowledge jobs
+2018,Verbano-Cusio-Ossola,0.3101,Knowledge jobs
+2018,Vercelli,0.3804,Knowledge jobs
+2018,Verona,2.8322,Knowledge jobs
+2018,Vicenza,2.2989,Knowledge jobs
+2019,Alessandria,0.9057,Knowledge jobs
+2019,Aosta,0.3688,Knowledge jobs
+2019,Asti,0.4713,Knowledge jobs
+2019,Belluno,0.5,Knowledge jobs
+2019,Bergamo,3.1596,Knowledge jobs
+2019,Biella,0.4795,Knowledge jobs
+2019,Bologna,4.8439,Knowledge jobs
+2019,Bolzano,1.5286,Knowledge jobs
+2019,Brescia,3.9628,Knowledge jobs
+2019,Como,1.6802,Knowledge jobs
+2019,Cremona,0.9057,Knowledge jobs
+2019,Cuneo,1.6433,Knowledge jobs
+2019,Ferrara,0.754,Knowledge jobs
+2019,Forli-Cesena,1.0942,Knowledge jobs
+2019,Genoa,2.7703,Knowledge jobs
+2019,Gorizia,0.2746,Knowledge jobs
+2019,Imperia,0.3606,Knowledge jobs
+2019,La Spezia,0.5327,Knowledge jobs
+2019,Lecco,0.9262,Knowledge jobs
+2019,Lodi,0.586,Knowledge jobs
+2019,Mantua,1.1679,Knowledge jobs
+2019,Milan,25.6249,Knowledge jobs
+2019,Modena,2.3441,Knowledge jobs
+2019,Monza-Brianza,2.6801,Knowledge jobs
+2019,Novara,0.9794,Knowledge jobs
+2019,Padua,3.4997,Knowledge jobs
+2019,Parma,1.6679,Knowledge jobs
+2019,Pavia,1.2499,Knowledge jobs
+2019,Piacenza,0.8032,Knowledge jobs
+2019,Pordenone,0.795,Knowledge jobs
+2019,Ravenna,1.0655,Knowledge jobs
+2019,Reggio Emilia,1.5859,Knowledge jobs
+2019,Rimini,0.9098,Knowledge jobs
+2019,Rovigo,0.4877,Knowledge jobs
+2019,Savona,0.586,Knowledge jobs
+2019,Sondrio,0.4221,Knowledge jobs
+2019,Trento,1.8974,Knowledge jobs
+2019,Treviso,2.6883,Knowledge jobs
+2019,Trieste,0.9057,Knowledge jobs
+2019,Turin,8.7493,Knowledge jobs
+2019,Udine,1.5572,Knowledge jobs
+2019,Varese,2.2744,Knowledge jobs
+2019,Venice,2.508,Knowledge jobs
+2019,Verbano-Cusio-Ossola,0.291,Knowledge jobs
+2019,Vercelli,0.3729,Knowledge jobs
+2019,Verona,2.844,Knowledge jobs
+2019,Vicenza,2.2949,Knowledge jobs
+2020,Alessandria,0.9421,Knowledge jobs
+2020,Aosta,0.3719,Knowledge jobs
+2020,Asti,0.4793,Knowledge jobs
+2020,Belluno,0.4587,Knowledge jobs
+2020,Bergamo,3.1488,Knowledge jobs
+2020,Biella,0.4752,Knowledge jobs
+2020,Bologna,4.6322,Knowledge jobs
+2020,Bolzano,1.4959,Knowledge jobs
+2020,Brescia,3.8306,Knowledge jobs
+2020,Como,1.8512,Knowledge jobs
+2020,Cremona,0.9215,Knowledge jobs
+2020,Cuneo,1.7603,Knowledge jobs
+2020,Ferrara,0.7397,Knowledge jobs
+2020,Forli-Cesena,1.0992,Knowledge jobs
+2020,Genoa,2.8099,Knowledge jobs
+2020,Gorizia,0.3017,Knowledge jobs
+2020,Imperia,0.3843,Knowledge jobs
+2020,La Spezia,0.5455,Knowledge jobs
+2020,Lecco,0.9008,Knowledge jobs
+2020,Lodi,0.5537,Knowledge jobs
+2020,Mantua,1.2107,Knowledge jobs
+2020,Milan,25.2562,Knowledge jobs
+2020,Modena,2.4256,Knowledge jobs
+2020,Monza-Brianza,2.7397,Knowledge jobs
+2020,Novara,1.0083,Knowledge jobs
+2020,Padua,3.3264,Knowledge jobs
+2020,Parma,1.657,Knowledge jobs
+2020,Pavia,1.2934,Knowledge jobs
+2020,Piacenza,0.8347,Knowledge jobs
+2020,Pordenone,0.7975,Knowledge jobs
+2020,Ravenna,1.0744,Knowledge jobs
+2020,Reggio Emilia,1.7107,Knowledge jobs
+2020,Rimini,0.9711,Knowledge jobs
+2020,Rovigo,0.5124,Knowledge jobs
+2020,Savona,0.5909,Knowledge jobs
+2020,Sondrio,0.4504,Knowledge jobs
+2020,Trento,1.6983,Knowledge jobs
+2020,Treviso,2.7438,Knowledge jobs
+2020,Trieste,0.9339,Knowledge jobs
+2020,Turin,8.624,Knowledge jobs
+2020,Udine,1.5413,Knowledge jobs
+2020,Varese,2.4132,Knowledge jobs
+2020,Venice,2.4421,Knowledge jobs
+2020,Verbano-Cusio-Ossola,0.2975,Knowledge jobs
+2020,Vercelli,0.3843,Knowledge jobs
+2020,Verona,2.9628,Knowledge jobs
+2020,Vicenza,2.3967,Knowledge jobs
+2021,Alessandria,0.939,Knowledge jobs
+2021,Aosta,0.3562,Knowledge jobs
+2021,Asti,0.4654,Knowledge jobs
+2021,Belluno,0.4857,Knowledge jobs
+2021,Bergamo,3.1164,Knowledge jobs
+2021,Biella,0.4776,Knowledge jobs
+2021,Bologna,4.5289,Knowledge jobs
+2021,Bolzano,1.4975,Knowledge jobs
+2021,Brescia,3.8773,Knowledge jobs
+2021,Como,1.7484,Knowledge jobs
+2021,Cremona,0.9268,Knowledge jobs
+2021,Cuneo,1.8132,Knowledge jobs
+2021,Ferrara,0.7568,Knowledge jobs
+2021,Forli-Cesena,1.0806,Knowledge jobs
+2021,Genoa,2.7521,Knowledge jobs
+2021,Gorizia,0.3116,Knowledge jobs
+2021,Imperia,0.3562,Knowledge jobs
+2021,La Spezia,0.5788,Knowledge jobs
+2021,Lecco,0.9025,Knowledge jobs
+2021,Lodi,0.5423,Knowledge jobs
+2021,Mantua,1.1859,Knowledge jobs
+2021,Milan,25.4978,Knowledge jobs
+2021,Modena,2.4729,Knowledge jobs
+2021,Monza-Brianza,2.6469,Knowledge jobs
+2021,Novara,1.0199,Knowledge jobs
+2021,Padua,3.2783,Knowledge jobs
+2021,Parma,1.6958,Knowledge jobs
+2021,Pavia,1.3073,Knowledge jobs
+2021,Piacenza,0.8661,Knowledge jobs
+2021,Pordenone,0.8014,Knowledge jobs
+2021,Ravenna,1.0482,Knowledge jobs
+2021,Reggio Emilia,1.712,Knowledge jobs
+2021,Rimini,0.9633,Knowledge jobs
+2021,Rovigo,0.5707,Knowledge jobs
+2021,Savona,0.5707,Knowledge jobs
+2021,Sondrio,0.429,Knowledge jobs
+2021,Trento,1.712,Knowledge jobs
+2021,Treviso,2.74,Knowledge jobs
+2021,Trieste,0.9228,Knowledge jobs
+2021,Turin,8.649,Knowledge jobs
+2021,Udine,1.6108,Knowledge jobs
+2021,Varese,2.3474,Knowledge jobs
+2021,Venice,2.4405,Knowledge jobs
+2021,Verbano-Cusio-Ossola,0.2995,Knowledge jobs
+2021,Vercelli,0.3723,Knowledge jobs
+2021,Verona,2.9343,Knowledge jobs
+2021,Vicenza,2.3919,Knowledge jobs
+2022,Alessandria,0.9325,Knowledge jobs
+2022,Aosta,0.3487,Knowledge jobs
+2022,Asti,0.4623,Knowledge jobs
+2022,Belluno,0.5054,Knowledge jobs
+2022,Bergamo,3.15,Knowledge jobs
+2022,Biella,0.4623,Knowledge jobs
+2022,Bologna,4.5526,Knowledge jobs
+2022,Bolzano,1.5201,Knowledge jobs
+2022,Brescia,3.8043,Knowledge jobs
+2022,Como,1.7787,Knowledge jobs
+2022,Cremona,0.9403,Knowledge jobs
+2022,Cuneo,1.7552,Knowledge jobs
+2022,Ferrara,0.7562,Knowledge jobs
+2022,Forli-Cesena,1.0735,Knowledge jobs
+2022,Genoa,2.7934,Knowledge jobs
+2022,Gorizia,0.3056,Knowledge jobs
+2022,Imperia,0.3565,Knowledge jobs
+2022,La Spezia,0.5524,Knowledge jobs
+2022,Lecco,0.8933,Knowledge jobs
+2022,Lodi,0.5328,Knowledge jobs
+2022,Mantua,1.1636,Knowledge jobs
+2022,Milan,25.5524,Knowledge jobs
+2022,Modena,2.4565,Knowledge jobs
+2022,Monza-Brianza,2.6367,Knowledge jobs
+2022,Novara,1.0461,Knowledge jobs
+2022,Padua,3.2675,Knowledge jobs
+2022,Parma,1.6612,Knowledge jobs
+2022,Pavia,1.289,Knowledge jobs
+2022,Piacenza,0.8267,Knowledge jobs
+2022,Pordenone,0.7953,Knowledge jobs
+2022,Ravenna,1.0226,Knowledge jobs
+2022,Reggio Emilia,1.7239,Knowledge jobs
+2022,Rimini,0.952,Knowledge jobs
+2022,Rovigo,0.5289,Knowledge jobs
+2022,Savona,0.5603,Knowledge jobs
+2022,Sondrio,0.431,Knowledge jobs
+2022,Trento,1.8101,Knowledge jobs
+2022,Treviso,2.7778,Knowledge jobs
+2022,Trieste,0.9246,Knowledge jobs
+2022,Turin,8.5997,Knowledge jobs
+2022,Udine,1.575,Knowledge jobs
+2022,Varese,2.3429,Knowledge jobs
+2022,Venice,2.4879,Knowledge jobs
+2022,Verbano-Cusio-Ossola,0.2938,Knowledge jobs
+2022,Vercelli,0.3761,Knowledge jobs
+2022,Verona,2.9933,Knowledge jobs
+2022,Vicenza,2.4291,Knowledge jobs
+2023,Alessandria,0.9151,Knowledge jobs
+2023,Aosta,0.3508,Knowledge jobs
+2023,Asti,0.4614,Knowledge jobs
+2023,Belluno,0.5071,Knowledge jobs
+2023,Bergamo,3.0884,Knowledge jobs
+2023,Biella,0.469,Knowledge jobs
+2023,Bologna,4.6098,Knowledge jobs
+2023,Bolzano,1.5556,Knowledge jobs
+2023,Brescia,3.7785,Knowledge jobs
+2023,Como,1.7349,Knowledge jobs
+2023,Cremona,0.9532,Knowledge jobs
+2023,Cuneo,1.7082,Knowledge jobs
+2023,Ferrara,0.7397,Knowledge jobs
+2023,Forli-Cesena,1.0867,Knowledge jobs
+2023,Genoa,2.772,Knowledge jobs
+2023,Gorizia,0.305,Knowledge jobs
+2023,Imperia,0.3584,Knowledge jobs
+2023,La Spezia,0.5452,Knowledge jobs
+2023,Lecco,0.877,Knowledge jobs
+2023,Lodi,0.5452,Knowledge jobs
+2023,Mantua,1.1477,Knowledge jobs
+2023,Milan,25.8322,Knowledge jobs
+2023,Modena,2.444,Knowledge jobs
+2023,Monza-Brianza,2.6347,Knowledge jobs
+2023,Novara,1.0333,Knowledge jobs
+2023,Padua,3.2447,Knowledge jobs
+2023,Parma,1.6853,Knowledge jobs
+2023,Pavia,1.2811,Knowledge jobs
+2023,Piacenza,0.8236,Knowledge jobs
+2023,Pordenone,0.7702,Knowledge jobs
+2023,Ravenna,1.0409,Knowledge jobs
+2023,Reggio Emilia,1.7539,Knowledge jobs
+2023,Rimini,0.9532,Knowledge jobs
+2023,Rovigo,0.5071,Knowledge jobs
+2023,Savona,0.5643,Knowledge jobs
+2023,Sondrio,0.427,Knowledge jobs
+2023,Trento,1.7234,Knowledge jobs
+2023,Treviso,2.73,Knowledge jobs
+2023,Trieste,0.9151,Knowledge jobs
+2023,Turin,8.7925,Knowledge jobs
+2023,Udine,1.5251,Knowledge jobs
+2023,Varese,2.3411,Knowledge jobs
+2023,Venice,2.4479,Knowledge jobs
+2023,Verbano-Cusio-Ossola,0.286,Knowledge jobs
+2023,Vercelli,0.3737,Knowledge jobs
+2023,Verona,2.9969,Knowledge jobs
+2023,Vicenza,2.364,Knowledge jobs
+2008,Alessandria,1.0151,Knowledge jobs (without finance)
+2008,Aosta,0.3878,Knowledge jobs (without finance)
+2008,Asti,0.4676,Knowledge jobs (without finance)
+2008,Belluno,0.422,Knowledge jobs (without finance)
+2008,Bergamo,3.2678,Knowledge jobs (without finance)
+2008,Biella,0.4676,Knowledge jobs (without finance)
+2008,Bologna,4.3114,Knowledge jobs (without finance)
+2008,Bolzano,1.4885,Knowledge jobs (without finance)
+2008,Brescia,3.8551,Knowledge jobs (without finance)
+2008,Como,1.5854,Knowledge jobs (without finance)
+2008,Cremona,1.095,Knowledge jobs (without finance)
+2008,Cuneo,1.6253,Knowledge jobs (without finance)
+2008,Ferrara,1.0094,Knowledge jobs (without finance)
+2008,Forli-Cesena,0.9866,Knowledge jobs (without finance)
+2008,Genoa,2.937,Knowledge jobs (without finance)
+2008,Gorizia,0.2908,Knowledge jobs (without finance)
+2008,Imperia,0.5133,Knowledge jobs (without finance)
+2008,La Spezia,0.5247,Knowledge jobs (without finance)
+2008,Lecco,0.9752,Knowledge jobs (without finance)
+2008,Lodi,0.5988,Knowledge jobs (without finance)
+2008,Mantua,1.0436,Knowledge jobs (without finance)
+2008,Milan,24.8018,Knowledge jobs (without finance)
+2008,Modena,2.3553,Knowledge jobs (without finance)
+2008,Monza-Brianza,2.9427,Knowledge jobs (without finance)
+2008,Novara,1.0721,Knowledge jobs (without finance)
+2008,Padua,2.9256,Knowledge jobs (without finance)
+2008,Parma,1.5569,Knowledge jobs (without finance)
+2008,Pavia,1.4827,Knowledge jobs (without finance)
+2008,Piacenza,0.844,Knowledge jobs (without finance)
+2008,Pordenone,0.8668,Knowledge jobs (without finance)
+2008,Ravenna,1.1178,Knowledge jobs (without finance)
+2008,Reggio Emilia,1.5569,Knowledge jobs (without finance)
+2008,Rimini,1.0322,Knowledge jobs (without finance)
+2008,Rovigo,0.4163,Knowledge jobs (without finance)
+2008,Savona,0.6729,Knowledge jobs (without finance)
+2008,Sondrio,0.422,Knowledge jobs (without finance)
+2008,Trento,1.8249,Knowledge jobs (without finance)
+2008,Treviso,2.4522,Knowledge jobs (without finance)
+2008,Trieste,0.9467,Knowledge jobs (without finance)
+2008,Turin,9.4269,Knowledge jobs (without finance)
+2008,Udine,1.8078,Knowledge jobs (without finance)
+2008,Varese,2.5777,Knowledge jobs (without finance)
+2008,Venice,2.5549,Knowledge jobs (without finance)
+2008,Verbano-Cusio-Ossola,0.3422,Knowledge jobs (without finance)
+2008,Vercelli,0.479,Knowledge jobs (without finance)
+2008,Verona,2.6119,Knowledge jobs (without finance)
+2008,Vicenza,2.0416,Knowledge jobs (without finance)
+2009,Alessandria,1.0843,Knowledge jobs (without finance)
+2009,Aosta,0.4059,Knowledge jobs (without finance)
+2009,Asti,0.4639,Knowledge jobs (without finance)
+2009,Belluno,0.4117,Knowledge jobs (without finance)
+2009,Bergamo,3.4269,Knowledge jobs (without finance)
+2009,Biella,0.4407,Knowledge jobs (without finance)
+2009,Bologna,4.3778,Knowledge jobs (without finance)
+2009,Bolzano,1.554,Knowledge jobs (without finance)
+2009,Brescia,3.682,Knowledge jobs (without finance)
+2009,Como,1.6236,Knowledge jobs (without finance)
+2009,Cremona,0.9973,Knowledge jobs (without finance)
+2009,Cuneo,1.5598,Knowledge jobs (without finance)
+2009,Ferrara,0.9046,Knowledge jobs (without finance)
+2009,Forli-Cesena,1.0205,Knowledge jobs (without finance)
+2009,Genoa,3.0732,Knowledge jobs (without finance)
+2009,Gorizia,0.3073,Knowledge jobs (without finance)
+2009,Imperia,0.4407,Knowledge jobs (without finance)
+2009,La Spezia,0.5277,Knowledge jobs (without finance)
+2009,Lecco,0.9857,Knowledge jobs (without finance)
+2009,Lodi,0.632,Knowledge jobs (without finance)
+2009,Mantua,1.0263,Knowledge jobs (without finance)
+2009,Milan,24.6782,Knowledge jobs (without finance)
+2009,Modena,2.331,Knowledge jobs (without finance)
+2009,Monza-Brianza,2.8296,Knowledge jobs (without finance)
+2009,Novara,1.0669,Knowledge jobs (without finance)
+2009,Padua,2.9224,Knowledge jobs (without finance)
+2009,Parma,1.612,Knowledge jobs (without finance)
+2009,Pavia,1.409,Knowledge jobs (without finance)
+2009,Piacenza,0.806,Knowledge jobs (without finance)
+2009,Pordenone,0.8118,Knowledge jobs (without finance)
+2009,Ravenna,1.0495,Knowledge jobs (without finance)
+2009,Reggio Emilia,1.6004,Knowledge jobs (without finance)
+2009,Rimini,1.0147,Knowledge jobs (without finance)
+2009,Rovigo,0.4523,Knowledge jobs (without finance)
+2009,Savona,0.6842,Knowledge jobs (without finance)
+2009,Sondrio,0.4175,Knowledge jobs (without finance)
+2009,Trento,1.8613,Knowledge jobs (without finance)
+2009,Treviso,2.2556,Knowledge jobs (without finance)
+2009,Trieste,0.8872,Knowledge jobs (without finance)
+2009,Turin,9.579,Knowledge jobs (without finance)
+2009,Udine,1.7685,Knowledge jobs (without finance)
+2009,Varese,2.6093,Knowledge jobs (without finance)
+2009,Venice,2.5803,Knowledge jobs (without finance)
+2009,Verbano-Cusio-Ossola,0.3421,Knowledge jobs (without finance)
+2009,Vercelli,0.4813,Knowledge jobs (without finance)
+2009,Verona,2.8644,Knowledge jobs (without finance)
+2009,Vicenza,2.1396,Knowledge jobs (without finance)
+2010,Alessandria,1.0111,Knowledge jobs (without finance)
+2010,Aosta,0.417,Knowledge jobs (without finance)
+2010,Asti,0.4456,Knowledge jobs (without finance)
+2010,Belluno,0.417,Knowledge jobs (without finance)
+2010,Bergamo,3.1818,Knowledge jobs (without finance)
+2010,Biella,0.4113,Knowledge jobs (without finance)
+2010,Bologna,4.6384,Knowledge jobs (without finance)
+2010,Bolzano,1.5937,Knowledge jobs (without finance)
+2010,Brescia,3.5474,Knowledge jobs (without finance)
+2010,Como,1.6566,Knowledge jobs (without finance)
+2010,Cremona,0.9711,Knowledge jobs (without finance)
+2010,Cuneo,1.5366,Knowledge jobs (without finance)
+2010,Ferrara,0.8397,Knowledge jobs (without finance)
+2010,Forli-Cesena,1.0454,Knowledge jobs (without finance)
+2010,Genoa,3.0961,Knowledge jobs (without finance)
+2010,Gorizia,0.337,Knowledge jobs (without finance)
+2010,Imperia,0.4056,Knowledge jobs (without finance)
+2010,La Spezia,0.5198,Knowledge jobs (without finance)
+2010,Lecco,0.9197,Knowledge jobs (without finance)
+2010,Lodi,0.6284,Knowledge jobs (without finance)
+2010,Mantua,1.0225,Knowledge jobs (without finance)
+2010,Milan,25.0314,Knowledge jobs (without finance)
+2010,Modena,2.2449,Knowledge jobs (without finance)
+2010,Monza-Brianza,2.8505,Knowledge jobs (without finance)
+2010,Novara,1.0511,Knowledge jobs (without finance)
+2010,Padua,3.2389,Knowledge jobs (without finance)
+2010,Parma,1.6794,Knowledge jobs (without finance)
+2010,Pavia,1.3081,Knowledge jobs (without finance)
+2010,Piacenza,0.7369,Knowledge jobs (without finance)
+2010,Pordenone,0.8283,Knowledge jobs (without finance)
+2010,Ravenna,1.0111,Knowledge jobs (without finance)
+2010,Reggio Emilia,1.5366,Knowledge jobs (without finance)
+2010,Rimini,0.9368,Knowledge jobs (without finance)
+2010,Rovigo,0.5141,Knowledge jobs (without finance)
+2010,Savona,0.6341,Knowledge jobs (without finance)
+2010,Sondrio,0.417,Knowledge jobs (without finance)
+2010,Trento,1.8508,Knowledge jobs (without finance)
+2010,Treviso,2.3135,Knowledge jobs (without finance)
+2010,Trieste,0.9197,Knowledge jobs (without finance)
+2010,Turin,9.4196,Knowledge jobs (without finance)
+2010,Udine,1.6623,Knowledge jobs (without finance)
+2010,Varese,2.6619,Knowledge jobs (without finance)
+2010,Venice,2.6162,Knowledge jobs (without finance)
+2010,Verbano-Cusio-Ossola,0.3313,Knowledge jobs (without finance)
+2010,Vercelli,0.457,Knowledge jobs (without finance)
+2010,Verona,2.8904,Knowledge jobs (without finance)
+2010,Vicenza,2.2164,Knowledge jobs (without finance)
+2011,Alessandria,0.9503,Knowledge jobs (without finance)
+2011,Aosta,0.4136,Knowledge jobs (without finance)
+2011,Asti,0.4975,Knowledge jobs (without finance)
+2011,Belluno,0.4528,Knowledge jobs (without finance)
+2011,Bergamo,3.1023,Knowledge jobs (without finance)
+2011,Biella,0.3969,Knowledge jobs (without finance)
+2011,Bologna,4.7736,Knowledge jobs (without finance)
+2011,Bolzano,1.5707,Knowledge jobs (without finance)
+2011,Brescia,3.6333,Knowledge jobs (without finance)
+2011,Como,1.6713,Knowledge jobs (without finance)
+2011,Cremona,0.9167,Knowledge jobs (without finance)
+2011,Cuneo,1.5316,Knowledge jobs (without finance)
+2011,Ferrara,0.8329,Knowledge jobs (without finance)
+2011,Forli-Cesena,1.0453,Knowledge jobs (without finance)
+2011,Genoa,2.9849,Knowledge jobs (without finance)
+2011,Gorizia,0.3354,Knowledge jobs (without finance)
+2011,Imperia,0.4584,Knowledge jobs (without finance)
+2011,La Spezia,0.5702,Knowledge jobs (without finance)
+2011,Lecco,0.8832,Knowledge jobs (without finance)
+2011,Lodi,0.5702,Knowledge jobs (without finance)
+2011,Mantua,1.0509,Knowledge jobs (without finance)
+2011,Milan,25.0196,Knowledge jobs (without finance)
+2011,Modena,2.1912,Knowledge jobs (without finance)
+2011,Monza-Brianza,2.8675,Knowledge jobs (without finance)
+2011,Novara,1.0173,Knowledge jobs (without finance)
+2011,Padua,3.3594,Knowledge jobs (without finance)
+2011,Parma,1.6713,Knowledge jobs (without finance)
+2011,Pavia,1.3527,Knowledge jobs (without finance)
+2011,Piacenza,0.7937,Knowledge jobs (without finance)
+2011,Pordenone,0.844,Knowledge jobs (without finance)
+2011,Ravenna,1.0788,Knowledge jobs (without finance)
+2011,Reggio Emilia,1.5651,Knowledge jobs (without finance)
+2011,Rimini,0.9894,Knowledge jobs (without finance)
+2011,Rovigo,0.4975,Knowledge jobs (without finance)
+2011,Savona,0.626,Knowledge jobs (without finance)
+2011,Sondrio,0.4192,Knowledge jobs (without finance)
+2011,Trento,1.8278,Knowledge jobs (without finance)
+2011,Treviso,2.2918,Knowledge jobs (without finance)
+2011,Trieste,0.9167,Knowledge jobs (without finance)
+2011,Turin,9.5081,Knowledge jobs (without finance)
+2011,Udine,1.6601,Knowledge jobs (without finance)
+2011,Varese,2.5377,Knowledge jobs (without finance)
+2011,Venice,2.5713,Knowledge jobs (without finance)
+2011,Verbano-Cusio-Ossola,0.3354,Knowledge jobs (without finance)
+2011,Vercelli,0.4639,Knowledge jobs (without finance)
+2011,Verona,2.8116,Knowledge jobs (without finance)
+2011,Vicenza,2.1409,Knowledge jobs (without finance)
+2012,Alessandria,1.0422,Knowledge jobs (without finance)
+2012,Aosta,0.4025,Knowledge jobs (without finance)
+2012,Asti,0.5183,Knowledge jobs (without finance)
+2012,Belluno,0.4246,Knowledge jobs (without finance)
+2012,Bergamo,3.0714,Knowledge jobs (without finance)
+2012,Biella,0.4081,Knowledge jobs (without finance)
+2012,Bologna,4.6871,Knowledge jobs (without finance)
+2012,Bolzano,1.4723,Knowledge jobs (without finance)
+2012,Brescia,3.6559,Knowledge jobs (without finance)
+2012,Como,1.6377,Knowledge jobs (without finance)
+2012,Cremona,0.8878,Knowledge jobs (without finance)
+2012,Cuneo,1.5385,Knowledge jobs (without finance)
+2012,Ferrara,0.8437,Knowledge jobs (without finance)
+2012,Forli-Cesena,1.0422,Knowledge jobs (without finance)
+2012,Genoa,3.0218,Knowledge jobs (without finance)
+2012,Gorizia,0.3088,Knowledge jobs (without finance)
+2012,Imperia,0.4136,Knowledge jobs (without finance)
+2012,La Spezia,0.59,Knowledge jobs (without finance)
+2012,Lecco,0.9154,Knowledge jobs (without finance)
+2012,Lodi,0.5955,Knowledge jobs (without finance)
+2012,Mantua,1.0918,Knowledge jobs (without finance)
+2012,Milan,24.7532,Knowledge jobs (without finance)
+2012,Modena,2.2388,Knowledge jobs (without finance)
+2012,Monza-Brianza,2.8564,Knowledge jobs (without finance)
+2012,Novara,0.9374,Knowledge jobs (without finance)
+2012,Padua,3.4023,Knowledge jobs (without finance)
+2012,Parma,1.6267,Knowledge jobs (without finance)
+2012,Pavia,1.3344,Knowledge jobs (without finance)
+2012,Piacenza,0.8051,Knowledge jobs (without finance)
+2012,Pordenone,0.7996,Knowledge jobs (without finance)
+2012,Ravenna,1.0477,Knowledge jobs (without finance)
+2012,Reggio Emilia,1.6046,Knowledge jobs (without finance)
+2012,Rimini,1.0146,Knowledge jobs (without finance)
+2012,Rovigo,0.5128,Knowledge jobs (without finance)
+2012,Savona,0.6396,Knowledge jobs (without finance)
+2012,Sondrio,0.4467,Knowledge jobs (without finance)
+2012,Trento,1.8197,Knowledge jobs (without finance)
+2012,Treviso,2.2884,Knowledge jobs (without finance)
+2012,Trieste,0.9154,Knowledge jobs (without finance)
+2012,Turin,9.9145,Knowledge jobs (without finance)
+2012,Udine,1.6818,Knowledge jobs (without finance)
+2012,Varese,2.6027,Knowledge jobs (without finance)
+2012,Venice,2.531,Knowledge jobs (without finance)
+2012,Verbano-Cusio-Ossola,0.3529,Knowledge jobs (without finance)
+2012,Vercelli,0.4301,Knowledge jobs (without finance)
+2012,Verona,2.7681,Knowledge jobs (without finance)
+2012,Vicenza,2.1064,Knowledge jobs (without finance)
+2013,Alessandria,0.9921,Knowledge jobs (without finance)
+2013,Aosta,0.4078,Knowledge jobs (without finance)
+2013,Asti,0.5401,Knowledge jobs (without finance)
+2013,Belluno,0.4189,Knowledge jobs (without finance)
+2013,Bergamo,2.9321,Knowledge jobs (without finance)
+2013,Biella,0.3968,Knowledge jobs (without finance)
+2013,Bologna,4.6131,Knowledge jobs (without finance)
+2013,Bolzano,1.4936,Knowledge jobs (without finance)
+2013,Brescia,3.6706,Knowledge jobs (without finance)
+2013,Como,1.6038,Knowledge jobs (without finance)
+2013,Cremona,0.8873,Knowledge jobs (without finance)
+2013,Cuneo,1.5432,Knowledge jobs (without finance)
+2013,Ferrara,0.8102,Knowledge jobs (without finance)
+2013,Forli-Cesena,1.0306,Knowledge jobs (without finance)
+2013,Genoa,2.9652,Knowledge jobs (without finance)
+2013,Gorizia,0.3086,Knowledge jobs (without finance)
+2013,Imperia,0.4078,Knowledge jobs (without finance)
+2013,La Spezia,0.5842,Knowledge jobs (without finance)
+2013,Lecco,0.9149,Knowledge jobs (without finance)
+2013,Lodi,0.5842,Knowledge jobs (without finance)
+2013,Mantua,1.1188,Knowledge jobs (without finance)
+2013,Milan,24.8787,Knowledge jobs (without finance)
+2013,Modena,2.3424,Knowledge jobs (without finance)
+2013,Monza-Brianza,2.8274,Knowledge jobs (without finance)
+2013,Novara,0.9425,Knowledge jobs (without finance)
+2013,Padua,3.3124,Knowledge jobs (without finance)
+2013,Parma,1.6534,Knowledge jobs (without finance)
+2013,Pavia,1.3338,Knowledge jobs (without finance)
+2013,Piacenza,0.8212,Knowledge jobs (without finance)
+2013,Pordenone,0.8267,Knowledge jobs (without finance)
+2013,Ravenna,1.0747,Knowledge jobs (without finance)
+2013,Reggio Emilia,1.7692,Knowledge jobs (without finance)
+2013,Rimini,1.0306,Knowledge jobs (without finance)
+2013,Rovigo,0.5126,Knowledge jobs (without finance)
+2013,Savona,0.6283,Knowledge jobs (without finance)
+2013,Sondrio,0.4078,Knowledge jobs (without finance)
+2013,Trento,1.8904,Knowledge jobs (without finance)
+2013,Treviso,2.3424,Knowledge jobs (without finance)
+2013,Trieste,0.9425,Knowledge jobs (without finance)
+2013,Turin,9.9592,Knowledge jobs (without finance)
+2013,Udine,1.6534,Knowledge jobs (without finance)
+2013,Varese,2.425,Knowledge jobs (without finance)
+2013,Venice,2.5849,Knowledge jobs (without finance)
+2013,Verbano-Cusio-Ossola,0.3417,Knowledge jobs (without finance)
+2013,Vercelli,0.3968,Knowledge jobs (without finance)
+2013,Verona,2.7998,Knowledge jobs (without finance)
+2013,Vicenza,2.0778,Knowledge jobs (without finance)
+2014,Alessandria,0.954,Knowledge jobs (without finance)
+2014,Aosta,0.387,Knowledge jobs (without finance)
+2014,Asti,0.5015,Knowledge jobs (without finance)
+2014,Belluno,0.447,Knowledge jobs (without finance)
+2014,Bergamo,2.971,Knowledge jobs (without finance)
+2014,Biella,0.4034,Knowledge jobs (without finance)
+2014,Bologna,4.7809,Knowledge jobs (without finance)
+2014,Bolzano,1.4773,Knowledge jobs (without finance)
+2014,Brescia,3.696,Knowledge jobs (without finance)
+2014,Como,1.6191,Knowledge jobs (without finance)
+2014,Cremona,0.8559,Knowledge jobs (without finance)
+2014,Cuneo,1.5536,Knowledge jobs (without finance)
+2014,Ferrara,0.8014,Knowledge jobs (without finance)
+2014,Forli-Cesena,1.0412,Knowledge jobs (without finance)
+2014,Genoa,2.9383,Knowledge jobs (without finance)
+2014,Gorizia,0.3107,Knowledge jobs (without finance)
+2014,Imperia,0.3925,Knowledge jobs (without finance)
+2014,La Spezia,0.5887,Knowledge jobs (without finance)
+2014,Lecco,0.9104,Knowledge jobs (without finance)
+2014,Lodi,0.6106,Knowledge jobs (without finance)
+2014,Mantua,1.1121,Knowledge jobs (without finance)
+2014,Milan,25.1363,Knowledge jobs (without finance)
+2014,Modena,2.246,Knowledge jobs (without finance)
+2014,Monza-Brianza,2.7257,Knowledge jobs (without finance)
+2014,Novara,0.9485,Knowledge jobs (without finance)
+2014,Padua,3.3471,Knowledge jobs (without finance)
+2014,Parma,1.6899,Knowledge jobs (without finance)
+2014,Pavia,1.3247,Knowledge jobs (without finance)
+2014,Piacenza,0.8613,Knowledge jobs (without finance)
+2014,Pordenone,0.7959,Knowledge jobs (without finance)
+2014,Ravenna,1.0739,Knowledge jobs (without finance)
+2014,Reggio Emilia,1.7444,Knowledge jobs (without finance)
+2014,Rimini,0.9976,Knowledge jobs (without finance)
+2014,Rovigo,0.4852,Knowledge jobs (without finance)
+2014,Savona,0.6215,Knowledge jobs (without finance)
+2014,Sondrio,0.4198,Knowledge jobs (without finance)
+2014,Trento,1.8971,Knowledge jobs (without finance)
+2014,Treviso,2.3604,Knowledge jobs (without finance)
+2014,Trieste,0.9322,Knowledge jobs (without finance)
+2014,Turin,9.7198,Knowledge jobs (without finance)
+2014,Udine,1.7226,Knowledge jobs (without finance)
+2014,Varese,2.4913,Knowledge jobs (without finance)
+2014,Venice,2.5567,Knowledge jobs (without finance)
+2014,Verbano-Cusio-Ossola,0.3325,Knowledge jobs (without finance)
+2014,Vercelli,0.3707,Knowledge jobs (without finance)
+2014,Verona,2.7802,Knowledge jobs (without finance)
+2014,Vicenza,2.0661,Knowledge jobs (without finance)
+2015,Alessandria,0.9843,Knowledge jobs (without finance)
+2015,Aosta,0.3704,Knowledge jobs (without finance)
+2015,Asti,0.5133,Knowledge jobs (without finance)
+2015,Belluno,0.4445,Knowledge jobs (without finance)
+2015,Bergamo,2.974,Knowledge jobs (without finance)
+2015,Biella,0.4022,Knowledge jobs (without finance)
+2015,Bologna,4.6515,Knowledge jobs (without finance)
+2015,Bolzano,1.4658,Knowledge jobs (without finance)
+2015,Brescia,3.7043,Knowledge jobs (without finance)
+2015,Como,1.6299,Knowledge jobs (without finance)
+2015,Cremona,0.8732,Knowledge jobs (without finance)
+2015,Cuneo,1.5135,Knowledge jobs (without finance)
+2015,Ferrara,0.7991,Knowledge jobs (without finance)
+2015,Forli-Cesena,1.0478,Knowledge jobs (without finance)
+2015,Genoa,2.8788,Knowledge jobs (without finance)
+2015,Gorizia,0.3016,Knowledge jobs (without finance)
+2015,Imperia,0.3704,Knowledge jobs (without finance)
+2015,La Spezia,0.5821,Knowledge jobs (without finance)
+2015,Lecco,0.9155,Knowledge jobs (without finance)
+2015,Lodi,0.5768,Knowledge jobs (without finance)
+2015,Mantua,1.1748,Knowledge jobs (without finance)
+2015,Milan,25.5014,Knowledge jobs (without finance)
+2015,Modena,2.2755,Knowledge jobs (without finance)
+2015,Monza-Brianza,2.72,Knowledge jobs (without finance)
+2015,Novara,0.9578,Knowledge jobs (without finance)
+2015,Padua,3.3339,Knowledge jobs (without finance)
+2015,Parma,1.6881,Knowledge jobs (without finance)
+2015,Pavia,1.2965,Knowledge jobs (without finance)
+2015,Piacenza,0.7991,Knowledge jobs (without finance)
+2015,Pordenone,0.7991,Knowledge jobs (without finance)
+2015,Ravenna,1.0425,Knowledge jobs (without finance)
+2015,Reggio Emilia,1.6881,Knowledge jobs (without finance)
+2015,Rimini,0.9525,Knowledge jobs (without finance)
+2015,Rovigo,0.471,Knowledge jobs (without finance)
+2015,Savona,0.6033,Knowledge jobs (without finance)
+2015,Sondrio,0.4022,Knowledge jobs (without finance)
+2015,Trento,1.8892,Knowledge jobs (without finance)
+2015,Treviso,2.3496,Knowledge jobs (without finance)
+2015,Trieste,0.9155,Knowledge jobs (without finance)
+2015,Turin,9.6947,Knowledge jobs (without finance)
+2015,Udine,1.7516,Knowledge jobs (without finance)
+2015,Varese,2.4342,Knowledge jobs (without finance)
+2015,Venice,2.593,Knowledge jobs (without finance)
+2015,Verbano-Cusio-Ossola,0.3334,Knowledge jobs (without finance)
+2015,Vercelli,0.4128,Knowledge jobs (without finance)
+2015,Verona,2.7994,Knowledge jobs (without finance)
+2015,Vicenza,2.122,Knowledge jobs (without finance)
+2016,Alessandria,0.9497,Knowledge jobs (without finance)
+2016,Aosta,0.3685,Knowledge jobs (without finance)
+2016,Asti,0.41,Knowledge jobs (without finance)
+2016,Belluno,0.4775,Knowledge jobs (without finance)
+2016,Bergamo,3.0827,Knowledge jobs (without finance)
+2016,Biella,0.41,Knowledge jobs (without finance)
+2016,Bologna,4.7174,Knowledge jobs (without finance)
+2016,Bolzano,1.4635,Knowledge jobs (without finance)
+2016,Brescia,3.7677,Knowledge jobs (without finance)
+2016,Como,1.6244,Knowledge jobs (without finance)
+2016,Cremona,0.8874,Knowledge jobs (without finance)
+2016,Cuneo,1.5361,Knowledge jobs (without finance)
+2016,Ferrara,0.7785,Knowledge jobs (without finance)
+2016,Forli-Cesena,1.0639,Knowledge jobs (without finance)
+2016,Genoa,2.8958,Knowledge jobs (without finance)
+2016,Gorizia,0.3166,Knowledge jobs (without finance)
+2016,Imperia,0.3737,Knowledge jobs (without finance)
+2016,La Spezia,0.5605,Knowledge jobs (without finance)
+2016,Lecco,0.9082,Knowledge jobs (without finance)
+2016,Lodi,0.5449,Knowledge jobs (without finance)
+2016,Mantua,1.2196,Knowledge jobs (without finance)
+2016,Milan,25.4294,Knowledge jobs (without finance)
+2016,Modena,2.2835,Knowledge jobs (without finance)
+2016,Monza-Brianza,2.7609,Knowledge jobs (without finance)
+2016,Novara,0.9757,Knowledge jobs (without finance)
+2016,Padua,3.4823,Knowledge jobs (without finance)
+2016,Parma,1.7489,Knowledge jobs (without finance)
+2016,Pavia,1.2611,Knowledge jobs (without finance)
+2016,Piacenza,0.7785,Knowledge jobs (without finance)
+2016,Pordenone,0.7992,Knowledge jobs (without finance)
+2016,Ravenna,1.0483,Knowledge jobs (without finance)
+2016,Reggio Emilia,1.6659,Knowledge jobs (without finance)
+2016,Rimini,0.9393,Knowledge jobs (without finance)
+2016,Rovigo,0.4775,Knowledge jobs (without finance)
+2016,Savona,0.5709,Knowledge jobs (without finance)
+2016,Sondrio,0.3944,Knowledge jobs (without finance)
+2016,Trento,1.889,Knowledge jobs (without finance)
+2016,Treviso,2.3976,Knowledge jobs (without finance)
+2016,Trieste,0.8978,Knowledge jobs (without finance)
+2016,Turin,9.6217,Knowledge jobs (without finance)
+2016,Udine,1.5725,Knowledge jobs (without finance)
+2016,Varese,2.4028,Knowledge jobs (without finance)
+2016,Venice,2.5222,Knowledge jobs (without finance)
+2016,Verbano-Cusio-Ossola,0.3114,Knowledge jobs (without finance)
+2016,Vercelli,0.3944,Knowledge jobs (without finance)
+2016,Verona,2.8336,Knowledge jobs (without finance)
+2016,Vicenza,2.1849,Knowledge jobs (without finance)
+2017,Alessandria,0.9338,Knowledge jobs (without finance)
+2017,Aosta,0.3866,Knowledge jobs (without finance)
+2017,Asti,0.4318,Knowledge jobs (without finance)
+2017,Belluno,0.5171,Knowledge jobs (without finance)
+2017,Bergamo,3.0575,Knowledge jobs (without finance)
+2017,Biella,0.4318,Knowledge jobs (without finance)
+2017,Bologna,4.8499,Knowledge jobs (without finance)
+2017,Bolzano,1.4309,Knowledge jobs (without finance)
+2017,Brescia,3.8859,Knowledge jobs (without finance)
+2017,Como,1.702,Knowledge jobs (without finance)
+2017,Cremona,0.9087,Knowledge jobs (without finance)
+2017,Cuneo,1.5664,Knowledge jobs (without finance)
+2017,Ferrara,0.7782,Knowledge jobs (without finance)
+2017,Forli-Cesena,1.0593,Knowledge jobs (without finance)
+2017,Genoa,2.8015,Knowledge jobs (without finance)
+2017,Gorizia,0.2761,Knowledge jobs (without finance)
+2017,Imperia,0.3715,Knowledge jobs (without finance)
+2017,La Spezia,0.5874,Knowledge jobs (without finance)
+2017,Lecco,0.9439,Knowledge jobs (without finance)
+2017,Lodi,0.5573,Knowledge jobs (without finance)
+2017,Mantua,1.215,Knowledge jobs (without finance)
+2017,Milan,25.0176,Knowledge jobs (without finance)
+2017,Modena,2.3396,Knowledge jobs (without finance)
+2017,Monza-Brianza,2.7362,Knowledge jobs (without finance)
+2017,Novara,0.964,Knowledge jobs (without finance)
+2017,Padua,3.4843,Knowledge jobs (without finance)
+2017,Parma,1.712,Knowledge jobs (without finance)
+2017,Pavia,1.2752,Knowledge jobs (without finance)
+2017,Piacenza,0.7983,Knowledge jobs (without finance)
+2017,Pordenone,0.8083,Knowledge jobs (without finance)
+2017,Ravenna,1.0744,Knowledge jobs (without finance)
+2017,Reggio Emilia,1.5965,Knowledge jobs (without finance)
+2017,Rimini,0.9238,Knowledge jobs (without finance)
+2017,Rovigo,0.492,Knowledge jobs (without finance)
+2017,Savona,0.5924,Knowledge jobs (without finance)
+2017,Sondrio,0.3765,Knowledge jobs (without finance)
+2017,Trento,1.9028,Knowledge jobs (without finance)
+2017,Treviso,2.4701,Knowledge jobs (without finance)
+2017,Trieste,0.8485,Knowledge jobs (without finance)
+2017,Turin,9.7249,Knowledge jobs (without finance)
+2017,Udine,1.5212,Knowledge jobs (without finance)
+2017,Varese,2.3044,Knowledge jobs (without finance)
+2017,Venice,2.5555,Knowledge jobs (without finance)
+2017,Verbano-Cusio-Ossola,0.3012,Knowledge jobs (without finance)
+2017,Vercelli,0.3816,Knowledge jobs (without finance)
+2017,Verona,2.8316,Knowledge jobs (without finance)
+2017,Vicenza,2.2743,Knowledge jobs (without finance)
+2018,Alessandria,0.8906,Knowledge jobs (without finance)
+2018,Aosta,0.3824,Knowledge jobs (without finance)
+2018,Asti,0.4647,Knowledge jobs (without finance)
+2018,Belluno,0.5082,Knowledge jobs (without finance)
+2018,Bergamo,3.1268,Knowledge jobs (without finance)
+2018,Biella,0.4259,Knowledge jobs (without finance)
+2018,Bologna,4.8015,Knowledge jobs (without finance)
+2018,Bolzano,1.4763,Knowledge jobs (without finance)
+2018,Brescia,3.9787,Knowledge jobs (without finance)
+2018,Como,1.7183,Knowledge jobs (without finance)
+2018,Cremona,0.9051,Knowledge jobs (without finance)
+2018,Cuneo,1.5876,Knowledge jobs (without finance)
+2018,Ferrara,0.7648,Knowledge jobs (without finance)
+2018,Forli-Cesena,1.0697,Knowledge jobs (without finance)
+2018,Genoa,2.7202,Knowledge jobs (without finance)
+2018,Gorizia,0.2711,Knowledge jobs (without finance)
+2018,Imperia,0.3533,Knowledge jobs (without finance)
+2018,La Spezia,0.5566,Knowledge jobs (without finance)
+2018,Lecco,0.9342,Knowledge jobs (without finance)
+2018,Lodi,0.576,Knowledge jobs (without finance)
+2018,Mantua,1.1859,Knowledge jobs (without finance)
+2018,Milan,25.1452,Knowledge jobs (without finance)
+2018,Modena,2.333,Knowledge jobs (without finance)
+2018,Monza-Brianza,2.667,Knowledge jobs (without finance)
+2018,Novara,0.9632,Knowledge jobs (without finance)
+2018,Padua,3.5382,Knowledge jobs (without finance)
+2018,Parma,1.7183,Knowledge jobs (without finance)
+2018,Pavia,1.2585,Knowledge jobs (without finance)
+2018,Piacenza,0.8277,Knowledge jobs (without finance)
+2018,Pordenone,0.8083,Knowledge jobs (without finance)
+2018,Ravenna,1.0794,Knowledge jobs (without finance)
+2018,Reggio Emilia,1.6263,Knowledge jobs (without finance)
+2018,Rimini,0.9148,Knowledge jobs (without finance)
+2018,Rovigo,0.4792,Knowledge jobs (without finance)
+2018,Savona,0.5905,Knowledge jobs (without finance)
+2018,Sondrio,0.3727,Knowledge jobs (without finance)
+2018,Trento,1.9313,Knowledge jobs (without finance)
+2018,Treviso,2.546,Knowledge jobs (without finance)
+2018,Trieste,0.8374,Knowledge jobs (without finance)
+2018,Turin,9.5257,Knowledge jobs (without finance)
+2018,Udine,1.5344,Knowledge jobs (without finance)
+2018,Varese,2.3233,Knowledge jobs (without finance)
+2018,Venice,2.5315,Knowledge jobs (without finance)
+2018,Verbano-Cusio-Ossola,0.2953,Knowledge jobs (without finance)
+2018,Vercelli,0.3679,Knowledge jobs (without finance)
+2018,Verona,2.7832,Knowledge jobs (without finance)
+2018,Vicenza,2.304,Knowledge jobs (without finance)
+2019,Alessandria,0.8835,Knowledge jobs (without finance)
+2019,Aosta,0.3697,Knowledge jobs (without finance)
+2019,Asti,0.4466,Knowledge jobs (without finance)
+2019,Belluno,0.5042,Knowledge jobs (without finance)
+2019,Bergamo,3.0827,Knowledge jobs (without finance)
+2019,Biella,0.437,Knowledge jobs (without finance)
+2019,Bologna,4.8977,Knowledge jobs (without finance)
+2019,Bolzano,1.4981,Knowledge jobs (without finance)
+2019,Brescia,3.9806,Knowledge jobs (without finance)
+2019,Como,1.7382,Knowledge jobs (without finance)
+2019,Cremona,0.9075,Knowledge jobs (without finance)
+2019,Cuneo,1.5942,Knowledge jobs (without finance)
+2019,Ferrara,0.7539,Knowledge jobs (without finance)
+2019,Forli-Cesena,1.0708,Knowledge jobs (without finance)
+2019,Genoa,2.7178,Knowledge jobs (without finance)
+2019,Gorizia,0.2641,Knowledge jobs (without finance)
+2019,Imperia,0.3457,Knowledge jobs (without finance)
+2019,La Spezia,0.533,Knowledge jobs (without finance)
+2019,Lecco,0.9315,Knowledge jobs (without finance)
+2019,Lodi,0.5714,Knowledge jobs (without finance)
+2019,Mantua,1.1764,Knowledge jobs (without finance)
+2019,Milan,25.665,Knowledge jobs (without finance)
+2019,Modena,2.3192,Knowledge jobs (without finance)
+2019,Monza-Brianza,2.7082,Knowledge jobs (without finance)
+2019,Novara,0.9555,Knowledge jobs (without finance)
+2019,Padua,3.5821,Knowledge jobs (without finance)
+2019,Parma,1.6854,Knowledge jobs (without finance)
+2019,Pavia,1.2484,Knowledge jobs (without finance)
+2019,Piacenza,0.8067,Knowledge jobs (without finance)
+2019,Pordenone,0.7971,Knowledge jobs (without finance)
+2019,Ravenna,1.0708,Knowledge jobs (without finance)
+2019,Reggio Emilia,1.5509,Knowledge jobs (without finance)
+2019,Rimini,0.9123,Knowledge jobs (without finance)
+2019,Rovigo,0.4802,Knowledge jobs (without finance)
+2019,Savona,0.5714,Knowledge jobs (without finance)
+2019,Sondrio,0.3697,Knowledge jobs (without finance)
+2019,Trento,1.9447,Knowledge jobs (without finance)
+2019,Treviso,2.5353,Knowledge jobs (without finance)
+2019,Trieste,0.8115,Knowledge jobs (without finance)
+2019,Turin,9.1376,Knowledge jobs (without finance)
+2019,Udine,1.5509,Knowledge jobs (without finance)
+2019,Varese,2.3096,Knowledge jobs (without finance)
+2019,Venice,2.5545,Knowledge jobs (without finance)
+2019,Verbano-Cusio-Ossola,0.2785,Knowledge jobs (without finance)
+2019,Vercelli,0.3649,Knowledge jobs (without finance)
+2019,Verona,2.7658,Knowledge jobs (without finance)
+2019,Vicenza,2.3192,Knowledge jobs (without finance)
+2020,Alessandria,0.9286,Knowledge jobs (without finance)
+2020,Aosta,0.3772,Knowledge jobs (without finance)
+2020,Asti,0.4594,Knowledge jobs (without finance)
+2020,Belluno,0.4594,Knowledge jobs (without finance)
+2020,Bergamo,3.0759,Knowledge jobs (without finance)
+2020,Biella,0.4256,Knowledge jobs (without finance)
+2020,Bologna,4.6573,Knowledge jobs (without finance)
+2020,Bolzano,1.4654,Knowledge jobs (without finance)
+2020,Brescia,3.8352,Knowledge jobs (without finance)
+2020,Como,1.9394,Knowledge jobs (without finance)
+2020,Cremona,0.9286,Knowledge jobs (without finance)
+2020,Cuneo,1.7266,Knowledge jobs (without finance)
+2020,Ferrara,0.7448,Knowledge jobs (without finance)
+2020,Forli-Cesena,1.0833,Knowledge jobs (without finance)
+2020,Genoa,2.776,Knowledge jobs (without finance)
+2020,Gorizia,0.295,Knowledge jobs (without finance)
+2020,Imperia,0.3724,Knowledge jobs (without finance)
+2020,La Spezia,0.5513,Knowledge jobs (without finance)
+2020,Lecco,0.9044,Knowledge jobs (without finance)
+2020,Lodi,0.5368,Knowledge jobs (without finance)
+2020,Mantua,1.2333,Knowledge jobs (without finance)
+2020,Milan,25.1826,Knowledge jobs (without finance)
+2020,Modena,2.3843,Knowledge jobs (without finance)
+2020,Monza-Brianza,2.7809,Knowledge jobs (without finance)
+2020,Novara,0.9914,Knowledge jobs (without finance)
+2020,Padua,3.3902,Knowledge jobs (without finance)
+2020,Parma,1.6782,Knowledge jobs (without finance)
+2020,Pavia,1.2961,Knowledge jobs (without finance)
+2020,Piacenza,0.8512,Knowledge jobs (without finance)
+2020,Pordenone,0.7932,Knowledge jobs (without finance)
+2020,Ravenna,1.0833,Knowledge jobs (without finance)
+2020,Reggio Emilia,1.7024,Knowledge jobs (without finance)
+2020,Rimini,0.9818,Knowledge jobs (without finance)
+2020,Rovigo,0.5078,Knowledge jobs (without finance)
+2020,Savona,0.5852,Knowledge jobs (without finance)
+2020,Sondrio,0.3966,Knowledge jobs (without finance)
+2020,Trento,1.7024,Knowledge jobs (without finance)
+2020,Treviso,2.5826,Knowledge jobs (without finance)
+2020,Trieste,0.8464,Knowledge jobs (without finance)
+2020,Turin,8.9568,Knowledge jobs (without finance)
+2020,Udine,1.5428,Knowledge jobs (without finance)
+2020,Varese,2.4762,Knowledge jobs (without finance)
+2020,Venice,2.4907,Knowledge jobs (without finance)
+2020,Verbano-Cusio-Ossola,0.2853,Knowledge jobs (without finance)
+2020,Vercelli,0.3772,Knowledge jobs (without finance)
+2020,Verona,2.9114,Knowledge jobs (without finance)
+2020,Vicenza,2.4472,Knowledge jobs (without finance)
+2021,Alessandria,0.92,Knowledge jobs (without finance)
+2021,Aosta,0.3633,Knowledge jobs (without finance)
+2021,Asti,0.434,Knowledge jobs (without finance)
+2021,Belluno,0.4907,Knowledge jobs (without finance)
+2021,Bergamo,3.1421,Knowledge jobs (without finance)
+2021,Biella,0.434,Knowledge jobs (without finance)
+2021,Bologna,4.5669,Knowledge jobs (without finance)
+2021,Bolzano,1.4673,Knowledge jobs (without finance)
+2021,Brescia,3.9158,Knowledge jobs (without finance)
+2021,Como,1.8211,Knowledge jobs (without finance)
+2021,Cremona,0.9341,Knowledge jobs (without finance)
+2021,Cuneo,1.7692,Knowledge jobs (without finance)
+2021,Ferrara,0.7596,Knowledge jobs (without finance)
+2021,Forli-Cesena,1.071,Knowledge jobs (without finance)
+2021,Genoa,2.7364,Knowledge jobs (without finance)
+2021,Gorizia,0.3114,Knowledge jobs (without finance)
+2021,Imperia,0.3444,Knowledge jobs (without finance)
+2021,La Spezia,0.585,Knowledge jobs (without finance)
+2021,Lecco,0.9105,Knowledge jobs (without finance)
+2021,Lodi,0.519,Knowledge jobs (without finance)
+2021,Mantua,1.2031,Knowledge jobs (without finance)
+2021,Milan,25.335,Knowledge jobs (without finance)
+2021,Modena,2.4156,Knowledge jobs (without finance)
+2021,Monza-Brianza,2.6845,Knowledge jobs (without finance)
+2021,Novara,1.0191,Knowledge jobs (without finance)
+2021,Padua,3.3403,Knowledge jobs (without finance)
+2021,Parma,1.722,Knowledge jobs (without finance)
+2021,Pavia,1.3163,Knowledge jobs (without finance)
+2021,Piacenza,0.887,Knowledge jobs (without finance)
+2021,Pordenone,0.802,Knowledge jobs (without finance)
+2021,Ravenna,1.0568,Knowledge jobs (without finance)
+2021,Reggio Emilia,1.7032,Knowledge jobs (without finance)
+2021,Rimini,0.9672,Knowledge jobs (without finance)
+2021,Rovigo,0.585,Knowledge jobs (without finance)
+2021,Savona,0.5614,Knowledge jobs (without finance)
+2021,Sondrio,0.368,Knowledge jobs (without finance)
+2021,Trento,1.7079,Knowledge jobs (without finance)
+2021,Treviso,2.5948,Knowledge jobs (without finance)
+2021,Trieste,0.8398,Knowledge jobs (without finance)
+2021,Turin,8.8507,Knowledge jobs (without finance)
+2021,Udine,1.6229,Knowledge jobs (without finance)
+2021,Varese,2.4203,Knowledge jobs (without finance)
+2021,Venice,2.5052,Knowledge jobs (without finance)
+2021,Verbano-Cusio-Ossola,0.2878,Knowledge jobs (without finance)
+2021,Vercelli,0.368,Knowledge jobs (without finance)
+2021,Verona,2.8968,Knowledge jobs (without finance)
+2021,Vicenza,2.4439,Knowledge jobs (without finance)
+2022,Alessandria,0.9189,Knowledge jobs (without finance)
+2022,Aosta,0.3548,Knowledge jobs (without finance)
+2022,Asti,0.4276,Knowledge jobs (without finance)
+2022,Belluno,0.514,Knowledge jobs (without finance)
+2022,Bergamo,3.2069,Knowledge jobs (without finance)
+2022,Biella,0.4139,Knowledge jobs (without finance)
+2022,Bologna,4.5897,Knowledge jobs (without finance)
+2022,Bolzano,1.492,Knowledge jobs (without finance)
+2022,Brescia,3.8574,Knowledge jobs (without finance)
+2022,Como,1.8513,Knowledge jobs (without finance)
+2022,Cremona,0.9461,Knowledge jobs (without finance)
+2022,Cuneo,1.7422,Knowledge jobs (without finance)
+2022,Ferrara,0.7596,Knowledge jobs (without finance)
+2022,Forli-Cesena,1.0644,Knowledge jobs (without finance)
+2022,Genoa,2.7293,Knowledge jobs (without finance)
+2022,Gorizia,0.3093,Knowledge jobs (without finance)
+2022,Imperia,0.3457,Knowledge jobs (without finance)
+2022,La Spezia,0.5595,Knowledge jobs (without finance)
+2022,Lecco,0.9007,Knowledge jobs (without finance)
+2022,Lodi,0.5186,Knowledge jobs (without finance)
+2022,Mantua,1.1827,Knowledge jobs (without finance)
+2022,Milan,25.3139,Knowledge jobs (without finance)
+2022,Modena,2.4563,Knowledge jobs (without finance)
+2022,Monza-Brianza,2.6792,Knowledge jobs (without finance)
+2022,Novara,1.0508,Knowledge jobs (without finance)
+2022,Padua,3.3342,Knowledge jobs (without finance)
+2022,Parma,1.683,Knowledge jobs (without finance)
+2022,Pavia,1.31,Knowledge jobs (without finance)
+2022,Piacenza,0.8461,Knowledge jobs (without finance)
+2022,Pordenone,0.796,Knowledge jobs (without finance)
+2022,Ravenna,1.0326,Knowledge jobs (without finance)
+2022,Reggio Emilia,1.7194,Knowledge jobs (without finance)
+2022,Rimini,0.9643,Knowledge jobs (without finance)
+2022,Rovigo,0.5322,Knowledge jobs (without finance)
+2022,Savona,0.5549,Knowledge jobs (without finance)
+2022,Sondrio,0.3775,Knowledge jobs (without finance)
+2022,Trento,1.8195,Knowledge jobs (without finance)
+2022,Treviso,2.6246,Knowledge jobs (without finance)
+2022,Trieste,0.8324,Knowledge jobs (without finance)
+2022,Turin,8.7791,Knowledge jobs (without finance)
+2022,Udine,1.5739,Knowledge jobs (without finance)
+2022,Varese,2.4108,Knowledge jobs (without finance)
+2022,Venice,2.5473,Knowledge jobs (without finance)
+2022,Verbano-Cusio-Ossola,0.282,Knowledge jobs (without finance)
+2022,Vercelli,0.3684,Knowledge jobs (without finance)
+2022,Verona,2.9476,Knowledge jobs (without finance)
+2022,Vicenza,2.4791,Knowledge jobs (without finance)
+2023,Alessandria,0.896,Knowledge jobs (without finance)
+2023,Aosta,0.3531,Knowledge jobs (without finance)
+2023,Asti,0.4325,Knowledge jobs (without finance)
+2023,Belluno,0.5164,Knowledge jobs (without finance)
+2023,Bergamo,3.1425,Knowledge jobs (without finance)
+2023,Biella,0.4193,Knowledge jobs (without finance)
+2023,Bologna,4.652,Knowledge jobs (without finance)
+2023,Bolzano,1.5271,Knowledge jobs (without finance)
+2023,Brescia,3.8266,Knowledge jobs (without finance)
+2023,Como,1.814,Knowledge jobs (without finance)
+2023,Cremona,0.9666,Knowledge jobs (without finance)
+2023,Cuneo,1.6904,Knowledge jobs (without finance)
+2023,Ferrara,0.7415,Knowledge jobs (without finance)
+2023,Forli-Cesena,1.0813,Knowledge jobs (without finance)
+2023,Genoa,2.7674,Knowledge jobs (without finance)
+2023,Gorizia,0.309,Knowledge jobs (without finance)
+2023,Imperia,0.3487,Knowledge jobs (without finance)
+2023,La Spezia,0.5517,Knowledge jobs (without finance)
+2023,Lecco,0.8916,Knowledge jobs (without finance)
+2023,Lodi,0.5341,Knowledge jobs (without finance)
+2023,Mantua,1.174,Knowledge jobs (without finance)
+2023,Milan,25.6389,Knowledge jobs (without finance)
+2023,Modena,2.4319,Knowledge jobs (without finance)
+2023,Monza-Brianza,2.6658,Knowledge jobs (without finance)
+2023,Novara,1.0372,Knowledge jobs (without finance)
+2023,Padua,3.3191,Knowledge jobs (without finance)
+2023,Parma,1.7081,Knowledge jobs (without finance)
+2023,Pavia,1.302,Knowledge jobs (without finance)
+2023,Piacenza,0.843,Knowledge jobs (without finance)
+2023,Pordenone,0.7724,Knowledge jobs (without finance)
+2023,Ravenna,1.0549,Knowledge jobs (without finance)
+2023,Reggio Emilia,1.7478,Knowledge jobs (without finance)
+2023,Rimini,0.9666,Knowledge jobs (without finance)
+2023,Rovigo,0.5076,Knowledge jobs (without finance)
+2023,Savona,0.5605,Knowledge jobs (without finance)
+2023,Sondrio,0.3752,Knowledge jobs (without finance)
+2023,Trento,1.7213,Knowledge jobs (without finance)
+2023,Treviso,2.582,Knowledge jobs (without finance)
+2023,Trieste,0.8298,Knowledge jobs (without finance)
+2023,Turin,8.8494,Knowledge jobs (without finance)
+2023,Udine,1.5271,Knowledge jobs (without finance)
+2023,Varese,2.4099,Knowledge jobs (without finance)
+2023,Venice,2.5114,Knowledge jobs (without finance)
+2023,Verbano-Cusio-Ossola,0.2781,Knowledge jobs (without finance)
+2023,Vercelli,0.3663,Knowledge jobs (without finance)
+2023,Verona,2.9483,Knowledge jobs (without finance)
+2023,Vicenza,2.4099,Knowledge jobs (without finance)
+2008,Alessandria,1.6006,Population
+2008,Aosta,0.4675,Population
+2008,Asti,0.809,Population
+2008,Belluno,0.7842,Population
+2008,Bergamo,3.9389,Population
+2008,Biella,0.6915,Population
+2008,Bologna,3.5623,Population
+2008,Bolzano,1.8304,Population
+2008,Brescia,4.4958,Population
+2008,Como,2.1359,Population
+2008,Cremona,1.3203,Population
+2008,Cuneo,2.1571,Population
+2008,Ferrara,1.3125,Population
+2008,Forli-Cesena,1.4204,Population
+2008,Genoa,3.2249,Population
+2008,Gorizia,0.5224,Population
+2008,Imperia,0.7964,Population
+2008,La Spezia,0.8149,Population
+2008,Lecco,1.2235,Population
+2008,Lodi,0.8142,Population
+2008,Mantua,1.4949,Population
+2008,Milan,11.1584,Population
+2008,Modena,2.5063,Population
+2008,Monza-Brianza,3.0413,Population
+2008,Novara,1.3429,Population
+2008,Padua,3.3698,Population
+2008,Parma,1.562,Population
+2008,Pavia,1.9635,Population
+2008,Piacenza,1.0418,Population
+2008,Pordenone,1.1434,Population
+2008,Ravenna,1.3996,Population
+2008,Reggio Emilia,1.8809,Population
+2008,Rimini,1.169,Population
+2008,Rovigo,0.9087,Population
+2008,Savona,1.0463,Population
+2008,Sondrio,0.6711,Population
+2008,Trento,1.9046,Population
+2008,Treviso,3.223,Population
+2008,Trieste,0.8705,Population
+2008,Turin,8.3532,Population
+2008,Udine,1.9902,Population
+2008,Varese,3.1885,Population
+2008,Venice,3.1166,Population
+2008,Verbano-Cusio-Ossola,0.5999,Population
+2008,Vercelli,0.6618,Population
+2008,Verona,3.3087,Population
+2008,Vicenza,3.1603,Population
+2009,Alessandria,1.5948,Population
+2009,Aosta,0.4663,Population
+2009,Asti,0.8079,Population
+2009,Belluno,0.7777,Population
+2009,Bergamo,3.9559,Population
+2009,Biella,0.6846,Population
+2009,Bologna,3.5701,Population
+2009,Bolzano,1.834,Population
+2009,Brescia,4.5113,Population
+2009,Como,2.1399,Population
+2009,Cremona,1.3191,Population
+2009,Cuneo,2.1564,Population
+2009,Ferrara,1.3084,Population
+2009,Forli-Cesena,1.4258,Population
+2009,Genoa,3.2021,Population
+2009,Gorizia,0.5197,Population
+2009,Imperia,0.7961,Population
+2009,La Spezia,0.8134,Population
+2009,Lecco,1.2245,Population
+2009,Lodi,0.8182,Population
+2009,Mantua,1.4976,Population
+2009,Milan,11.1304,Population
+2009,Modena,2.5153,Population
+2009,Monza-Brianza,3.0504,Population
+2009,Novara,1.3445,Population
+2009,Padua,3.3751,Population
+2009,Parma,1.5712,Population
+2009,Pavia,1.9687,Population
+2009,Piacenza,1.0453,Population
+2009,Pordenone,1.1443,Population
+2009,Ravenna,1.4074,Population
+2009,Reggio Emilia,1.8925,Population
+2009,Rimini,1.1756,Population
+2009,Rovigo,0.9014,Population
+2009,Savona,1.0431,Population
+2009,Sondrio,0.6677,Population
+2009,Trento,1.9109,Population
+2009,Treviso,3.2216,Population
+2009,Trieste,0.8635,Population
+2009,Turin,8.3354,Population
+2009,Udine,1.9823,Population
+2009,Varese,3.1866,Population
+2009,Venice,3.1163,Population
+2009,Verbano-Cusio-Ossola,0.5963,Population
+2009,Vercelli,0.6573,Population
+2009,Verona,3.3136,Population
+2009,Vicenza,3.1594,Population
+2010,Alessandria,1.5886,Population
+2010,Aosta,0.4653,Population
+2010,Asti,0.8051,Population
+2010,Belluno,0.7714,Population
+2010,Bergamo,3.971,Population
+2010,Biella,0.6773,Population
+2010,Bologna,3.5763,Population
+2010,Bolzano,1.8394,Population
+2010,Brescia,4.5253,Population
+2010,Como,2.1448,Population
+2010,Cremona,1.3151,Population
+2010,Cuneo,2.1539,Population
+2010,Ferrara,1.3041,Population
+2010,Forli-Cesena,1.4301,Population
+2010,Genoa,3.1827,Population
+2010,Gorizia,0.5162,Population
+2010,Imperia,0.7963,Population
+2010,La Spezia,0.8102,Population
+2010,Lecco,1.2247,Population
+2010,Lodi,0.8194,Population
+2010,Mantua,1.4967,Population
+2010,Milan,11.1635,Population
+2010,Modena,2.5211,Population
+2010,Monza-Brianza,3.0608,Population
+2010,Novara,1.3451,Population
+2010,Padua,3.3757,Population
+2010,Parma,1.5769,Population
+2010,Pavia,1.9701,Population
+2010,Piacenza,1.0453,Population
+2010,Pordenone,1.1405,Population
+2010,Ravenna,1.4121,Population
+2010,Reggio Emilia,1.9006,Population
+2010,Rimini,1.1819,Population
+2010,Rovigo,0.8955,Population
+2010,Savona,1.0398,Population
+2010,Sondrio,0.6652,Population
+2010,Trento,1.9174,Population
+2010,Treviso,3.2153,Population
+2010,Trieste,0.8578,Population
+2010,Turin,8.3151,Population
+2010,Udine,1.9727,Population
+2010,Varese,3.1886,Population
+2010,Venice,3.1135,Population
+2010,Verbano-Cusio-Ossola,0.5931,Population
+2010,Vercelli,0.6539,Population
+2010,Verona,3.3105,Population
+2010,Vicenza,3.1538,Population
+2011,Alessandria,1.5831,Population
+2011,Aosta,0.4637,Population
+2011,Asti,0.8023,Population
+2011,Belluno,0.7655,Population
+2011,Bergamo,3.9823,Population
+2011,Biella,0.6711,Population
+2011,Bologna,3.5831,Population
+2011,Bolzano,1.8452,Population
+2011,Brescia,4.5356,Population
+2011,Como,2.1495,Population
+2011,Cremona,1.3115,Population
+2011,Cuneo,2.1513,Population
+2011,Ferrara,1.2984,Population
+2011,Forli-Cesena,1.4318,Population
+2011,Genoa,3.164,Population
+2011,Gorizia,0.5125,Population
+2011,Imperia,0.7946,Population
+2011,La Spezia,0.8067,Population
+2011,Lecco,1.2244,Population
+2011,Lodi,0.8209,Population
+2011,Mantua,1.496,Population
+2011,Milan,11.2237,Population
+2011,Modena,2.5235,Population
+2011,Monza-Brianza,3.0736,Population
+2011,Novara,1.3447,Population
+2011,Padua,3.3739,Population
+2011,Parma,1.5816,Population
+2011,Pavia,1.9709,Population
+2011,Piacenza,1.0451,Population
+2011,Pordenone,1.1365,Population
+2011,Ravenna,1.4147,Population
+2011,Reggio Emilia,1.9064,Population
+2011,Rimini,1.1865,Population
+2011,Rovigo,0.8905,Population
+2011,Savona,1.0352,Population
+2011,Sondrio,0.6627,Population
+2011,Trento,1.9228,Population
+2011,Treviso,3.2088,Population
+2011,Trieste,0.8522,Population
+2011,Turin,8.2966,Population
+2011,Udine,1.9622,Population
+2011,Varese,3.1928,Population
+2011,Venice,3.1082,Population
+2011,Verbano-Cusio-Ossola,0.5901,Population
+2011,Vercelli,0.6496,Population
+2011,Verona,3.3083,Population
+2011,Vicenza,3.1457,Population
+2012,Alessandria,1.5756,Population
+2012,Aosta,0.4632,Population
+2012,Asti,0.8001,Population
+2012,Belluno,0.7588,Population
+2012,Bergamo,3.9884,Population
+2012,Biella,0.6655,Population
+2012,Bologna,3.5923,Population
+2012,Bolzano,1.8508,Population
+2012,Brescia,4.5398,Population
+2012,Como,2.1532,Population
+2012,Cremona,1.3088,Population
+2012,Cuneo,2.1485,Population
+2012,Ferrara,1.2906,Population
+2012,Forli-Cesena,1.4311,Population
+2012,Genoa,3.1443,Population
+2012,Gorizia,0.5093,Population
+2012,Imperia,0.7907,Population
+2012,La Spezia,0.803,Population
+2012,Lecco,1.2231,Population
+2012,Lodi,0.8223,Population
+2012,Mantua,1.495,Population
+2012,Milan,11.2913,Population
+2012,Modena,2.5235,Population
+2012,Monza-Brianza,3.0888,Population
+2012,Novara,1.3425,Population
+2012,Padua,3.3723,Population
+2012,Parma,1.5865,Population
+2012,Pavia,1.972,Population
+2012,Piacenza,1.0441,Population
+2012,Pordenone,1.1338,Population
+2012,Ravenna,1.4155,Population
+2012,Reggio Emilia,1.9114,Population
+2012,Rimini,1.1911,Population
+2012,Rovigo,0.8855,Population
+2012,Savona,1.0296,Population
+2012,Sondrio,0.6604,Population
+2012,Trento,1.9288,Population
+2012,Treviso,3.2038,Population
+2012,Trieste,0.847,Population
+2012,Turin,8.2871,Population
+2012,Udine,1.9546,Population
+2012,Varese,3.1958,Population
+2012,Venice,3.0996,Population
+2012,Verbano-Cusio-Ossola,0.5863,Population
+2012,Vercelli,0.6455,Population
+2012,Verona,3.3098,Population
+2012,Vicenza,3.1389,Population
+2013,Alessandria,1.568,Population
+2013,Aosta,0.4635,Population
+2013,Asti,0.7974,Population
+2013,Belluno,0.7525,Population
+2013,Bergamo,3.992,Population
+2013,Biella,0.6596,Population
+2013,Bologna,3.6042,Population
+2013,Bolzano,1.8578,Population
+2013,Brescia,4.5391,Population
+2013,Como,2.1552,Population
+2013,Cremona,1.3043,Population
+2013,Cuneo,2.144,Population
+2013,Ferrara,1.2836,Population
+2013,Forli-Cesena,1.4298,Population
+2013,Genoa,3.1219,Population
+2013,Gorizia,0.5072,Population
+2013,Imperia,0.7847,Population
+2013,La Spezia,0.8003,Population
+2013,Lecco,1.2218,Population
+2013,Lodi,0.8227,Population
+2013,Mantua,1.4928,Population
+2013,Milan,11.3759,Population
+2013,Modena,2.5246,Population
+2013,Monza-Brianza,3.0995,Population
+2013,Novara,1.3397,Population
+2013,Padua,3.3716,Population
+2013,Parma,1.5941,Population
+2013,Pavia,1.9703,Population
+2013,Piacenza,1.0423,Population
+2013,Pordenone,1.1317,Population
+2013,Ravenna,1.4146,Population
+2013,Reggio Emilia,1.9157,Population
+2013,Rimini,1.1965,Population
+2013,Rovigo,0.8799,Population
+2013,Savona,1.0232,Population
+2013,Sondrio,0.6592,Population
+2013,Trento,1.936,Population
+2013,Treviso,3.199,Population
+2013,Trieste,0.8437,Population
+2013,Turin,8.2713,Population
+2013,Udine,1.9493,Population
+2013,Varese,3.1979,Population
+2013,Venice,3.0915,Population
+2013,Verbano-Cusio-Ossola,0.5829,Population
+2013,Vercelli,0.6407,Population
+2013,Verona,3.313,Population
+2013,Vicenza,3.1335,Population
+2014,Alessandria,1.5611,Population
+2014,Aosta,0.4629,Population
+2014,Asti,0.7928,Population
+2014,Belluno,0.747,Population
+2014,Bergamo,3.9946,Population
+2014,Biella,0.6548,Population
+2014,Bologna,3.6155,Population
+2014,Bolzano,1.8672,Population
+2014,Brescia,4.5381,Population
+2014,Como,2.1585,Population
+2014,Cremona,1.3002,Population
+2014,Cuneo,2.1415,Population
+2014,Ferrara,1.2785,Population
+2014,Forli-Cesena,1.4285,Population
+2014,Genoa,3.0966,Population
+2014,Gorizia,0.5063,Population
+2014,Imperia,0.7791,Population
+2014,La Spezia,0.7983,Population
+2014,Lecco,1.2196,Population
+2014,Lodi,0.8225,Population
+2014,Mantua,1.4899,Population
+2014,Milan,11.4735,Population
+2014,Modena,2.5281,Population
+2014,Monza-Brianza,3.1049,Population
+2014,Novara,1.3363,Population
+2014,Padua,3.373,Population
+2014,Parma,1.6012,Population
+2014,Pavia,1.9687,Population
+2014,Piacenza,1.0404,Population
+2014,Pordenone,1.1289,Population
+2014,Ravenna,1.4126,Population
+2014,Reggio Emilia,1.9149,Population
+2014,Rimini,1.2008,Population
+2014,Rovigo,0.8742,Population
+2014,Savona,1.0173,Population
+2014,Sondrio,0.6581,Population
+2014,Trento,1.9424,Population
+2014,Treviso,3.1945,Population
+2014,Trieste,0.842,Population
+2014,Turin,8.241,Population
+2014,Udine,1.9434,Population
+2014,Varese,3.1999,Population
+2014,Venice,3.0879,Population
+2014,Verbano-Cusio-Ossola,0.5804,Population
+2014,Vercelli,0.6364,Population
+2014,Verona,3.3167,Population
+2014,Vicenza,3.1291,Population
+2015,Alessandria,1.553,Population
+2015,Aosta,0.4611,Population
+2015,Asti,0.7873,Population
+2015,Belluno,0.7425,Population
+2015,Bergamo,3.9967,Population
+2015,Biella,0.6506,Population
+2015,Bologna,3.6297,Population
+2015,Bolzano,1.8774,Population
+2015,Brescia,4.5382,Population
+2015,Como,2.1613,Population
+2015,Cremona,1.298,Population
+2015,Cuneo,2.1389,Population
+2015,Ferrara,1.2731,Population
+2015,Forli-Cesena,1.426,Population
+2015,Genoa,3.0731,Population
+2015,Gorizia,0.5049,Population
+2015,Imperia,0.774,Population
+2015,La Spezia,0.796,Population
+2015,Lecco,1.217,Population
+2015,Lodi,0.8221,Population
+2015,Mantua,1.4854,Population
+2015,Milan,11.549,Population
+2015,Modena,2.5324,Population
+2015,Monza-Brianza,3.1125,Population
+2015,Novara,1.3335,Population
+2015,Padua,3.3761,Population
+2015,Parma,1.6105,Population
+2015,Pavia,1.9689,Population
+2015,Piacenza,1.0376,Population
+2015,Pordenone,1.1262,Population
+2015,Ravenna,1.4112,Population
+2015,Reggio Emilia,1.915,Population
+2015,Rimini,1.204,Population
+2015,Rovigo,0.868,Population
+2015,Savona,1.0119,Population
+2015,Sondrio,0.6571,Population
+2015,Trento,1.949,Population
+2015,Treviso,3.1913,Population
+2015,Trieste,0.8401,Population
+2015,Turin,8.2174,Population
+2015,Udine,1.9371,Population
+2015,Varese,3.2029,Population
+2015,Venice,3.0857,Population
+2015,Verbano-Cusio-Ossola,0.5779,Population
+2015,Vercelli,0.6325,Population
+2015,Verona,3.3212,Population
+2015,Vicenza,3.1248,Population
+2016,Alessandria,1.545,Population
+2016,Aosta,0.4594,Population
+2016,Asti,0.783,Population
+2016,Belluno,0.7388,Population
+2016,Bergamo,3.9994,Population
+2016,Biella,0.6465,Population
+2016,Bologna,3.6468,Population
+2016,Bolzano,1.8893,Population
+2016,Brescia,4.5355,Population
+2016,Como,2.1637,Population
+2016,Cremona,1.2949,Population
+2016,Cuneo,2.1355,Population
+2016,Ferrara,1.2641,Population
+2016,Forli-Cesena,1.4245,Population
+2016,Genoa,3.056,Population
+2016,Gorizia,0.5028,Population
+2016,Imperia,0.77,Population
+2016,La Spezia,0.795,Population
+2016,Lecco,1.2156,Population
+2016,Lodi,0.821,Population
+2016,Mantua,1.481,Population
+2016,Milan,11.6112,Population
+2016,Modena,2.5351,Population
+2016,Monza-Brianza,3.1212,Population
+2016,Novara,1.3311,Population
+2016,Padua,3.3753,Population
+2016,Parma,1.6203,Population
+2016,Pavia,1.9675,Population
+2016,Piacenza,1.0364,Population
+2016,Pordenone,1.1229,Population
+2016,Ravenna,1.4118,Population
+2016,Reggio Emilia,1.9172,Population
+2016,Rimini,1.208,Population
+2016,Rovigo,0.8616,Population
+2016,Savona,1.0067,Population
+2016,Sondrio,0.6563,Population
+2016,Trento,1.9545,Population
+2016,Treviso,3.1911,Population
+2016,Trieste,0.8395,Population
+2016,Turin,8.2004,Population
+2016,Udine,1.9313,Population
+2016,Varese,3.2041,Population
+2016,Venice,3.0835,Population
+2016,Verbano-Cusio-Ossola,0.5756,Population
+2016,Vercelli,0.6288,Population
+2016,Verona,3.3235,Population
+2016,Vicenza,3.1172,Population
+2017,Alessandria,1.5372,Population
+2017,Aosta,0.4577,Population
+2017,Asti,0.7796,Population
+2017,Belluno,0.7358,Population
+2017,Bergamo,4.004,Population
+2017,Biella,0.6424,Population
+2017,Bologna,3.6618,Population
+2017,Bolzano,1.9015,Population
+2017,Brescia,4.5323,Population
+2017,Como,2.1644,Population
+2017,Cremona,1.2913,Population
+2017,Cuneo,2.1325,Population
+2017,Ferrara,1.2569,Population
+2017,Forli-Cesena,1.4253,Population
+2017,Genoa,3.0393,Population
+2017,Gorizia,0.5012,Population
+2017,Imperia,0.7666,Population
+2017,La Spezia,0.793,Population
+2017,Lecco,1.2156,Population
+2017,Lodi,0.8209,Population
+2017,Mantua,1.4778,Population
+2017,Milan,11.6741,Population
+2017,Modena,2.5392,Population
+2017,Monza-Brianza,3.1305,Population
+2017,Novara,1.329,Population
+2017,Padua,3.3761,Population
+2017,Parma,1.6277,Population
+2017,Pavia,1.9641,Population
+2017,Piacenza,1.0364,Population
+2017,Pordenone,1.1219,Population
+2017,Ravenna,1.4119,Population
+2017,Reggio Emilia,1.9174,Population
+2017,Rimini,1.2117,Population
+2017,Rovigo,0.8542,Population
+2017,Savona,1.0013,Population
+2017,Sondrio,0.6558,Population
+2017,Trento,1.9594,Population
+2017,Treviso,3.1957,Population
+2017,Trieste,0.8405,Population
+2017,Turin,8.1695,Population
+2017,Udine,1.9254,Population
+2017,Varese,3.2044,Population
+2017,Venice,3.0817,Population
+2017,Verbano-Cusio-Ossola,0.5736,Population
+2017,Vercelli,0.625,Population
+2017,Verona,3.3265,Population
+2017,Vicenza,3.1095,Population
+2018,Alessandria,1.5272,Population
+2018,Aosta,0.4558,Population
+2018,Asti,0.7756,Population
+2018,Belluno,0.7332,Population
+2018,Bergamo,4.007,Population
+2018,Biella,0.6372,Population
+2018,Bologna,3.675,Population
+2018,Bolzano,1.9135,Population
+2018,Brescia,4.5364,Population
+2018,Como,2.1637,Population
+2018,Cremona,1.2893,Population
+2018,Cuneo,2.1286,Population
+2018,Ferrara,1.2528,Population
+2018,Forli-Cesena,1.4291,Population
+2018,Genoa,3.0186,Population
+2018,Gorizia,0.5004,Population
+2018,Imperia,0.7622,Population
+2018,La Spezia,0.7908,Population
+2018,Lecco,1.2151,Population
+2018,Lodi,0.8215,Population
+2018,Mantua,1.4762,Population
+2018,Milan,11.7361,Population
+2018,Modena,2.5504,Population
+2018,Monza-Brianza,3.1373,Population
+2018,Novara,1.3259,Population
+2018,Padua,3.3792,Population
+2018,Parma,1.6347,Population
+2018,Pavia,1.9613,Population
+2018,Piacenza,1.0362,Population
+2018,Pordenone,1.1235,Population
+2018,Ravenna,1.4099,Population
+2018,Reggio Emilia,1.9182,Population
+2018,Rimini,1.2155,Population
+2018,Rovigo,0.8476,Population
+2018,Savona,0.9946,Population
+2018,Sondrio,0.655,Population
+2018,Trento,1.9653,Population
+2018,Treviso,3.2,Population
+2018,Trieste,0.8411,Population
+2018,Turin,8.1256,Population
+2018,Udine,1.919,Population
+2018,Varese,3.2043,Population
+2018,Venice,3.0805,Population
+2018,Verbano-Cusio-Ossola,0.571,Population
+2018,Vercelli,0.6199,Population
+2018,Verona,3.3347,Population
+2018,Vicenza,3.104,Population
+2019,Alessandria,1.5162,Population
+2019,Aosta,0.4536,Population
+2019,Asti,0.7704,Population
+2019,Belluno,0.7306,Population
+2019,Bergamo,4.0099,Population
+2019,Biella,0.6328,Population
+2019,Bologna,3.6913,Population
+2019,Bolzano,1.9242,Population
+2019,Brescia,4.5432,Population
+2019,Como,2.1639,Population
+2019,Cremona,1.2889,Population
+2019,Cuneo,2.1241,Population
+2019,Ferrara,1.249,Population
+2019,Forli-Cesena,1.4315,Population
+2019,Genoa,2.9998,Population
+2019,Gorizia,0.4996,Population
+2019,Imperia,0.7592,Population
+2019,La Spezia,0.7885,Population
+2019,Lecco,1.2139,Population
+2019,Lodi,0.8226,Population
+2019,Mantua,1.4749,Population
+2019,Milan,11.7941,Population
+2019,Modena,2.5592,Population
+2019,Monza-Brianza,3.1454,Population
+2019,Novara,1.3229,Population
+2019,Padua,3.3811,Population
+2019,Parma,1.6426,Population
+2019,Pavia,1.9586,Population
+2019,Piacenza,1.0365,Population
+2019,Pordenone,1.1245,Population
+2019,Ravenna,1.4062,Population
+2019,Reggio Emilia,1.9181,Population
+2019,Rimini,1.219,Population
+2019,Rovigo,0.8421,Population
+2019,Savona,0.9876,Population
+2019,Sondrio,0.6538,Population
+2019,Trento,1.9717,Population
+2019,Treviso,3.1997,Population
+2019,Trieste,0.8396,Population
+2019,Turin,8.0905,Population
+2019,Udine,1.9108,Population
+2019,Varese,3.204,Population
+2019,Venice,3.077,Population
+2019,Verbano-Cusio-Ossola,0.5677,Population
+2019,Vercelli,0.6151,Population
+2019,Verona,3.3445,Population
+2019,Vicenza,3.0994,Population
+2020,Alessandria,1.5001,Population
+2020,Aosta,0.4522,Population
+2020,Asti,0.7648,Population
+2020,Belluno,0.7277,Population
+2020,Bergamo,4.0136,Population
+2020,Biella,0.6257,Population
+2020,Bologna,3.6967,Population
+2020,Bolzano,1.9375,Population
+2020,Brescia,4.5569,Population
+2020,Como,2.1669,Population
+2020,Cremona,1.2852,Population
+2020,Cuneo,2.1197,Population
+2020,Ferrara,1.246,Population
+2020,Forli-Cesena,1.4301,Population
+2020,Genoa,2.994,Population
+2020,Gorizia,0.5023,Population
+2020,Imperia,0.7597,Population
+2020,La Spezia,0.7865,Population
+2020,Lecco,1.2134,Population
+2020,Lodi,0.8254,Population
+2020,Mantua,1.4754,Population
+2020,Milan,11.8088,Population
+2020,Modena,2.5599,Population
+2020,Monza-Brianza,3.1585,Population
+2020,Novara,1.3212,Population
+2020,Padua,3.3871,Population
+2020,Parma,1.6417,Population
+2020,Pavia,1.9531,Population
+2020,Piacenza,1.0348,Population
+2020,Pordenone,1.1273,Population
+2020,Ravenna,1.4057,Population
+2020,Reggio Emilia,1.9179,Population
+2020,Rimini,1.2243,Population
+2020,Rovigo,0.8392,Population
+2020,Savona,0.9829,Population
+2020,Sondrio,0.6519,Population
+2020,Trento,1.9738,Population
+2020,Treviso,3.2013,Population
+2020,Trieste,0.8388,Population
+2020,Turin,8.0762,Population
+2020,Udine,1.9012,Population
+2020,Varese,3.2031,Population
+2020,Venice,3.0714,Population
+2020,Verbano-Cusio-Ossola,0.5648,Population
+2020,Vercelli,0.6098,Population
+2020,Verona,3.3621,Population
+2020,Vicenza,3.1037,Population
+2021,Alessandria,1.4884,Population
+2021,Aosta,0.4509,Population
+2021,Asti,0.7612,Population
+2021,Belluno,0.7262,Population
+2021,Bergamo,4.022,Population
+2021,Biella,0.6212,Population
+2021,Bologna,3.6936,Population
+2021,Bolzano,1.946,Population
+2021,Brescia,4.5729,Population
+2021,Como,2.1716,Population
+2021,Cremona,1.2828,Population
+2021,Cuneo,2.118,Population
+2021,Ferrara,1.2424,Population
+2021,Forli-Cesena,1.429,Population
+2021,Genoa,2.9911,Population
+2021,Gorizia,0.5049,Population
+2021,Imperia,0.7619,Population
+2021,La Spezia,0.7856,Population
+2021,Lecco,1.2139,Population
+2021,Lodi,0.8286,Population
+2021,Mantua,1.4775,Population
+2021,Milan,11.7687,Population
+2021,Modena,2.5617,Population
+2021,Monza-Brianza,3.1727,Population
+2021,Novara,1.3211,Population
+2021,Padua,3.3936,Population
+2021,Parma,1.6379,Population
+2021,Pavia,1.9511,Population
+2021,Piacenza,1.0339,Population
+2021,Pordenone,1.1305,Population
+2021,Ravenna,1.4075,Population
+2021,Reggio Emilia,1.919,Population
+2021,Rimini,1.2369,Population
+2021,Rovigo,0.8377,Population
+2021,Savona,0.9803,Population
+2021,Sondrio,0.6518,Population
+2021,Trento,1.9744,Population
+2021,Treviso,3.2051,Population
+2021,Trieste,0.8377,Population
+2021,Turin,8.0703,Population
+2021,Udine,1.8946,Population
+2021,Varese,3.204,Population
+2021,Venice,3.0629,Population
+2021,Verbano-Cusio-Ossola,0.5636,Population
+2021,Vercelli,0.6062,Population
+2021,Verona,3.3753,Population
+2021,Vicenza,3.1118,Population
+2022,Alessandria,1.4853,Population
+2022,Aosta,0.4497,Population
+2022,Asti,0.7596,Population
+2022,Belluno,0.7242,Population
+2022,Bergamo,4.0325,Population
+2022,Biella,0.6191,Population
+2022,Bologna,3.6959,Population
+2022,Bolzano,1.9471,Population
+2022,Brescia,4.5818,Population
+2022,Como,2.1756,Population
+2022,Cremona,1.2845,Population
+2022,Cuneo,2.1186,Population
+2022,Ferrara,1.2389,Population
+2022,Forli-Cesena,1.4291,Population
+2022,Genoa,2.9823,Population
+2022,Gorizia,0.5037,Population
+2022,Imperia,0.7618,Population
+2022,La Spezia,0.7848,Population
+2022,Lecco,1.2141,Population
+2022,Lodi,0.8312,Population
+2022,Mantua,1.4795,Population
+2022,Milan,11.759,Population
+2022,Modena,2.5661,Population
+2022,Monza-Brianza,3.183,Population
+2022,Novara,1.3221,Population
+2022,Padua,3.3937,Population
+2022,Parma,1.6437,Population
+2022,Pavia,1.9547,Population
+2022,Piacenza,1.0359,Population
+2022,Pordenone,1.1309,Population
+2022,Ravenna,1.409,Population
+2022,Reggio Emilia,1.9211,Population
+2022,Rimini,1.2363,Population
+2022,Rovigo,0.8337,Population
+2022,Savona,0.9772,Population
+2022,Sondrio,0.6527,Population
+2022,Trento,1.9784,Population
+2022,Treviso,3.2064,Population
+2022,Trieste,0.8352,Population
+2022,Turin,8.0547,Population
+2022,Udine,1.8901,Population
+2022,Varese,3.2075,Population
+2022,Venice,3.0531,Population
+2022,Verbano-Cusio-Ossola,0.5625,Population
+2022,Vercelli,0.6059,Population
+2022,Verona,3.3758,Population
+2022,Vicenza,3.1119,Population
+2023,Alessandria,1.4807,Population
+2023,Aosta,0.4481,Population
+2023,Asti,0.7564,Population
+2023,Belluno,0.721,Population
+2023,Bergamo,4.0383,Population
+2023,Biella,0.615,Population
+2023,Bologna,3.7013,Population
+2023,Bolzano,1.9521,Population
+2023,Brescia,4.5874,Population
+2023,Como,2.1769,Population
+2023,Cremona,1.2846,Population
+2023,Cuneo,2.1175,Population
+2023,Ferrara,1.2369,Population
+2023,Forli-Cesena,1.4289,Population
+2023,Genoa,2.977,Population
+2023,Gorizia,0.5035,Population
+2023,Imperia,0.7607,Population
+2023,La Spezia,0.7833,Population
+2023,Lecco,1.2132,Population
+2023,Lodi,0.8336,Population
+2023,Mantua,1.4814,Population
+2023,Milan,11.7928,Population
+2023,Modena,2.57,Population
+2023,Monza-Brianza,3.1887,Population
+2023,Novara,1.3225,Population
+2023,Padua,3.392,Population
+2023,Parma,1.6501,Population
+2023,Pavia,1.9583,Population
+2023,Piacenza,1.0376,Population
+2023,Pordenone,1.1309,Population
+2023,Ravenna,1.4093,Population
+2023,Reggio Emilia,1.9233,Population
+2023,Rimini,1.2366,Population
+2023,Rovigo,0.8296,Population
+2023,Savona,0.9746,Population
+2023,Sondrio,0.6514,Population
+2023,Trento,1.9824,Population
+2023,Treviso,3.2029,Population
+2023,Trieste,0.8329,Population
+2023,Turin,8.0329,Population
+2023,Udine,1.8843,Population
+2023,Varese,3.2062,Population
+2023,Venice,3.0448,Population
+2023,Verbano-Cusio-Ossola,0.5607,Population
+2023,Vercelli,0.6041,Population
+2023,Verona,3.3748,Population
+2023,Vicenza,3.1085,Population
+2008,Alessandria,1.2959,GDP
+2008,Aosta,0.5274,GDP
+2008,Asti,0.5773,GDP
+2008,Belluno,0.666,GDP
+2008,Bergamo,3.9057,GDP
+2008,Biella,0.5617,GDP
+2008,Bologna,3.874,GDP
+2008,Bolzano,2.2017,GDP
+2008,Brescia,4.5198,GDP
+2008,Como,1.8365,GDP
+2008,Cremona,1.1959,GDP
+2008,Cuneo,1.9903,GDP
+2008,Ferrara,1.0669,GDP
+2008,Forli-Cesena,1.2449,GDP
+2008,Genoa,3.1729,GDP
+2008,Gorizia,0.383,GDP
+2008,Imperia,0.6269,GDP
+2008,La Spezia,0.6594,GDP
+2008,Lecco,1.1267,GDP
+2008,Lodi,0.6438,GDP
+2008,Mantua,1.2907,GDP
+2008,Milan,17.5049,GDP
+2008,Modena,2.759,GDP
+2008,Monza-Brianza,2.7596,GDP
+2008,Novara,1.1264,GDP
+2008,Padua,3.1072,GDP
+2008,Parma,1.6076,GDP
+2008,Pavia,1.4807,GDP
+2008,Piacenza,0.9891,GDP
+2008,Pordenone,0.9721,GDP
+2008,Ravenna,1.2865,GDP
+2008,Reggio Emilia,2.0077,GDP
+2008,Rimini,1.0105,GDP
+2008,Rovigo,0.6362,GDP
+2008,Savona,0.9281,GDP
+2008,Sondrio,0.5545,GDP
+2008,Trento,1.9879,GDP
+2008,Treviso,3.2076,GDP
+2008,Trieste,0.7921,GDP
+2008,Turin,7.5905,GDP
+2008,Udine,1.8006,GDP
+2008,Varese,2.9201,GDP
+2008,Venice,2.7136,GDP
+2008,Verbano-Cusio-Ossola,0.4053,GDP
+2008,Vercelli,0.536,GDP
+2008,Verona,3.0671,GDP
+2008,Vicenza,2.8813,GDP
+2009,Alessandria,1.3338,GDP
+2009,Aosta,0.5286,GDP
+2009,Asti,0.551,GDP
+2009,Belluno,0.634,GDP
+2009,Bergamo,4.0355,GDP
+2009,Biella,0.5368,GDP
+2009,Bologna,3.9376,GDP
+2009,Bolzano,2.299,GDP
+2009,Brescia,4.3456,GDP
+2009,Como,1.815,GDP
+2009,Cremona,1.1381,GDP
+2009,Cuneo,1.9515,GDP
+2009,Ferrara,1.0104,GDP
+2009,Forli-Cesena,1.2962,GDP
+2009,Genoa,3.223,GDP
+2009,Gorizia,0.3843,GDP
+2009,Imperia,0.5504,GDP
+2009,La Spezia,0.6695,GDP
+2009,Lecco,1.0917,GDP
+2009,Lodi,0.6882,GDP
+2009,Mantua,1.2851,GDP
+2009,Milan,17.7844,GDP
+2009,Modena,2.6847,GDP
+2009,Monza-Brianza,2.7487,GDP
+2009,Novara,1.0971,GDP
+2009,Padua,3.082,GDP
+2009,Parma,1.6605,GDP
+2009,Pavia,1.4293,GDP
+2009,Piacenza,0.9636,GDP
+2009,Pordenone,0.9339,GDP
+2009,Ravenna,1.2767,GDP
+2009,Reggio Emilia,1.9492,GDP
+2009,Rimini,1.0251,GDP
+2009,Rovigo,0.6565,GDP
+2009,Savona,0.9375,GDP
+2009,Sondrio,0.5764,GDP
+2009,Trento,2.0561,GDP
+2009,Treviso,3.0459,GDP
+2009,Trieste,0.7922,GDP
+2009,Turin,7.3932,GDP
+2009,Udine,1.8057,GDP
+2009,Varese,2.8238,GDP
+2009,Venice,2.8159,GDP
+2009,Verbano-Cusio-Ossola,0.4065,GDP
+2009,Vercelli,0.5152,GDP
+2009,Verona,3.3319,GDP
+2009,Vicenza,2.9026,GDP
+2010,Alessandria,1.321,GDP
+2010,Aosta,0.5348,GDP
+2010,Asti,0.5622,GDP
+2010,Belluno,0.6358,GDP
+2010,Bergamo,3.8852,GDP
+2010,Biella,0.5346,GDP
+2010,Bologna,4.0594,GDP
+2010,Bolzano,2.3016,GDP
+2010,Brescia,4.2881,GDP
+2010,Como,1.8486,GDP
+2010,Cremona,1.1455,GDP
+2010,Cuneo,1.958,GDP
+2010,Ferrara,0.9614,GDP
+2010,Forli-Cesena,1.3049,GDP
+2010,Genoa,3.1154,GDP
+2010,Gorizia,0.4149,GDP
+2010,Imperia,0.5123,GDP
+2010,La Spezia,0.6799,GDP
+2010,Lecco,1.0713,GDP
+2010,Lodi,0.6889,GDP
+2010,Mantua,1.2978,GDP
+2010,Milan,18.2872,GDP
+2010,Modena,2.6301,GDP
+2010,Monza-Brianza,2.8198,GDP
+2010,Novara,1.1176,GDP
+2010,Padua,3.1617,GDP
+2010,Parma,1.6794,GDP
+2010,Pavia,1.4129,GDP
+2010,Piacenza,0.8885,GDP
+2010,Pordenone,0.992,GDP
+2010,Ravenna,1.2518,GDP
+2010,Reggio Emilia,1.8745,GDP
+2010,Rimini,0.9827,GDP
+2010,Rovigo,0.6707,GDP
+2010,Savona,0.8733,GDP
+2010,Sondrio,0.592,GDP
+2010,Trento,2.04,GDP
+2010,Treviso,2.9559,GDP
+2010,Trieste,0.7947,GDP
+2010,Turin,7.4361,GDP
+2010,Udine,1.7291,GDP
+2010,Varese,2.9263,GDP
+2010,Venice,2.7703,GDP
+2010,Verbano-Cusio-Ossola,0.41,GDP
+2010,Vercelli,0.5176,GDP
+2010,Verona,3.1725,GDP
+2010,Vicenza,2.8917,GDP
+2011,Alessandria,1.2766,GDP
+2011,Aosta,0.5296,GDP
+2011,Asti,0.5836,GDP
+2011,Belluno,0.6628,GDP
+2011,Bergamo,3.8548,GDP
+2011,Biella,0.5338,GDP
+2011,Bologna,4.1473,GDP
+2011,Bolzano,2.3138,GDP
+2011,Brescia,4.3616,GDP
+2011,Como,1.8573,GDP
+2011,Cremona,1.1239,GDP
+2011,Cuneo,1.9256,GDP
+2011,Ferrara,0.9718,GDP
+2011,Forli-Cesena,1.3016,GDP
+2011,Genoa,3.0183,GDP
+2011,Gorizia,0.4083,GDP
+2011,Imperia,0.5618,GDP
+2011,La Spezia,0.7039,GDP
+2011,Lecco,1.07,GDP
+2011,Lodi,0.6422,GDP
+2011,Mantua,1.3183,GDP
+2011,Milan,18.1691,GDP
+2011,Modena,2.5854,GDP
+2011,Monza-Brianza,2.7819,GDP
+2011,Novara,1.0831,GDP
+2011,Padua,3.2459,GDP
+2011,Parma,1.6497,GDP
+2011,Pavia,1.438,GDP
+2011,Piacenza,0.9421,GDP
+2011,Pordenone,1.0073,GDP
+2011,Ravenna,1.3202,GDP
+2011,Reggio Emilia,1.8905,GDP
+2011,Rimini,1.0455,GDP
+2011,Rovigo,0.6664,GDP
+2011,Savona,0.8621,GDP
+2011,Sondrio,0.5977,GDP
+2011,Trento,2.031,GDP
+2011,Treviso,2.955,GDP
+2011,Trieste,0.798,GDP
+2011,Turin,7.4797,GDP
+2011,Udine,1.6929,GDP
+2011,Varese,2.8365,GDP
+2011,Venice,2.7663,GDP
+2011,Verbano-Cusio-Ossola,0.41,GDP
+2011,Vercelli,0.5195,GDP
+2011,Verona,3.118,GDP
+2011,Vicenza,2.9413,GDP
+2012,Alessandria,1.2584,GDP
+2012,Aosta,0.5452,GDP
+2012,Asti,0.5859,GDP
+2012,Belluno,0.6662,GDP
+2012,Bergamo,3.8289,GDP
+2012,Biella,0.5136,GDP
+2012,Bologna,4.1366,GDP
+2012,Bolzano,2.4513,GDP
+2012,Brescia,4.3574,GDP
+2012,Como,1.7964,GDP
+2012,Cremona,1.142,GDP
+2012,Cuneo,1.9114,GDP
+2012,Ferrara,0.969,GDP
+2012,Forli-Cesena,1.3028,GDP
+2012,Genoa,3.0257,GDP
+2012,Gorizia,0.3917,GDP
+2012,Imperia,0.5589,GDP
+2012,La Spezia,0.7143,GDP
+2012,Lecco,1.0839,GDP
+2012,Lodi,0.6465,GDP
+2012,Mantua,1.3178,GDP
+2012,Milan,18.1665,GDP
+2012,Modena,2.6329,GDP
+2012,Monza-Brianza,2.8048,GDP
+2012,Novara,1.0981,GDP
+2012,Padua,3.2579,GDP
+2012,Parma,1.6931,GDP
+2012,Pavia,1.4027,GDP
+2012,Piacenza,0.9559,GDP
+2012,Pordenone,0.9908,GDP
+2012,Ravenna,1.2938,GDP
+2012,Reggio Emilia,1.8712,GDP
+2012,Rimini,1.0538,GDP
+2012,Rovigo,0.6522,GDP
+2012,Savona,0.8496,GDP
+2012,Sondrio,0.5976,GDP
+2012,Trento,2.0719,GDP
+2012,Treviso,2.91,GDP
+2012,Trieste,0.8078,GDP
+2012,Turin,7.3116,GDP
+2012,Udine,1.6681,GDP
+2012,Varese,2.8972,GDP
+2012,Venice,2.7385,GDP
+2012,Verbano-Cusio-Ossola,0.4158,GDP
+2012,Vercelli,0.5136,GDP
+2012,Verona,3.1804,GDP
+2012,Vicenza,2.9605,GDP
+2013,Alessandria,1.2584,GDP
+2013,Aosta,0.5247,GDP
+2013,Asti,0.5941,GDP
+2013,Belluno,0.6742,GDP
+2013,Bergamo,3.7866,GDP
+2013,Biella,0.5083,GDP
+2013,Bologna,4.1967,GDP
+2013,Bolzano,2.4848,GDP
+2013,Brescia,4.3263,GDP
+2013,Como,1.7817,GDP
+2013,Cremona,1.1894,GDP
+2013,Cuneo,1.9349,GDP
+2013,Ferrara,0.9764,GDP
+2013,Forli-Cesena,1.3084,GDP
+2013,Genoa,2.9801,GDP
+2013,Gorizia,0.3983,GDP
+2013,Imperia,0.5546,GDP
+2013,La Spezia,0.7138,GDP
+2013,Lecco,1.0994,GDP
+2013,Lodi,0.6575,GDP
+2013,Mantua,1.32,GDP
+2013,Milan,17.9144,GDP
+2013,Modena,2.6827,GDP
+2013,Monza-Brianza,2.8099,GDP
+2013,Novara,1.1005,GDP
+2013,Padua,3.2236,GDP
+2013,Parma,1.6884,GDP
+2013,Pavia,1.4043,GDP
+2013,Piacenza,0.961,GDP
+2013,Pordenone,1.006,GDP
+2013,Ravenna,1.3052,GDP
+2013,Reggio Emilia,1.8933,GDP
+2013,Rimini,1.0431,GDP
+2013,Rovigo,0.6504,GDP
+2013,Savona,0.8419,GDP
+2013,Sondrio,0.5808,GDP
+2013,Trento,2.1288,GDP
+2013,Treviso,2.9006,GDP
+2013,Trieste,0.7881,GDP
+2013,Turin,7.4077,GDP
+2013,Udine,1.6989,GDP
+2013,Varese,2.8139,GDP
+2013,Venice,2.7472,GDP
+2013,Verbano-Cusio-Ossola,0.4194,GDP
+2013,Vercelli,0.5203,GDP
+2013,Verona,3.1977,GDP
+2013,Vicenza,3.0032,GDP
+2014,Alessandria,1.2428,GDP
+2014,Aosta,0.5111,GDP
+2014,Asti,0.5877,GDP
+2014,Belluno,0.6861,GDP
+2014,Bergamo,3.7863,GDP
+2014,Biella,0.5018,GDP
+2014,Bologna,4.2088,GDP
+2014,Bolzano,2.4739,GDP
+2014,Brescia,4.3388,GDP
+2014,Como,1.826,GDP
+2014,Cremona,1.1519,GDP
+2014,Cuneo,1.9144,GDP
+2014,Ferrara,0.9655,GDP
+2014,Forli-Cesena,1.3066,GDP
+2014,Genoa,3.0387,GDP
+2014,Gorizia,0.3977,GDP
+2014,Imperia,0.5466,GDP
+2014,La Spezia,0.7048,GDP
+2014,Lecco,1.0868,GDP
+2014,Lodi,0.6574,GDP
+2014,Mantua,1.3258,GDP
+2014,Milan,18.0707,GDP
+2014,Modena,2.7453,GDP
+2014,Monza-Brianza,2.7897,GDP
+2014,Novara,1.0973,GDP
+2014,Padua,3.235,GDP
+2014,Parma,1.7044,GDP
+2014,Pavia,1.4541,GDP
+2014,Piacenza,0.9672,GDP
+2014,Pordenone,0.9743,GDP
+2014,Ravenna,1.3064,GDP
+2014,Reggio Emilia,1.8892,GDP
+2014,Rimini,1.0399,GDP
+2014,Rovigo,0.6592,GDP
+2014,Savona,0.8091,GDP
+2014,Sondrio,0.5889,GDP
+2014,Trento,2.0899,GDP
+2014,Treviso,2.9493,GDP
+2014,Trieste,0.806,GDP
+2014,Turin,7.264,GDP
+2014,Udine,1.6722,GDP
+2014,Varese,2.8225,GDP
+2014,Venice,2.7492,GDP
+2014,Verbano-Cusio-Ossola,0.4087,GDP
+2014,Vercelli,0.503,GDP
+2014,Verona,3.1679,GDP
+2014,Vicenza,2.9769,GDP
+2015,Alessandria,1.2489,GDP
+2015,Aosta,0.503,GDP
+2015,Asti,0.5783,GDP
+2015,Belluno,0.6778,GDP
+2015,Bergamo,3.7698,GDP
+2015,Biella,0.5031,GDP
+2015,Bologna,4.2138,GDP
+2015,Bolzano,2.4804,GDP
+2015,Brescia,4.3391,GDP
+2015,Como,1.8002,GDP
+2015,Cremona,1.1322,GDP
+2015,Cuneo,1.9063,GDP
+2015,Ferrara,0.9708,GDP
+2015,Forli-Cesena,1.3149,GDP
+2015,Genoa,3.0276,GDP
+2015,Gorizia,0.3918,GDP
+2015,Imperia,0.5338,GDP
+2015,La Spezia,0.6966,GDP
+2015,Lecco,1.0884,GDP
+2015,Lodi,0.6256,GDP
+2015,Mantua,1.326,GDP
+2015,Milan,18.2597,GDP
+2015,Modena,2.7272,GDP
+2015,Monza-Brianza,2.7852,GDP
+2015,Novara,1.1129,GDP
+2015,Padua,3.223,GDP
+2015,Parma,1.702,GDP
+2015,Pavia,1.4308,GDP
+2015,Piacenza,0.9531,GDP
+2015,Pordenone,0.9947,GDP
+2015,Ravenna,1.2911,GDP
+2015,Reggio Emilia,1.918,GDP
+2015,Rimini,1.0197,GDP
+2015,Rovigo,0.6474,GDP
+2015,Savona,0.8052,GDP
+2015,Sondrio,0.5621,GDP
+2015,Trento,2.0478,GDP
+2015,Treviso,2.9381,GDP
+2015,Trieste,0.8071,GDP
+2015,Turin,7.2609,GDP
+2015,Udine,1.6854,GDP
+2015,Varese,2.8487,GDP
+2015,Venice,2.7579,GDP
+2015,Verbano-Cusio-Ossola,0.4019,GDP
+2015,Vercelli,0.4995,GDP
+2015,Verona,3.1836,GDP
+2015,Vicenza,3.0083,GDP
+2016,Alessandria,1.2194,GDP
+2016,Aosta,0.4837,GDP
+2016,Asti,0.5694,GDP
+2016,Belluno,0.6863,GDP
+2016,Bergamo,3.7827,GDP
+2016,Biella,0.4939,GDP
+2016,Bologna,4.2062,GDP
+2016,Bolzano,2.4696,GDP
+2016,Brescia,4.3699,GDP
+2016,Como,1.7759,GDP
+2016,Cremona,1.142,GDP
+2016,Cuneo,1.9055,GDP
+2016,Ferrara,0.9673,GDP
+2016,Forli-Cesena,1.3068,GDP
+2016,Genoa,3.0091,GDP
+2016,Gorizia,0.395,GDP
+2016,Imperia,0.528,GDP
+2016,La Spezia,0.6892,GDP
+2016,Lecco,1.0793,GDP
+2016,Lodi,0.6403,GDP
+2016,Mantua,1.3225,GDP
+2016,Milan,18.3947,GDP
+2016,Modena,2.7982,GDP
+2016,Monza-Brianza,2.8012,GDP
+2016,Novara,1.12,GDP
+2016,Padua,3.2526,GDP
+2016,Parma,1.7017,GDP
+2016,Pavia,1.368,GDP
+2016,Piacenza,0.9399,GDP
+2016,Pordenone,0.9815,GDP
+2016,Ravenna,1.2998,GDP
+2016,Reggio Emilia,1.9277,GDP
+2016,Rimini,1.0338,GDP
+2016,Rovigo,0.6289,GDP
+2016,Savona,0.792,GDP
+2016,Sondrio,0.556,GDP
+2016,Trento,2.0241,GDP
+2016,Treviso,2.9855,GDP
+2016,Trieste,0.7934,GDP
+2016,Turin,7.3064,GDP
+2016,Udine,1.6508,GDP
+2016,Varese,2.7483,GDP
+2016,Venice,2.7537,GDP
+2016,Verbano-Cusio-Ossola,0.3964,GDP
+2016,Vercelli,0.4879,GDP
+2016,Verona,3.2185,GDP
+2016,Vicenza,2.9967,GDP
+2017,Alessandria,1.2484,GDP
+2017,Aosta,0.4887,GDP
+2017,Asti,0.5611,GDP
+2017,Belluno,0.6783,GDP
+2017,Bergamo,3.7804,GDP
+2017,Biella,0.4888,GDP
+2017,Bologna,4.2211,GDP
+2017,Bolzano,2.4924,GDP
+2017,Brescia,4.393,GDP
+2017,Como,1.7854,GDP
+2017,Cremona,1.1823,GDP
+2017,Cuneo,1.9161,GDP
+2017,Ferrara,0.9597,GDP
+2017,Forli-Cesena,1.2996,GDP
+2017,Genoa,3.0026,GDP
+2017,Gorizia,0.3889,GDP
+2017,Imperia,0.5154,GDP
+2017,La Spezia,0.6789,GDP
+2017,Lecco,1.088,GDP
+2017,Lodi,0.6298,GDP
+2017,Mantua,1.3471,GDP
+2017,Milan,18.3205,GDP
+2017,Modena,2.8126,GDP
+2017,Monza-Brianza,2.7866,GDP
+2017,Novara,1.1165,GDP
+2017,Padua,3.2541,GDP
+2017,Parma,1.7066,GDP
+2017,Pavia,1.3757,GDP
+2017,Piacenza,0.9366,GDP
+2017,Pordenone,0.9676,GDP
+2017,Ravenna,1.2755,GDP
+2017,Reggio Emilia,1.942,GDP
+2017,Rimini,1.0338,GDP
+2017,Rovigo,0.6181,GDP
+2017,Savona,0.7948,GDP
+2017,Sondrio,0.5427,GDP
+2017,Trento,2.0113,GDP
+2017,Treviso,2.9695,GDP
+2017,Trieste,0.8106,GDP
+2017,Turin,7.3679,GDP
+2017,Udine,1.6296,GDP
+2017,Varese,2.707,GDP
+2017,Venice,2.7377,GDP
+2017,Verbano-Cusio-Ossola,0.3998,GDP
+2017,Vercelli,0.4872,GDP
+2017,Verona,3.2359,GDP
+2017,Vicenza,3.0136,GDP
+2018,Alessandria,1.2148,GDP
+2018,Aosta,0.4814,GDP
+2018,Asti,0.5625,GDP
+2018,Belluno,0.6729,GDP
+2018,Bergamo,3.8042,GDP
+2018,Biella,0.4927,GDP
+2018,Bologna,4.2486,GDP
+2018,Bolzano,2.5369,GDP
+2018,Brescia,4.4095,GDP
+2018,Como,1.7546,GDP
+2018,Cremona,1.1705,GDP
+2018,Cuneo,1.8942,GDP
+2018,Ferrara,0.9461,GDP
+2018,Forli-Cesena,1.3016,GDP
+2018,Genoa,2.9325,GDP
+2018,Gorizia,0.3896,GDP
+2018,Imperia,0.5095,GDP
+2018,La Spezia,0.6732,GDP
+2018,Lecco,1.0866,GDP
+2018,Lodi,0.6179,GDP
+2018,Mantua,1.3383,GDP
+2018,Milan,18.4951,GDP
+2018,Modena,2.7639,GDP
+2018,Monza-Brianza,2.7679,GDP
+2018,Novara,1.1156,GDP
+2018,Padua,3.2388,GDP
+2018,Parma,1.7327,GDP
+2018,Pavia,1.3728,GDP
+2018,Piacenza,0.952,GDP
+2018,Pordenone,0.9721,GDP
+2018,Ravenna,1.2612,GDP
+2018,Reggio Emilia,1.9313,GDP
+2018,Rimini,1.0316,GDP
+2018,Rovigo,0.6198,GDP
+2018,Savona,0.7769,GDP
+2018,Sondrio,0.5399,GDP
+2018,Trento,2.0434,GDP
+2018,Treviso,3.0079,GDP
+2018,Trieste,0.8113,GDP
+2018,Turin,7.3838,GDP
+2018,Udine,1.6383,GDP
+2018,Varese,2.7143,GDP
+2018,Venice,2.7215,GDP
+2018,Verbano-Cusio-Ossola,0.3896,GDP
+2018,Vercelli,0.4797,GDP
+2018,Verona,3.1966,GDP
+2018,Vicenza,3.0041,GDP
+2019,Alessandria,1.2226,GDP
+2019,Aosta,0.4796,GDP
+2019,Asti,0.5623,GDP
+2019,Belluno,0.7058,GDP
+2019,Bergamo,3.8599,GDP
+2019,Biella,0.4794,GDP
+2019,Bologna,4.2802,GDP
+2019,Bolzano,2.5817,GDP
+2019,Brescia,4.4379,GDP
+2019,Como,1.7446,GDP
+2019,Cremona,1.1705,GDP
+2019,Cuneo,1.9232,GDP
+2019,Ferrara,0.922,GDP
+2019,Forli-Cesena,1.3013,GDP
+2019,Genoa,2.9685,GDP
+2019,Gorizia,0.4005,GDP
+2019,Imperia,0.5104,GDP
+2019,La Spezia,0.6735,GDP
+2019,Lecco,1.0872,GDP
+2019,Lodi,0.6383,GDP
+2019,Mantua,1.3083,GDP
+2019,Milan,18.3343,GDP
+2019,Modena,2.6864,GDP
+2019,Monza-Brianza,2.7929,GDP
+2019,Novara,1.1351,GDP
+2019,Padua,3.2511,GDP
+2019,Parma,1.7408,GDP
+2019,Pavia,1.3756,GDP
+2019,Piacenza,0.9579,GDP
+2019,Pordenone,0.9796,GDP
+2019,Ravenna,1.2374,GDP
+2019,Reggio Emilia,1.9439,GDP
+2019,Rimini,1.0387,GDP
+2019,Rovigo,0.6151,GDP
+2019,Savona,0.7551,GDP
+2019,Sondrio,0.5565,GDP
+2019,Trento,2.0753,GDP
+2019,Treviso,3.0022,GDP
+2019,Trieste,0.8119,GDP
+2019,Turin,7.2333,GDP
+2019,Udine,1.6647,GDP
+2019,Varese,2.7101,GDP
+2019,Venice,2.7663,GDP
+2019,Verbano-Cusio-Ossola,0.3936,GDP
+2019,Vercelli,0.4741,GDP
+2019,Verona,3.1969,GDP
+2019,Vicenza,3.0136,GDP
+2020,Alessandria,1.1866,GDP
+2020,Aosta,0.4728,GDP
+2020,Asti,0.5576,GDP
+2020,Belluno,0.6359,GDP
+2020,Bergamo,3.8346,GDP
+2020,Biella,0.4671,GDP
+2020,Bologna,4.2671,GDP
+2020,Bolzano,2.5904,GDP
+2020,Brescia,4.413,GDP
+2020,Como,1.7103,GDP
+2020,Cremona,1.2015,GDP
+2020,Cuneo,1.9652,GDP
+2020,Ferrara,0.9181,GDP
+2020,Forli-Cesena,1.3198,GDP
+2020,Genoa,2.8163,GDP
+2020,Gorizia,0.3933,GDP
+2020,Imperia,0.5091,GDP
+2020,La Spezia,0.6951,GDP
+2020,Lecco,1.0863,GDP
+2020,Lodi,0.6425,GDP
+2020,Mantua,1.3264,GDP
+2020,Milan,18.7501,GDP
+2020,Modena,2.7092,GDP
+2020,Monza-Brianza,2.86,GDP
+2020,Novara,1.1387,GDP
+2020,Padua,3.2664,GDP
+2020,Parma,1.7811,GDP
+2020,Pavia,1.3612,GDP
+2020,Piacenza,0.9832,GDP
+2020,Pordenone,1.0035,GDP
+2020,Ravenna,1.2564,GDP
+2020,Reggio Emilia,1.9627,GDP
+2020,Rimini,0.9871,GDP
+2020,Rovigo,0.6241,GDP
+2020,Savona,0.7704,GDP
+2020,Sondrio,0.5475,GDP
+2020,Trento,2.0989,GDP
+2020,Treviso,3.0229,GDP
+2020,Trieste,0.8192,GDP
+2020,Turin,7.0782,GDP
+2020,Udine,1.66,GDP
+2020,Varese,2.6601,GDP
+2020,Venice,2.5296,GDP
+2020,Verbano-Cusio-Ossola,0.3757,GDP
+2020,Vercelli,0.497,GDP
+2020,Verona,3.2012,GDP
+2020,Vicenza,3.0466,GDP
+2021,Alessandria,1.1864,GDP
+2021,Aosta,0.4591,GDP
+2021,Asti,0.5437,GDP
+2021,Belluno,0.6462,GDP
+2021,Bergamo,3.8672,GDP
+2021,Biella,0.4617,GDP
+2021,Bologna,4.1753,GDP
+2021,Bolzano,2.5509,GDP
+2021,Brescia,4.4546,GDP
+2021,Como,1.7124,GDP
+2021,Cremona,1.1933,GDP
+2021,Cuneo,1.8939,GDP
+2021,Ferrara,0.9195,GDP
+2021,Forli-Cesena,1.3096,GDP
+2021,Genoa,2.7801,GDP
+2021,Gorizia,0.3949,GDP
+2021,Imperia,0.5013,GDP
+2021,La Spezia,0.7002,GDP
+2021,Lecco,1.0861,GDP
+2021,Lodi,0.6381,GDP
+2021,Mantua,1.3045,GDP
+2021,Milan,19.0447,GDP
+2021,Modena,2.8234,GDP
+2021,Monza-Brianza,2.8164,GDP
+2021,Novara,1.1282,GDP
+2021,Padua,3.253,GDP
+2021,Parma,1.8168,GDP
+2021,Pavia,1.3692,GDP
+2021,Piacenza,0.9631,GDP
+2021,Pordenone,0.9856,GDP
+2021,Ravenna,1.2335,GDP
+2021,Reggio Emilia,1.9506,GDP
+2021,Rimini,1.0094,GDP
+2021,Rovigo,0.6129,GDP
+2021,Savona,0.7661,GDP
+2021,Sondrio,0.524,GDP
+2021,Trento,2.0472,GDP
+2021,Treviso,3.0217,GDP
+2021,Trieste,0.849,GDP
+2021,Turin,7.1133,GDP
+2021,Udine,1.6529,GDP
+2021,Varese,2.6181,GDP
+2021,Venice,2.5603,GDP
+2021,Verbano-Cusio-Ossola,0.3757,GDP
+2021,Vercelli,0.4846,GDP
+2021,Verona,3.157,GDP
+2021,Vicenza,3.0442,GDP
+2022,Alessandria,1.1687,GDP
+2022,Aosta,0.4809,GDP
+2022,Asti,0.5293,GDP
+2022,Belluno,0.6603,GDP
+2022,Bergamo,3.7953,GDP
+2022,Biella,0.4633,GDP
+2022,Bologna,4.2011,GDP
+2022,Bolzano,2.6525,GDP
+2022,Brescia,4.5173,GDP
+2022,Como,1.7329,GDP
+2022,Cremona,1.1715,GDP
+2022,Cuneo,1.9235,GDP
+2022,Ferrara,0.8725,GDP
+2022,Forli-Cesena,1.2931,GDP
+2022,Genoa,2.7637,GDP
+2022,Gorizia,0.3914,GDP
+2022,Imperia,0.5024,GDP
+2022,La Spezia,0.6941,GDP
+2022,Lecco,1.0792,GDP
+2022,Lodi,0.6198,GDP
+2022,Mantua,1.3167,GDP
+2022,Milan,19.0825,GDP
+2022,Modena,2.816,GDP
+2022,Monza-Brianza,2.7839,GDP
+2022,Novara,1.1176,GDP
+2022,Padua,3.2351,GDP
+2022,Parma,1.7161,GDP
+2022,Pavia,1.4024,GDP
+2022,Piacenza,0.948,GDP
+2022,Pordenone,0.964,GDP
+2022,Ravenna,1.228,GDP
+2022,Reggio Emilia,1.9667,GDP
+2022,Rimini,1.0213,GDP
+2022,Rovigo,0.5971,GDP
+2022,Savona,0.7885,GDP
+2022,Sondrio,0.5329,GDP
+2022,Trento,2.1122,GDP
+2022,Treviso,2.9844,GDP
+2022,Trieste,0.7952,GDP
+2022,Turin,6.9993,GDP
+2022,Udine,1.6511,GDP
+2022,Varese,2.6728,GDP
+2022,Venice,2.6582,GDP
+2022,Verbano-Cusio-Ossola,0.3792,GDP
+2022,Vercelli,0.4799,GDP
+2022,Verona,3.1988,GDP
+2022,Vicenza,3.0395,GDP
+2023,Alessandria,1.1932,GDP
+2023,Aosta,0.4799,GDP
+2023,Asti,0.5204,GDP
+2023,Belluno,0.6482,GDP
+2023,Bergamo,3.848,GDP
+2023,Biella,0.4664,GDP
+2023,Bologna,4.2058,GDP
+2023,Bolzano,2.7241,GDP
+2023,Brescia,4.465,GDP
+2023,Como,1.726,GDP
+2023,Cremona,1.1471,GDP
+2023,Cuneo,1.9436,GDP
+2023,Ferrara,0.8478,GDP
+2023,Forli-Cesena,1.2911,GDP
+2023,Genoa,2.8679,GDP
+2023,Gorizia,0.392,GDP
+2023,Imperia,0.5034,GDP
+2023,La Spezia,0.6902,GDP
+2023,Lecco,1.0636,GDP
+2023,Lodi,0.6194,GDP
+2023,Mantua,1.3175,GDP
+2023,Milan,19.0628,GDP
+2023,Modena,2.8361,GDP
+2023,Monza-Brianza,2.82,GDP
+2023,Novara,1.087,GDP
+2023,Padua,3.2378,GDP
+2023,Parma,1.7769,GDP
+2023,Pavia,1.3549,GDP
+2023,Piacenza,0.9487,GDP
+2023,Pordenone,0.9393,GDP
+2023,Ravenna,1.2211,GDP
+2023,Reggio Emilia,1.9238,GDP
+2023,Rimini,1.0245,GDP
+2023,Rovigo,0.5967,GDP
+2023,Savona,0.7739,GDP
+2023,Sondrio,0.5426,GDP
+2023,Trento,2.1055,GDP
+2023,Treviso,2.9628,GDP
+2023,Trieste,0.7823,GDP
+2023,Turin,7.1098,GDP
+2023,Udine,1.6135,GDP
+2023,Varese,2.6178,GDP
+2023,Venice,2.6776,GDP
+2023,Verbano-Cusio-Ossola,0.3691,GDP
+2023,Vercelli,0.4657,GDP
+2023,Verona,3.1818,GDP
+2023,Vicenza,3.0074,GDP

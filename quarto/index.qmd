@@ -1,16 +1,52 @@
 ---
-title: "My research question"
-author: "Your name"
+title: "Is Milan absorbing the North?"
+subtitle: "Milan, the old industrial triangle and the core–periphery model, 2008–2023"
+author: "Jacopo · Paper 7 Supervision 3"
+toc: false
 ---
 
-## Question
+**The question.** Is northern Italy collapsing into a single core around Milan, as the core–periphery model predicts, or did the old industrial cities (Turin, Genoa) stall because of what they specialised in? Or did the decline of their industries trigger the move towards Milan?
 
-<!-- Replace the title and author with your own details. -->
+## The answer
 
-## Evidence
+Northern Italy is not collapsing into a single core around Milan. Milan is the North's strongest labour market, and its lead in jobs has grown. But graduates and knowledge jobs, the mobile factors that the core–periphery model says should concentrate in the core, are no more concentrated in Milan today than they were in 2008 (knowledge jobs) or 2001 (graduates), and several other cities have grown alongside it. Turin's and Genoa's weaker performance is better explained by problems specific to each city than by Milan's pull.
 
-<!-- Add a chart, map or table here. -->
+::: {.tiles}
+::: {.tile}
+<div class="value">14.2% → 15.9%</div>
+<div class="label">Milan's share of northern jobs, 2008–2023</div>
+:::
+::: {.tile}
+<div class="value">2.20 → 2.19</div>
+<div class="label">Milan's knowledge jobs relative to population (home market ratio): flat</div>
+:::
+::: {.tile}
+<div class="value">+14 per 1,000</div>
+<div class="label">Turin's net gain of young graduates a year (northern average +9.5)</div>
+:::
+::: {.tile}
+<div class="value">r = −0.09</div>
+<div class="label">Manufacturing specialisation vs job growth, 47 northern provinces: no link</div>
+:::
+:::
 
-## Interpretation
+## The three hypotheses
 
-## Sources
+| | Hypothesis | Verdict |
+|---|---|---|
+| **A** | **Milan's pull.** Graduates and firms concentrate in Milan (Forslid–Ottaviano version of Krugman's core–periphery model) | <span class="verdict">Fails in its strong form</span>: Milan grows, but it does not absorb the North |
+| **B** | **Industry decline.** Turin and Genoa stalled because their industries declined | <span class="verdict">Holds only narrowly</span>: Turin's particular industry, not manufacturing as such |
+| **C** | **Shock, then amplification.** The industry decline came first, then Milan's pull made it worse | <span class="verdict">Timing fits, mechanism doesn't</span>: Turin declines after 2014, but shows no graduate outflow |
+
+The best overall account combines a narrow version of B for Turin with a separate, logistics-related decline for Genoa, while Milan grows alongside other cities rather than at their expense.
+
+## Explore the evidence
+
+- **[1. A single core?](part1.qmd)**: who gained share of jobs, knowledge jobs and graduates, and where young graduates move.
+- **[2. Industry decline?](part2.qmd)**: shift-share for any of the nine cities, and specialisation across the North.
+- **[Map](map.qmd)**: growth and specialisation across the 47 northern provinces.
+- **[Method & data](method.qmd)**: theory, hypotheses, tests, sources, limitations and how to reproduce everything.
+
+::: {.callout-note appearance="simple"}
+All charts are interactive: hover for exact values, and use the controls above each chart. The results describe patterns that are consistent with or against each hypothesis; they do not prove causes.
+:::

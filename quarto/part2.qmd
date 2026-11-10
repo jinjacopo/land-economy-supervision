@@ -1,0 +1,136 @@
+---
+title: "2. Did Turin and Genoa stall because of their industries?"
+subtitle: "Tests T5 (shift-share) and T6 (specialisation)"
+---
+
+{{< include _setup.qmd >}}
+
+```{ojs}
+//| output: false
+ss = FileAttachment("data/shift_share.csv").csv({typed: true})
+bySector = FileAttachment("data/shift_share_by_sector.csv").csv({typed: true})
+provinces = FileAttachment("data/provinces.csv").csv({typed: true})
+```
+
+**What we found.** Manufacturing in general does not explain slow growth. Turin's weakness instead has a specific timing and a specific sector. Between 2008 and 2014, Turin matched Italy's performance, with services offsetting manufacturing losses. After 2014 it fell behind within sectors: manufacturing employment ran 14,300 jobs below national trends and ICT ran 11,200 below. The manufacturing gap is most likely the car industry, although the sector data cannot isolate it. Genoa's decline is of a different kind. Its −5.2% local effect after 2014 is concentrated in trade, transport and hotels (−15,600 jobs), a group that includes the port and logistics.
+
+## Shift-share: bad luck or bad performance?
+
+Shift-share splits the change in a city's jobs over a period into three parts:
+
+$$\Delta E_{city} = \text{National effect} + \text{Industry-mix effect} + \text{Local effect}$$
+
+- **National effect:** the jobs the city would have gained if every one of its industries had grown at the Italian average.
+- **Industry-mix effect (hypothesis B):** the extra gain or loss from having industries that did well or badly nationally.
+- **Local effect (where Milan's pull, hypothesis A, would show up):** how the city did *within* the same industries compared with Italy.
+
+```{ojs}
+viewof city = Inputs.select(cities, {label: "City", value: "Turin"})
+```
+
+```{ojs}
+//| output: false
+components = ["National effect", "Industry-mix effect (B)", "Local effect (A)", "Actual change"]
+ssData = ss.filter(d => d.city === city).flatMap(d => [
+  {period: d.period, component: "National effect", value: d.national_pct},
+  {period: d.period, component: "Industry-mix effect (B)", value: d.industry_mix_pct},
+  {period: d.period, component: "Local effect (A)", value: d.local_pct},
+  {period: d.period, component: "Actual change", value: d.actual_change_pct}
+])
+```
+
+```{ojs}
+Plot.plot({
+  width,  // the page width, so text stays readable on phones
+  height: 320, marginLeft: 150, marginRight: 100,
+  x: {label: "% of the city's jobs at the start of the period →", grid: true},
+  y: {label: null, domain: components},
+  fy: {label: null, domain: ["2008-2014", "2014-2023"], axis: "right", tickFormat: d => d.replace("-", "–")},
+  color: {domain: components, range: ["#86b6ef", "#eb6834", "#2a78d6", "#52514e"]},
+  marks: [
+    Plot.barX(ssData, {x: "value", y: "component", fy: "period", fill: "component",
+      tip: {format: {x: "+.1f", fill: false}}}),
+    Plot.text(ssData, {x: d => Math.max(d.value, 0), y: "component", fy: "period", text: d => pct(d.value),
+      textAnchor: "start", dx: 5, fill: "currentColor"}),
+    Plot.ruleX([0])
+  ]
+})
+```
+
+```{ojs}
+html`<div class="chart-note">Without finance, ${city}'s local effect is ${ss.filter(d => d.city === city).map(d => `${pct(d.local_without_finance_pct)}% in ${d.period.replace("-", "–")}`).join(" and ")}. Reference: Italy. 11 sectors, with manufacturing separate from the rest of industry. Source: Eurostat.</div>`
+```
+
+### Which sectors drive it?
+
+```{ojs}
+viewof period = Inputs.radio(["2008-2014", "2014-2023"], {label: "Period", value: "2014-2023"})
+```
+
+```{ojs}
+//| output: false
+sectorData = bySector.filter(d => d.city === city && d.period === period).flatMap(d => [
+  {sector: d.sector, effect: "Industry-mix effect (B)", value: d.industry_mix_thousand_jobs},
+  {sector: d.sector, effect: "Local effect (A)", value: d.local_thousand_jobs}
+])
+```
+
+```{ojs}
+Plot.plot({
+  width,  // the page width, so text stays readable on phones
+  height: 420, marginLeft: 200,
+  x: {label: "thousand jobs →", grid: true},
+  y: {label: null, domain: d3.sort(bySector.filter(d => d.city === city && d.period === period),
+        d => d.local_thousand_jobs).map(d => d.sector)},
+  fx: {label: null, domain: ["Industry-mix effect (B)", "Local effect (A)"]},
+  color: {type: "diverging", domain: [-1, 1], range: ["#e34948", "#2a78d6"]},
+  marks: [
+    Plot.barX(sectorData, {x: "value", y: "sector", fx: "effect", fill: d => Math.sign(d.value),
+      tip: {format: {x: "+.1f", fill: false}}}),
+    Plot.ruleX([0])
+  ]
+})
+```
+
+::: {.chart-note}
+Blue: more jobs than Italian trends imply; red: fewer. Sectors are sorted by their local effect. Turin's finance jobs (+14,900 local effect in 2014–23) almost double after 2017 for reasons we could not establish.
+:::
+
+## Did manufacturing-specialised provinces grow less?
+
+Manufacturing specialisation in 2008 is uncorrelated with job growth from 2008 to 2023 across the 47 northern provinces (r = −0.09). Verona (1.29) and Padua (1.40) are more specialised in manufacturing than Turin (1.21), and Bologna about as specialised (1.19), yet they grew about 11–15% while Turin grew 3%.
+
+```{ojs}
+viewof highlight = Inputs.checkbox(cities, {label: "Label", value: ["Milan", "Turin", "Genoa", "Bologna", "Verona", "Padua"]})
+```
+
+```{ojs}
+Plot.plot({
+  width,  // the page width, so text stays readable on phones
+  height: 440, grid: true,
+  x: {label: "manufacturing specialisation in 2008 (location quotient; 1 = Italian average) →"},
+  y: {label: "↑ job growth 2008–2023, %"},
+  marks: [
+    Plot.ruleY([0]),
+    Plot.ruleX([1], {strokeOpacity: 0.3}),
+    Plot.linearRegressionY(provinces, {x: "manufacturing_lq_2008", y: "jobs_growth", ci: 0,
+      stroke: "currentColor", strokeOpacity: 0.5, strokeDasharray: "5 4"}),
+    Plot.dot(provinces, {x: "manufacturing_lq_2008", y: "jobs_growth", r: 5,
+      fill: d => highlight.includes(d.province) ? colourOf[d.province] : "#86b6ef",
+      stroke: "white", strokeWidth: 1,
+      channels: {Province: "province"},
+      tip: {format: {Province: true, x: ".2f", y: "+.1f", fill: false}}}),
+    // labels on the right, except Bologna (it has a close neighbour on its right)
+    Plot.text(provinces.filter(d => highlight.includes(d.province) && d.province !== "Bologna"),
+      {x: "manufacturing_lq_2008", y: "jobs_growth", text: "province", dx: 8, textAnchor: "start", fill: "currentColor"}),
+    Plot.text(provinces.filter(d => highlight.includes(d.province) && d.province === "Bologna"),
+      {x: "manufacturing_lq_2008", y: "jobs_growth", text: "province", dx: -8, textAnchor: "end", fill: "currentColor"})
+  ]
+})
+```
+
+::: {.chart-note}
+Each dot is one of the 47 northern provinces; hover for its name. Dashed line: straight-line fit (correlation −0.09). "Manufacturing" is one broad sector in the data, so this cannot separate cars from machinery or food. Source: Eurostat.
+:::
+
+**Interpretation.** Hypothesis B holds only in a narrow form. Turin's problem lies in its particular industry, not in manufacturing as such. Turin's industry has historically been organised around one dominant car producer, while Bologna and the Veneto are known for networks of SMEs. This difference, which this project did not measure, may explain why similar levels of manufacturing specialisation produced different outcomes.

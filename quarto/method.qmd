@@ -1,0 +1,85 @@
+---
+title: "Method & data"
+subtitle: "Theory, hypotheses, tests, sources, limitations and reproducibility"
+---
+
+## Theory: the core–periphery model with mobile graduates
+
+The project uses Krugman's (1991) core–periphery model (Lectures 7–8) in the "footloose entrepreneur" version of Forslid and Ottaviano (2003):
+
+- **Graduates and knowledge workers are mobile.** They move to wherever their career prospects are better. Each firm needs skilled people, so firms move with them.
+- **Manufacturing workers with skills specific to one local industry, and the less mobile population, stay put.** Their spending keeps demand in the periphery.
+- **Mechanism:** when trading between regions gets cheaper, a small advantage grows through circular cumulative causation (more graduates → more firms → more varied jobs → more graduates). Past the break point, skilled workers and their firms concentrate in one region.
+- **Extensions used:** housing costs in the core as a force pushing activity out (Helpman, 1998); Martin's (1999) critique that the model ignores institutions and firm structure.
+
+## Hypotheses
+
+| | Hypothesis | Key prediction |
+|---|---|---|
+| **A** | Milan's pull (inside the model) | Graduates and knowledge jobs concentrate in Milan faster than people; other cities lose share |
+| **B** | Industry decline (a shock from outside the model) | Turin's and Genoa's losses come from the industries they had; specialised cities grow less |
+| **C** | Shock, then amplification | Industry losses first; then local decline and graduate outflow speed up |
+
+The predictions were written down before looking at the data. Full assumptions and predictions: [framework.md](https://github.com/jinjacopo/land-economy-supervision/blob/my-supervision/framework.md).
+
+## Tests
+
+| Test | What is measured | Page |
+|---|---|---|
+| T1, T4, T9 | Each city's share of northern jobs, knowledge jobs, population and GDP, 2008–2023 | [Part 1](part1.qmd) |
+| P4 | Home market ratio: knowledge-job share ÷ population share | [Part 1](part1.qmd) |
+| T2 | Graduate concentration: graduate share ÷ population share, censuses 2001, 2011, 2021 | [Part 1](part1.qmd) |
+| T3 | Net migration of young graduates, 2019–2023 | [Part 1](part1.qmd) |
+| T8 | Graduates produced by local universities vs graduates resident | [Part 1](part1.qmd) |
+| T5 | Shift-share (national, industry-mix and local effects), 2008–14 and 2014–23, reference Italy, 11 sectors | [Part 2](part2.qmd) |
+| T6 | Manufacturing location quotient in 2008 vs job growth 2008–23, 47 provinces | [Part 2](part2.qmd) |
+
+**Shift-share** is a standard method in regional economics (Dunn, 1960). The **location quotient** (Lectures 9–10) is a province's share of jobs in manufacturing divided by Italy's share.
+
+## Data
+
+| Data | Source | Years |
+|---|---|---|
+| Jobs by province and sector | Eurostat `nama_10r_3empers` | 2008–2023 |
+| Population and GDP by province | Eurostat `nama_10r_3popgdp`, `nama_10r_3gdp` | 2008–2023 |
+| Graduates by province | Censuses: Eurostat `cens_01rews` (2001); ISTAT (2011, 2021) | 2001, 2011, 2021 |
+| Net migration of graduates aged 25–39 | ISTAT, Bes dei territori 2025 (11RIC025) | 2019–2023 |
+| Graduates by university | Ministry of University (USTAT) | 2019–2023 |
+| Province boundaries | Eurostat GISCO, NUTS 2021 | 2021 |
+
+**Main choices:**
+
+- "Northern Italy" = the 47 provinces of the North-West and North-East.
+- Jobs and GDP use only 2008–2023, because the provincial job series has a methodological break in 2008.
+- Knowledge jobs = ICT + finance + professional and administrative services.
+- Census comparisons use shares only, with Milan and Monza combined.
+
+Full details: [sources.md](https://github.com/jinjacopo/land-economy-supervision/blob/my-supervision/sources.md).
+
+## Limitations
+
+- The car industry is hidden inside "manufacturing", so hypothesis B is inferred for Turin rather than measured.
+- Jobs data starts only in 2008.
+- Jobs are counted at the workplace and graduates at residence, so commuting into Milan blurs the comparison.
+- Turin's finance jobs almost double between 2017 and 2023 for reasons we could not establish (possibly a change in where a large bank registers its staff). Results that depend on finance are reported with and without it.
+- Graduate migration data covers only 2019–2023, so Turin's net gain of graduates is a recent snapshot.
+- The methods are descriptive: they show patterns consistent with or against each hypothesis, not proof of cause.
+
+**Next step.** The natural extension is to test the car industry directly, using ISTAT data on detailed sectors, so that hypothesis B for Turin is measured rather than inferred.
+
+## Reproduce it
+
+Everything is on the [`my-supervision` branch](https://github.com/jinjacopo/land-economy-supervision/tree/my-supervision): the Python scripts in `code/` download every dataset from the official sources and produce all tables, figures and the data used by this website. The steps, in order, are in [analysis.md](https://github.com/jinjacopo/land-economy-supervision/blob/my-supervision/analysis.md).
+
+## How this was made
+
+I used Claude Code (an AI assistant) for this project, as the brief allows. I set the question and chose the framework, the decisions and the conclusions. The AI wrote and ran the code, explained the methods and checked my numbers. Every step, including what I asked, what it contributed and what I checked, is recorded in [workflow.md](https://github.com/jinjacopo/land-economy-supervision/blob/my-supervision/workflow.md).
+
+## References
+
+- Brakman, S., Garretsen, H. and van Marrewijk, C. (2019) *An Introduction to Geographical and Urban Economics: A Spiky World*. 3rd edn. Cambridge: Cambridge University Press.
+- Dunn, E. S. (1960) 'A statistical and analytical technique for regional analysis', *Papers and Proceedings of the Regional Science Association*, 6, pp. 97–112.
+- Forslid, R. and Ottaviano, G. I. P. (2003) 'An analytically solvable core–periphery model', *Journal of Economic Geography*, 3(3), pp. 229–240.
+- Helpman, E. (1998) 'The size of regions', in Pines, D., Sadka, E. and Zilcha, I. (eds) *Topics in Public Economics*. Cambridge: Cambridge University Press, pp. 33–54.
+- Krugman, P. (1991) 'Increasing returns and economic geography', *Journal of Political Economy*, 99(3), pp. 483–499.
+- Martin, R. (1999) 'The new "geographical turn" in economics: some critical reflections', *Cambridge Journal of Economics*, 23(1), pp. 65–91.

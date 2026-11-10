@@ -1,0 +1,252 @@
+---
+title: "1. Is the North becoming a single core?"
+subtitle: "Tests T1–T4, T8, T9: who gains share, and who moves"
+---
+
+{{< include _setup.qmd >}}
+
+```{ojs}
+//| output: false
+shares = FileAttachment("data/shares.csv").csv({typed: true})
+census = FileAttachment("data/census_graduates.csv").csv({typed: true})
+mobility = FileAttachment("data/graduate_mobility.csv").csv({typed: true})
+trains = FileAttachment("data/trains_vs_keeps.csv").csv({typed: true})
+```
+
+**What the model predicts.** In the footloose-entrepreneur version of the core–periphery model, graduates are the mobile factor and firms follow them. If the North is tipping into a single core, Milan's share of graduates and knowledge jobs should rise faster than its share of people, and the other cities should lose ground.
+
+**What we found.** Milan's share of northern jobs rose from 14.2% to 15.9% between 2008 and 2023. That is about twice the relative increase in its population share (11.2% to 11.8%), and Milan beat national trends in almost every sector. However, its home market ratio for knowledge jobs barely moved (2.20 in 2008, 2.19 in 2023), and its graduate concentration ratio did not rise (1.36 in 2001, 1.32 in 2021). Bologna, Verona and Padua all increased their share of northern jobs (+5% to +9%) and knowledge jobs (+7% to +13%).
+
+## Who gained share of northern Italy?
+
+```{ojs}
+viewof measure = Inputs.select(
+  ["Jobs", "Knowledge jobs", "Knowledge jobs (without finance)", "Population", "GDP"],
+  {label: "Measure", value: "Jobs"})
+viewof shown = Inputs.checkbox(cities, {label: "Cities", value: ["Milan", "Turin", "Genoa", "Bologna"]})
+viewof scale = Inputs.radio(["Share of northern Italy (%)", "Index (2008 = 100)"],
+  {label: "Show as", value: "Share of northern Italy (%)"})
+```
+
+```{ojs}
+//| output: false
+lineData = {
+  const rows = shares.filter(d => d.measure === measure && shown.includes(d.province));
+  if (scale.startsWith("Share")) return rows.map(d => ({...d, value: d.share}));
+  const base = new Map(rows.filter(d => d.year === 2008).map(d => [d.province, d.share]));
+  return rows.map(d => ({...d, value: d.share / base.get(d.province) * 100}));
+}
+```
+
+```{ojs}
+Plot.plot({
+  width,  // the page width, so text stays readable on phones
+  height: 380, marginRight: 110,
+  x: {label: null, tickFormat: "d"},
+  y: {label: scale, grid: true, zero: scale.startsWith("Share")},
+  color: {...colourFor(shown), legend: true},
+  marks: [
+    scale.startsWith("Index") ? Plot.ruleY([100], {strokeOpacity: 0.4, strokeDasharray: "4 3"}) : null,
+    Plot.lineY(lineData, {x: "year", y: "value", stroke: "province", strokeWidth: 2,
+      tip: {format: {x: "d", y: ".2f", stroke: true}}}),
+    Plot.text(lineData, Plot.selectLast({x: "year", y: "value", z: "province", text: "province",
+      textAnchor: "start", dx: 6, fill: "currentColor"}))
+  ]
+})
+```
+
+::: {.chart-note}
+Northern Italy = 47 provinces. Knowledge jobs = ICT + finance + professional and administrative services. Years before 2008 are not used because of a break in the provincial series. Source: Eurostat.
+:::
+
+```{ojs}
+viewof noFinance = Inputs.toggle({label: "Exclude finance from knowledge jobs", value: false})
+```
+
+```{ojs}
+//| output: false
+changeData = {
+  const k = noFinance ? "Knowledge jobs (without finance)" : "Knowledge jobs";
+  const out = [];
+  for (const c of cities) for (const m of ["Jobs", k, "Population"]) {
+    const at = y => shares.find(d => d.province === c && d.measure === m && d.year === y).share;
+    out.push({city: c, measure: m.startsWith("Knowledge") ? "Knowledge jobs" : m,
+              change: (at(2023) / at(2008) - 1) * 100});
+  }
+  return out;
+}
+```
+
+```{ojs}
+Plot.plot({
+  width,  // the page width, so text stays readable on phones
+  height: 560, marginLeft: 110,
+  x: {label: "% change in the city's share of northern Italy, 2008–2023 →", grid: true},
+  y: {axis: null, domain: ["Jobs", "Knowledge jobs", "Population"]},
+  fy: {label: null, domain: cities, axis: "left"},
+  color: {domain: ["Jobs", "Knowledge jobs", "Population"], range: ["#2a78d6", "#eb6834", "#1baf7a"], legend: true},
+  marks: [
+    Plot.barX(changeData, {x: "change", y: "measure", fy: "city", fill: "measure",
+      tip: {format: {x: "+.1f", fy: true, fill: true, y: false}}}),
+    Plot.ruleX([0])
+  ]
+})
+```
+
+::: {.chart-note}
+Above 0: the city's share grew. With finance excluded, Turin's knowledge-job share falls (−6%) instead of rising (+5%): Turin's finance jobs almost double between 2017 and 2023 for reasons we could not establish.
+:::
+
+## Are knowledge jobs concentrating in Milan?
+
+The **home market ratio** is a city's share of northern knowledge jobs divided by its share of northern population. Above 1, the city has more than its "fair share" of knowledge firms; a rising ratio would mean concentration is increasing, as the model predicts for the core.
+
+```{ojs}
+viewof shownHM = Inputs.checkbox(cities, {label: "Cities", value: ["Milan", "Turin", "Genoa", "Bologna"]})
+viewof noFinanceHM = Inputs.toggle({label: "Exclude finance", value: false})
+```
+
+```{ojs}
+//| output: false
+hmData = {
+  const k = noFinanceHM ? "Knowledge jobs (without finance)" : "Knowledge jobs";
+  const pop = new Map(shares.filter(d => d.measure === "Population").map(d => [d.province + d.year, d.share]));
+  return shares.filter(d => d.measure === k && shownHM.includes(d.province))
+    .map(d => ({province: d.province, year: d.year, ratio: d.share / pop.get(d.province + d.year)}));
+}
+```
+
+```{ojs}
+Plot.plot({
+  width,  // the page width, so text stays readable on phones
+  height: 360, marginRight: 110,
+  x: {label: null, tickFormat: "d"},
+  y: {label: "share of knowledge jobs ÷ share of population", grid: true, zero: true},
+  color: {...colourFor(shownHM), legend: true},
+  marks: [
+    Plot.ruleY([1], {strokeOpacity: 0.5, strokeDasharray: "4 3"}),
+    Plot.lineY(hmData, {x: "year", y: "ratio", stroke: "province", strokeWidth: 2,
+      tip: {format: {x: "d", y: ".2f", stroke: true}}}),
+    Plot.text(hmData, Plot.selectLast({x: "year", y: "ratio", z: "province", text: "province",
+      textAnchor: "start", dx: 6, fill: "currentColor"}))
+  ]
+})
+```
+
+::: {.chart-note}
+Milan has about twice its "fair share" of knowledge jobs, but the gap has not widened since 2008.
+:::
+
+## Are graduates concentrating in Milan?
+
+The censuses of 2001, 2011 and 2021 count graduates by province. The ratio below is each city's share of northern graduates divided by its share of northern population.
+
+```{ojs}
+//| output: false
+censusCities = ["Milan area", "Turin", "Genoa", "Bologna", "Verona", "Padua", "Bergamo", "Brescia"]
+```
+
+```{ojs}
+viewof shownC = Inputs.checkbox(censusCities, {label: "Cities", value: ["Milan area", "Turin", "Genoa", "Bologna"]})
+```
+
+```{ojs}
+Plot.plot({
+  width,  // the page width, so text stays readable on phones
+  height: 340, marginRight: 110,
+  x: {label: null, tickFormat: "d", ticks: [2001, 2011, 2021]},
+  y: {label: "share of graduates ÷ share of population", grid: true, zero: true},
+  color: {...colourFor(shownC), legend: true},
+  marks: [
+    Plot.ruleY([1], {strokeOpacity: 0.5, strokeDasharray: "4 3"}),
+    Plot.lineY(census.filter(d => shownC.includes(d.city)), {x: "year", y: "graduate_concentration",
+      stroke: "city", strokeWidth: 2, marker: "circle",
+      tip: {format: {x: "d", y: ".2f", stroke: true}}}),
+    Plot.text(census.filter(d => shownC.includes(d.city)), Plot.selectLast({x: "year", y: "graduate_concentration",
+      z: "city", text: "city", textAnchor: "start", dx: 8, fill: "currentColor"}))
+  ]
+})
+```
+
+::: {.chart-note}
+Milan area = Milan + Monza (Monza was part of Milan in 2001). Graduate definitions differ slightly between censuses, so only shares are compared. As more people everywhere get degrees, these ratios naturally drift towards 1. Sources: Eurostat (2001), ISTAT (2011, 2021).
+:::
+
+## Where do young graduates move?
+
+Bologna attracts more young graduates relative to its graduate population than Milan does (+40 against +36 per 1,000). Turin also gains young graduates on net (+14 per 1,000, above the northern average of +9.5).
+
+```{ojs}
+viewof yearM = Inputs.select(["Average 2019–2023", "2019", "2020", "2021", "2022", "2023"], {label: "Year"})
+```
+
+```{ojs}
+//| output: false
+mobData = {
+  const pick = c => {
+    const rows = mobility.filter(d => d.city === c && (yearM === "Average 2019–2023" || d.year === +yearM));
+    return d3.mean(rows, d => d.net_per_1000);
+  };
+  return {cities: cities.map(c => ({city: c, value: pick(c)})), north: pick("Northern Italy")};
+}
+```
+
+```{ojs}
+Plot.plot({
+  width,  // the page width, so text stays readable on phones
+  height: 380, marginLeft: 110, marginRight: 50,
+  x: {label: "net graduates gained (+) or lost (−) per 1,000 resident graduates →", grid: true},
+  y: {label: null, domain: cities},
+  marks: [
+    Plot.barX(mobData.cities, {x: "value", y: "city", fill: d => colourOf[d.city],
+      tip: {format: {x: "+.1f", fill: false}}}),
+    Plot.text(mobData.cities, {x: d => Math.max(d.value, 0), y: "city", text: d => pct(d.value),
+      textAnchor: "start", dx: 5, fill: "currentColor"}),
+    Plot.ruleX([0]),
+    Plot.ruleX([mobData.north], {strokeDasharray: "4 3", strokeOpacity: 0.6}),
+    Plot.text([`northern Italy ${pct(mobData.north)}`], {x: mobData.north, frameAnchor: "top",
+      textAnchor: "start", dx: 4, dy: -2, fill: "currentColor", fontSize: 11})
+  ]
+})
+```
+
+::: {.chart-note}
+Italian graduates aged 25–39; includes moves within Italy and abroad; 2023 provisional. Source: ISTAT, Bes dei territori 2025 (indicator 11RIC025).
+:::
+
+## Turin trains, Milan employs?
+
+Every big university city produces more graduates than it keeps as residents, so Turin does not stand out from Milan here.
+
+```{ojs}
+//| output: false
+trainsLong = trains.flatMap(d => [
+  {city: d.city, what: "Graduates produced by local universities", value: d.share_of_graduates_produced_pct},
+  {city: d.city, what: "Graduates aged 25–49 living there", value: d.share_of_resident_graduates_25_49_pct}
+])
+```
+
+```{ojs}
+Plot.plot({
+  width,  // the page width, so text stays readable on phones
+  height: 360,
+  x: {axis: null, domain: ["Graduates produced by local universities", "Graduates aged 25–49 living there"]},
+  fx: {label: null, domain: trains.map(d => d.city)},
+  y: {label: "% of northern Italy", grid: true},
+  color: {domain: ["Graduates produced by local universities", "Graduates aged 25–49 living there"],
+          range: ["#2a78d6", "#eb6834"], legend: true},
+  marks: [
+    Plot.barY(trainsLong, {x: "what", y: "value", fx: "city", fill: "what",
+      tip: {format: {y: ".1f", x: false, fx: true, fill: true}}}),
+    Plot.ruleY([0])
+  ]
+})
+```
+
+::: {.chart-note}
+Produced: average 2019–2023, northern universities, online universities excluded (Ministry of University). Resident: census 2021 (ISTAT). Residence is not place of work.
+:::
+
+## Around Milan: a place to live, not to work
+
+Where Milan does reshape its surroundings, it does so as a place to live rather than to work. Monza, Bergamo and Brescia gained population share but lost 6–8% of their knowledge-job share (select them in the first chart, or tick them above). This is consistent with Milan's housing costs pushing residents outwards while the jobs stay in the city, although housing costs were not measured here.

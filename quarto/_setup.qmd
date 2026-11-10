@@ -1,0 +1,14 @@
+```{ojs}
+//| output: false
+// Shared settings for all pages: the nine cities and their fixed colours
+// (a city keeps the same colour in every chart).
+cities = ["Milan", "Turin", "Genoa", "Bologna", "Verona", "Padua", "Monza-Brianza", "Bergamo", "Brescia"]
+colourOf = ({
+  "Milan": "#2a78d6", "Milan area": "#2a78d6", "Turin": "#eb6834", "Genoa": "#1baf7a",
+  "Bologna": "#eda100", "Verona": "#e87ba4", "Padua": "#008300",
+  "Monza-Brianza": "#4a3aa7", "Bergamo": "#e34948", "Brescia": "#898781",
+  "Northern Italy": "#898781", "Italy": "#898781"
+})
+colourFor = (list) => ({domain: list, range: list.map(c => colourOf[c])})
+pct = v => d3.format("+.1f")(Math.abs(v) < 0.05 ? 0 : v)  // no "−0.0"
+```

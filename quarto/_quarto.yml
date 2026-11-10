@@ -1,7 +1,39 @@
 project:
   type: website
-  render:
-    - index.qmd
+  output-dir: _site
+  resources:
+    - data/
+
+website:
+  title: "Is Milan absorbing the North?"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Answer
+      - href: part1.qmd
+        text: "1. A single core?"
+      - href: part2.qmd
+        text: "2. Industry decline?"
+      - href: map.qmd
+        text: Map
+      - href: method.qmd
+        text: "Method & data"
+    right:
+      - icon: github
+        href: https://github.com/jinjacopo/land-economy-supervision/tree/my-supervision
+        aria-label: Code and data on GitHub
+  page-footer:
+    left: "Jacopo · Paper 7: Regional Economics and Policy · Supervision 3"
+    right: "Data: Eurostat, ISTAT, Ministry of University · Code on [GitHub](https://github.com/jinjacopo/land-economy-supervision/tree/my-supervision)"
+
 format:
   html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
     toc: true
+    toc-location: right
+
+execute:
+  echo: false
