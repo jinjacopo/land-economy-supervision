@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.Rhistory
+.RData
+data/raw/
+.quarto/
+_site/
+**/*.quarto_ipynb
